@@ -1,0 +1,1801 @@
+candidate_id,name,source_channel,application_date,role_level,department,has_events
+1176,Baiju Hora,Naukri,2023-01-01,Lead,Finance,True
+1380,Ivan Wagle,Glassdoor,2023-01-01,Senior,Engineering,True
+908,Divyansh Rajan,Naukri,2023-01-01,Junior,Operations,True
+48,Saira Vora,Indeed,2023-01-01,Senior,Sales,True
+1372,Shray Dutta,Company Website,2023-01-01,Mid,Finance,True
+1134,Inaaya  Chopra,LinkedIn,2023-01-01,Mid,Sales,True
+42,Eva Dass,Employee Referral,2023-01-02,Mid,Sales,True
+1519,Hiran Chaudhry,Indeed,2023-01-02,Junior,Product,True
+158,Parinaaz Upadhyay,LinkedIn,2023-01-03,Senior,Finance,True
+630,Samar Bawa,LinkedIn,2023-01-03,Junior,Finance,True
+480,Biju Khatri,Glassdoor,2023-01-04,Junior,Sales,True
+1617,Zaina Mangat,Campus Placement,2023-01-05,Junior,Marketing,True
+1757,Neelofar Maharaj,Glassdoor,2023-01-05,Mid,Product,True
+595,Sahil Mammen,Naukri,2023-01-05,Mid,Marketing,True
+1054,Pihu Sodhi,Naukri,2023-01-06,Junior,Marketing,True
+1792,Nitara Dar,Indeed,2023-01-06,Lead,Engineering,True
+1298,Taimur Hora,LinkedIn,2023-01-07,Mid,Operations,True
+1016,Seher Hayer,Campus Placement,2023-01-07,Mid,Product,True
+1043,Advika Ganesh,LinkedIn,2023-01-08,Junior,Operations,True
+1137,Alisha Deep,LinkedIn,2023-01-08,Senior,Marketing,True
+1148,Drishya Yogi,Employee Referral,2023-01-09,Mid,Engineering,True
+1428,Arnav Kakar,LinkedIn,2023-01-09,Junior,Engineering,True
+651,Eshani Magar,Indeed,2023-01-09,Mid,Product,True
+1135,Ehsaan Shah,LinkedIn,2023-01-09,Lead,Product,True
+645,Mohanlal Kurian,Employee Referral,2023-01-10,Junior,Finance,True
+695,Tushar Grewal,LinkedIn,2023-01-10,Senior,Engineering,True
+869,Indrans Karan,Employee Referral,2023-01-10,Senior,Product,True
+956,Shalv Contractor,Company Website,2023-01-10,Junior,Finance,True
+1077,Dharmajan Bhardwaj,Naukri,2023-01-10,Senior,Marketing,True
+1610,Bhamini Virk,LinkedIn,2023-01-11,Junior,Engineering,True
+1215,Tarini Keer,Indeed,2023-01-12,Lead,Engineering,True
+456,Kanav Bhat,Employee Referral,2023-01-12,Senior,Finance,True
+674,Shayak Chander,Employee Referral,2023-01-12,Mid,Product,True
+92,Ivan Jani,Indeed,2023-01-13,Lead,Product,True
+794,Yashvi Yogi,Naukri,2023-01-13,Lead,Engineering,True
+877,Ivan Gade,LinkedIn,2023-01-14,Junior,Engineering,True
+113,Amira Dugar,LinkedIn,2023-01-15,Mid,Sales,True
+151,Anaya Choudhry,LinkedIn,2023-01-15,Lead,Engineering,True
+1466,Dishani Issac,Indeed,2023-01-15,Mid,Finance,True
+1270,Shamik Acharya,LinkedIn,2023-01-16,Senior,Product,True
+1032,Priyansh Koshy,LinkedIn,2023-01-17,Mid,Operations,True
+1797,Taimur Bahri,LinkedIn,2023-01-17,Mid,Engineering,True
+330,Adah Shah,LinkedIn,2023-01-17,Senior,Engineering,True
+1387,Ritvik Anne,LinkedIn,2023-01-17,Mid,Finance,True
+484,Samarth Ramanathan,Naukri,2023-01-17,Mid,Marketing,True
+1585,Nitara Sabharwal,Naukri,2023-01-18,Senior,Marketing,True
+907,Nakul Chauhan,Glassdoor,2023-01-19,Junior,Product,True
+1026,Veer Ahuja,Glassdoor,2023-01-20,Senior,Engineering,True
+1177,Samaira Sarma,LinkedIn,2023-01-20,Senior,Operations,True
+731,Shray Lad,Glassdoor,2023-01-20,Lead,Finance,True
+70,Khushi Choudhary,Instagram,2023-01-21,Lead,Product,True
+743,Charvi Walia,Indeed,2023-01-21,Lead,Engineering,True
+820,Riaan Bail,Naukri,2023-01-21,Junior,Product,True
+866,Prisha Bhargava,LinkedIn,2023-01-21,Junior,Finance,True
+83,Biju Jaggi,LinkedIn,2023-01-21,Mid,Marketing,True
+137,Keya Majumdar,Company Website,2023-01-22,Senior,Operations,True
+1538,Sahil Bhattacharyya,Naukri,2023-01-22,Senior,Marketing,True
+265,Nirvaan Sheth,LinkedIn,2023-01-22,Senior,Marketing,True
+1022,Ivana Mall,Company Website,2023-01-23,Mid,Engineering,True
+1662,Damini Madan,Employee Referral,2023-01-23,Senior,Product,True
+1119,Kartik Tandon,LinkedIn,2023-01-24,Mid,Finance,True
+966,Zain Biswas,Employee Referral,2023-01-25,Lead,Finance,True
+1517,Eva Dixit,Employee Referral,2023-01-25,Lead,Product,True
+1314,Jayan Mangat,LinkedIn,2023-01-25,Lead,Finance,True
+1229,Adira Bhardwaj,LinkedIn,2023-01-25,Senior,Marketing,True
+694,Lavanya Bose,Instagram,2023-01-25,Mid,Operations,True
+1431,Samar Seth,LinkedIn,2023-01-25,Junior,Engineering,True
+1334,Eva Gola,Naukri,2023-01-26,Lead,Operations,True
+1284,Rati Thakur,LinkedIn,2023-01-26,Mid,Product,True
+1458,Bhavin Kurian,LinkedIn,2023-01-26,Mid,Product,True
+366,Aarav Dhaliwal,Company Website,2023-01-27,Senior,Operations,True
+245,Vanya Tank,Glassdoor,2023-01-27,Senior,Engineering,True
+87,Aarna Chand,LinkedIn,2023-01-27,Senior,Operations,True
+572,Sumer Kulkarni,Employee Referral,2023-01-28,Lead,Finance,True
+1405,Lagan Chada,Glassdoor,2023-01-28,Senior,Product,True
+414,Mahika Sharma,LinkedIn,2023-01-28,Lead,Sales,True
+76,Samaira Wadhwa,Indeed,2023-01-28,Junior,Finance,True
+1074,Anahi Som,Employee Referral,2023-01-29,Lead,Engineering,True
+1653,Aaina Ramanathan,LinkedIn,2023-01-29,Junior,Marketing,True
+1320,Arhaan Rana,Employee Referral,2023-01-30,Mid,Marketing,True
+150,Vaibhav Viswanathan,Naukri,2023-01-30,Mid,Finance,True
+1612,Samarth Dara,Employee Referral,2023-01-30,Junior,Marketing,True
+1638,Emir Datta,Instagram,2023-01-31,Junior,Finance,True
+999,Jivika Dara,Company Website,2023-02-01,Lead,Operations,True
+382,Dhanuk Keer,Naukri,2023-02-01,Lead,Finance,True
+248,Vivaan Sehgal,LinkedIn,2023-02-01,Junior,Finance,True
+226,Vihaan Rajagopalan,Indeed,2023-02-01,Junior,Product,True
+976,Divit Lala,Company Website,2023-02-01,Lead,Marketing,True
+1381,Bhamini Wadhwa,Company Website,2023-02-01,Mid,Product,True
+610,Ahana  Ramaswamy,LinkedIn,2023-02-01,Mid,Sales,True
+1151,Rati Verma,Employee Referral,2023-02-02,Senior,Engineering,True
+1182,Ela Sangha,LinkedIn,2023-02-02,Mid,Engineering,True
+937,Pari Ramakrishnan,Employee Referral,2023-02-03,Senior,Product,True
+352,Reyansh Kanda,Instagram,2023-02-03,Mid,Finance,True
+1411,Tushar Chander,Company Website,2023-02-03,Senior,Engineering,True
+764,Charvi Apte,Naukri,2023-02-04,Senior,Engineering,True
+1156,Alisha Barad,LinkedIn,2023-02-04,Mid,Product,True
+485,Chirag Bhatnagar,LinkedIn,2023-02-04,Lead,Operations,True
+1702,Zeeshan Magar,Indeed,2023-02-05,Junior,Finance,True
+684,Stuvan Kapoor,LinkedIn,2023-02-06,Lead,Marketing,True
+1304,Gatik Ahuja,Indeed,2023-02-06,Junior,Sales,True
+1062,Devansh Kapur,LinkedIn,2023-02-06,Senior,Marketing,True
+337,Myra Talwar,Naukri,2023-02-07,Mid,Sales,True
+1000,Parinaaz Yadav,LinkedIn,2023-02-07,Senior,Operations,True
+864,Ryan Buch,Naukri,2023-02-08,Lead,Finance,True
+279,Anika Malhotra,Naukri,2023-02-08,Junior,Sales,True
+442,Farhan Boase,Employee Referral,2023-02-08,Mid,Product,True
+1446,Shanaya Khanna,Indeed,2023-02-08,Lead,Sales,True
+1333,Bhavin Tailor,Naukri,2023-02-08,Mid,Engineering,True
+286,Raghav Sengupta,Indeed,2023-02-10,Mid,Finance,True
+1171,Aaryahi Chaudhuri,LinkedIn,2023-02-10,Lead,Finance,True
+502,Oorja Bhat,Naukri,2023-02-10,Junior,Marketing,True
+192,Bhamini Iyengar,LinkedIn,2023-02-10,Senior,Product,True
+82,Pari Sachdeva,Indeed,2023-02-11,Junior,Marketing,True
+1475,Madhup Sabharwal,Campus Placement,2023-02-11,Mid,Engineering,True
+1776,Aradhya Majumdar,Naukri,2023-02-11,Senior,Product,True
+1274,Hridaan Sawhney,Naukri,2023-02-12,Lead,Finance,True
+282,Purab Dua,Indeed,2023-02-12,Lead,Operations,True
+1216,Advik Raj,LinkedIn,2023-02-12,Senior,Operations,True
+1164,Bhamini Desai,LinkedIn,2023-02-13,Lead,Finance,True
+262,Anahita Kamdar,Naukri,2023-02-13,Lead,Engineering,True
+1688,Ritvik Kapur,Indeed,2023-02-13,Lead,Engineering,True
+1159,Amani Kohli,Indeed,2023-02-13,Junior,Sales,True
+225,Gokul Rastogi,Naukri,2023-02-14,Senior,Product,True
+1489,Jhanvi Sabharwal,LinkedIn,2023-02-14,Junior,Finance,True
+1289,Alisha Kaul,Indeed,2023-02-14,Mid,Sales,True
+329,Advika Baria,Campus Placement,2023-02-14,Lead,Sales,True
+682,Alia Ramachandran,Naukri,2023-02-15,Junior,Marketing,True
+1745,Parinaaz Wali,LinkedIn,2023-02-15,Mid,Product,True
+589,Chirag Gala,LinkedIn,2023-02-15,Junior,Engineering,True
+1782,Dishani Raval,LinkedIn,2023-02-16,Junior,Operations,True
+1787,Neysa Soman,Company Website,2023-02-16,Junior,Product,True
+1465,Tushar Tata,LinkedIn,2023-02-16,Mid,Finance,True
+1739,Tarini Kanda,Campus Placement,2023-02-16,Junior,Sales,True
+688,Dhanuk Sampath,Company Website,2023-02-17,Lead,Engineering,True
+1010,Ishita Guha,Campus Placement,2023-02-17,Junior,Finance,True
+635,Alia Randhawa,Employee Referral,2023-02-17,Junior,Finance,True
+919,Biju Mallick,Employee Referral,2023-02-17,Junior,Product,True
+1104,Sumer Uppal,LinkedIn,2023-02-18,Lead,Engineering,True
+1544,Shlok Yohannan,Glassdoor,2023-02-18,Mid,Sales,True
+338,Divij Keer,Naukri,2023-02-18,Senior,Sales,True
+865,Piya Krishnamurthy,LinkedIn,2023-02-19,Junior,Finance,True
+486,Misha Ravel,Employee Referral,2023-02-19,Mid,Finance,True
+521,Uthkarsh Kadakia,Instagram,2023-02-19,Junior,Product,True
+921,Ivana Kota,LinkedIn,2023-02-19,Lead,Operations,True
+1278,Kavya Batta,Naukri,2023-02-20,Mid,Sales,True
+772,Tarini Jaggi,LinkedIn,2023-02-20,Lead,Operations,True
+817,Reyansh Bhat,LinkedIn,2023-02-20,Mid,Operations,True
+1146,Samarth Sarraf,LinkedIn,2023-02-20,Junior,Marketing,True
+252,Yashvi Mandal,LinkedIn,2023-02-20,Junior,Sales,True
+189,Anika Ramaswamy,Indeed,2023-02-20,Lead,Sales,True
+811,Manjari Khurana,LinkedIn,2023-02-21,Senior,Finance,True
+722,Kashvi Bansal,Instagram,2023-02-21,Mid,Operations,True
+59,Darshit Sidhu,Naukri,2023-02-21,Mid,Engineering,True
+117,Stuvan Wadhwa,LinkedIn,2023-02-22,Senior,Product,True
+19,Lakshay Sampath,Campus Placement,2023-02-22,Junior,Finance,True
+1291,Trisha Chawla,LinkedIn,2023-02-22,Lead,Sales,True
+401,Mehul Kashyap,LinkedIn,2023-02-22,Mid,Sales,True
+949,Anahita Bawa,Campus Placement,2023-02-22,Senior,Product,True
+148,Zaina Sami,Naukri,2023-02-22,Mid,Sales,True
+289,Jayesh Dora,Employee Referral,2023-02-23,Senior,Engineering,True
+687,Navya Sule,Employee Referral,2023-02-23,Mid,Marketing,True
+222,Adira Kibe,LinkedIn,2023-02-23,Mid,Finance,True
+81,Anahita Venkatesh,Employee Referral,2023-02-23,Senior,Marketing,True
+1714,Drishya Suri,LinkedIn,2023-02-23,Mid,Finance,True
+119,Indranil Kanda,LinkedIn,2023-02-24,Mid,Marketing,True
+934,Alisha Vaidya,Naukri,2023-02-24,Junior,Marketing,True
+1240,Purab Lala,Indeed,2023-02-24,Lead,Finance,True
+900,Rohan Kata,Campus Placement,2023-02-25,Junior,Finance,True
+1750,Ryan Cheema,LinkedIn,2023-02-25,Mid,Marketing,True
+985,Uthkarsh Majumdar,LinkedIn,2023-02-25,Lead,Finance,True
+659,Inaaya  Gara,Naukri,2023-02-25,Mid,Product,True
+114,Aayush Karnik,LinkedIn,2023-02-25,Senior,Finance,True
+1560,Romil Kade,LinkedIn,2023-02-26,Mid,Operations,True
+672,Adira Walia,Indeed,2023-02-26,Senior,Finance,True
+257,Ayesha Bera,LinkedIn,2023-02-26,Junior,Marketing,True
+679,Inaaya  Din,Naukri,2023-02-26,Lead,Operations,True
+1452,Shanaya Kant,LinkedIn,2023-02-26,Junior,Sales,True
+373,Azad Dutt,Naukri,2023-02-26,Junior,Operations,True
+488,Amani Krishnan,LinkedIn,2023-02-27,Mid,Operations,True
+176,Mannat Mane,LinkedIn,2023-02-27,Senior,Sales,True
+1324,Veer Biswas,Campus Placement,2023-02-27,Senior,Operations,True
+807,Jhanvi Gaba,Company Website,2023-02-27,Mid,Engineering,True
+1564,Diya Sem,Indeed,2023-02-27,Senior,Product,True
+1698,Ayesha Subramanian,Company Website,2023-02-27,Lead,Operations,True
+348,Zain Bala,Indeed,2023-02-28,Junior,Finance,True
+890,Darshit Keer,Employee Referral,2023-03-02,Mid,Engineering,True
+520,Divij Shenoy,Glassdoor,2023-03-02,Junior,Engineering,True
+1105,Miraya Chadha,Employee Referral,2023-03-03,Mid,Sales,True
+1439,Vedika Dhar,Naukri,2023-03-03,Senior,Sales,True
+1502,Piya Loke,LinkedIn,2023-03-03,Senior,Marketing,True
+665,Azad Sule,LinkedIn,2023-03-03,Lead,Operations,True
+385,Pari Varughese,LinkedIn,2023-03-03,Mid,Product,True
+1371,Shanaya Barad,Indeed,2023-03-04,Junior,Marketing,True
+492,Zain Gara,LinkedIn,2023-03-04,Mid,Finance,True
+2,Tara Swaminathan,Employee Referral,2023-03-04,Senior,Engineering,True
+1379,Veer Kanda,Company Website,2023-03-05,Senior,Operations,True
+702,Prerak Soman,Indeed,2023-03-05,Lead,Finance,True
+284,Saksham Bhasin,LinkedIn,2023-03-05,Lead,Engineering,True
+936,Baiju Desai,LinkedIn,2023-03-05,Senior,Marketing,True
+972,Abram Anand,Employee Referral,2023-03-06,Junior,Finance,True
+1178,Aaryahi Sagar,LinkedIn,2023-03-06,Lead,Marketing,True
+596,Nayantara Sule,LinkedIn,2023-03-06,Junior,Operations,True
+1690,Jayant Shah,LinkedIn,2023-03-07,Lead,Sales,True
+474,Eshani Bhandari,LinkedIn,2023-03-07,Junior,Engineering,True
+1468,Umang Konda,Indeed,2023-03-07,Junior,Engineering,True
+1680,Vaibhav Hari,LinkedIn,2023-03-07,Mid,Product,True
+827,Nirvaan Bakshi,LinkedIn,2023-03-07,Senior,Sales,True
+118,Nirvaan Goyal,LinkedIn,2023-03-08,Lead,Product,True
+1358,Indranil Setty,Naukri,2023-03-08,Lead,Engineering,True
+1306,Kiaan Tata,Company Website,2023-03-08,Senior,Product,True
+1532,Aarush Bahl,Indeed,2023-03-09,Mid,Product,True
+368,Indrajit Kapoor,Campus Placement,2023-03-09,Senior,Product,True
+963,Kabir Walia,Indeed,2023-03-09,Mid,Finance,True
+1241,Prerak Sawhney,Instagram,2023-03-10,Lead,Finance,True
+792,Tushar Gandhi,Campus Placement,2023-03-10,Junior,Product,True
+1670,Priyansh Sheth,LinkedIn,2023-03-10,Lead,Product,True
+1525,Aarush Kara,Naukri,2023-03-10,Mid,Marketing,True
+1181,Hansh Rajagopalan,LinkedIn,2023-03-10,Junior,Marketing,True
+664,Armaan Din,LinkedIn,2023-03-11,Junior,Sales,True
+1639,Kanav Bhasin,LinkedIn,2023-03-11,Lead,Finance,True
+1449,Ranbir Upadhyay,Naukri,2023-03-13,Mid,Engineering,True
+1440,Zain Deo,LinkedIn,2023-03-13,Lead,Marketing,True
+1186,Devansh Contractor,LinkedIn,2023-03-14,Junior,Marketing,True
+842,Siya Viswanathan,Naukri,2023-03-14,Lead,Marketing,True
+1444,Armaan Hora,LinkedIn,2023-03-14,Senior,Product,True
+647,Aaryahi Acharya,LinkedIn,2023-03-14,Mid,Product,True
+1153,Nishith Sidhu,Employee Referral,2023-03-15,Lead,Marketing,True
+131,Shamik Solanki,Company Website,2023-03-15,Junior,Marketing,True
+747,Prisha Balan,Company Website,2023-03-16,Senior,Finance,True
+10,Uthkarsh Baral,Campus Placement,2023-03-16,Junior,Product,True
+1737,Riaan Srivastava,Indeed,2023-03-16,Junior,Operations,True
+473,Gokul Shanker,LinkedIn,2023-03-16,Junior,Product,True
+55,Advik Bhalla,Company Website,2023-03-16,Lead,Product,True
+1070,Suhana Gandhi,Naukri,2023-03-16,Senior,Sales,True
+370,Amani Dyal,Company Website,2023-03-17,Mid,Sales,True
+360,Zeeshan Tiwari,LinkedIn,2023-03-17,Lead,Marketing,True
+183,Nirvi Basak,Indeed,2023-03-17,Lead,Sales,True
+402,Amira Datta,Indeed,2023-03-17,Lead,Operations,True
+902,Nishith Karpe,Company Website,2023-03-18,Lead,Sales,True
+126,Saanvi Garg,LinkedIn,2023-03-18,Mid,Engineering,True
+944,Vivaan Dar,Glassdoor,2023-03-18,Mid,Marketing,True
+719,Chirag Dubey,Indeed,2023-03-18,Junior,Engineering,True
+879,Saanvi Manne,Company Website,2023-03-18,Junior,Sales,True
+1667,Elakshi Bera,Indeed,2023-03-19,Mid,Sales,True
+274,Prisha Khanna,LinkedIn,2023-03-19,Mid,Finance,True
+1534,Samarth Shukla,Instagram,2023-03-20,Junior,Marketing,True
+678,Dhanush Kale,LinkedIn,2023-03-20,Lead,Product,True
+998,Dhanuk Doctor,Campus Placement,2023-03-20,Junior,Engineering,True
+1017,Taran Bera,LinkedIn,2023-03-20,Senior,Marketing,True
+1599,Anya Kohli,Naukri,2023-03-20,Junior,Marketing,True
+1590,Yakshit Kari,LinkedIn,2023-03-20,Mid,Finance,True
+1642,Tanya Johal,Indeed,2023-03-20,Lead,Product,True
+280,Aarna Sharma,Company Website,2023-03-20,Junior,Operations,True
+1671,Reyansh Sanghvi,LinkedIn,2023-03-20,Senior,Operations,True
+270,Shlok Dey,Company Website,2023-03-20,Junior,Operations,True
+1399,Miraan Bava,Indeed,2023-03-21,Senior,Operations,True
+756,Nishith Bobal,LinkedIn,2023-03-21,Mid,Sales,True
+465,Raghav Varughese,Employee Referral,2023-03-21,Junior,Engineering,True
+263,Samarth Varkey,Naukri,2023-03-21,Senior,Operations,True
+1013,Yasmin Dasgupta,Naukri,2023-03-21,Senior,Product,True
+1210,Nakul Krish,Campus Placement,2023-03-21,Senior,Product,True
+1112,Kashvi Handa,Naukri,2023-03-22,Lead,Operations,True
+668,Ojas Badami,LinkedIn,2023-03-22,Mid,Marketing,True
+431,Parinaaz Sengupta,LinkedIn,2023-03-22,Senior,Product,True
+376,Bhamini Badami,Campus Placement,2023-03-22,Senior,Marketing,True
+543,Damini Mammen,LinkedIn,2023-03-22,Senior,Engineering,True
+1396,Shalv Chauhan,Naukri,2023-03-23,Mid,Finance,True
+320,Prerak Subramaniam,LinkedIn,2023-03-23,Junior,Sales,True
+1187,Dhruv Setty,Indeed,2023-03-23,Lead,Finance,True
+1779,Heer Chaudhari,Naukri,2023-03-23,Lead,Sales,True
+4,Ranbir Brahmbhatt,Instagram,2023-03-24,Mid,Engineering,True
+170,Saira Yogi,Employee Referral,2023-03-24,Senior,Finance,True
+532,Shray Kale,LinkedIn,2023-03-24,Junior,Engineering,True
+1477,Nehmat Jayaraman,Campus Placement,2023-03-24,Junior,Engineering,True
+66,Advika Yogi,LinkedIn,2023-03-24,Mid,Marketing,True
+464,Vedika Yohannan,Employee Referral,2023-03-25,Lead,Operations,True
+125,Purab Dhaliwal,LinkedIn,2023-03-25,Mid,Marketing,True
+80,Sumer Kakar,LinkedIn,2023-03-25,Lead,Engineering,True
+996,Advik Chawla,LinkedIn,2023-03-25,Senior,Marketing,True
+316,Riaan Babu,Naukri,2023-03-25,Senior,Marketing,True
+667,Drishya Issac,Employee Referral,2023-03-26,Mid,Sales,True
+342,Reyansh Saini,LinkedIn,2023-03-26,Lead,Engineering,True
+1513,Anahi Varghese,Naukri,2023-03-27,Junior,Finance,True
+1689,Pihu Barad,LinkedIn,2023-03-27,Senior,Operations,True
+1658,Riya Shan,LinkedIn,2023-03-28,Junior,Sales,True
+294,Ehsaan Viswanathan,Employee Referral,2023-03-28,Senior,Operations,True
+251,Piya Rama,LinkedIn,2023-03-28,Junior,Marketing,True
+51,Navya Kulkarni,LinkedIn,2023-03-28,Senior,Operations,True
+327,Prisha Doshi,Naukri,2023-03-29,Senior,Engineering,True
+585,Tejas Grewal,Naukri,2023-03-29,Junior,Finance,True
+102,Damini Varkey,Instagram,2023-03-29,Mid,Finance,True
+578,Alisha Tailor,Employee Referral,2023-03-29,Junior,Marketing,True
+1222,Ranbir Barman,Naukri,2023-03-29,Lead,Operations,True
+1232,Fateh Ahuja,Naukri,2023-03-29,Junior,Finance,True
+237,Vanya Sachdev,LinkedIn,2023-03-29,Junior,Product,True
+1629,Saanvi Saha,Naukri,2023-03-29,Junior,Marketing,True
+1570,Ira Kothari,Company Website,2023-03-30,Mid,Marketing,True
+1433,Ishita Gaba,Instagram,2023-03-30,Mid,Product,True
+1351,Saanvi Chakrabarti,Naukri,2023-03-30,Lead,Product,True
+97,Reyansh Kakar,Company Website,2023-03-30,Senior,Product,True
+1340,Jayesh Dani,Instagram,2023-03-31,Senior,Product,True
+967,Darshit Sathe,LinkedIn,2023-03-31,Junior,Engineering,True
+144,Miraan Venkatesh,LinkedIn,2023-04-01,Senior,Sales,True
+1398,Nitara Dhaliwal,LinkedIn,2023-04-01,Mid,Product,True
+850,Neelofar Dave,Company Website,2023-04-01,Mid,Operations,True
+805,Sara Seth,Employee Referral,2023-04-02,Mid,Product,True
+441,Rati Dora,Indeed,2023-04-02,Mid,Operations,True
+1227,Samiha Vaidya,Campus Placement,2023-04-02,Junior,Finance,True
+1478,Vanya Sinha,LinkedIn,2023-04-02,Senior,Product,True
+1066,Emir Sodhi,Employee Referral,2023-04-03,Senior,Finance,True
+1219,Dishani Dhar,Indeed,2023-04-03,Mid,Product,True
+1003,Damini Sharma,Naukri,2023-04-03,Lead,Sales,True
+742,Miraya Reddy,Naukri,2023-04-03,Junior,Marketing,True
+1515,Anaya Walia,LinkedIn,2023-04-03,Junior,Product,True
+1691,Uthkarsh Bahri,Employee Referral,2023-04-03,Lead,Finance,True
+136,Inaaya  Badami,LinkedIn,2023-04-04,Mid,Finance,True
+1166,Jivika Varkey,LinkedIn,2023-04-04,Senior,Finance,True
+1669,Oorja Bala,Indeed,2023-04-05,Junior,Operations,True
+1209,Bhamini Hans,Company Website,2023-04-05,Lead,Operations,True
+1354,Urvi Bhakta,Indeed,2023-04-06,Lead,Engineering,True
+767,Badal Bakshi,LinkedIn,2023-04-06,Senior,Operations,True
+628,Miraan Hans,Company Website,2023-04-06,Lead,Operations,True
+1591,Veer Sant,LinkedIn,2023-04-07,Mid,Operations,True
+1157,Yuvaan Kurian,Employee Referral,2023-04-07,Mid,Product,True
+1783,Kavya Mann,Naukri,2023-04-07,Lead,Finance,True
+643,Chirag Bhakta,LinkedIn,2023-04-08,Junior,Marketing,True
+1485,Madhav Kaul,Glassdoor,2023-04-08,Senior,Operations,True
+883,Amani Manda,Employee Referral,2023-04-08,Junior,Engineering,True
+1211,Eva Walia,LinkedIn,2023-04-08,Senior,Engineering,True
+1106,Mannat Rajagopal,Naukri,2023-04-09,Lead,Finance,True
+962,Jayan Boase,LinkedIn,2023-04-09,Mid,Operations,True
+913,Hiran Krishnamurthy,Naukri,2023-04-10,Mid,Engineering,True
+391,Ahana  Chacko,LinkedIn,2023-04-10,Junior,Sales,True
+1191,Nayantara Sandhu,Instagram,2023-04-10,Junior,Finance,True
+1655,Ritvik Kara,LinkedIn,2023-04-10,Lead,Sales,True
+1040,Romil Aggarwal,Indeed,2023-04-11,Lead,Marketing,True
+1337,Hazel Tandon,Employee Referral,2023-04-11,Mid,Marketing,True
+803,Zain Sant,Company Website,2023-04-11,Mid,Marketing,True
+174,Aaina Salvi,LinkedIn,2023-04-11,Junior,Product,True
+1496,Nitara Dutta,LinkedIn,2023-04-11,Mid,Finance,True
+581,Alisha Behl,LinkedIn,2023-04-11,Senior,Marketing,True
+1424,Damini Mangal,LinkedIn,2023-04-11,Senior,Finance,True
+1244,Tushar Brar,Naukri,2023-04-12,Senior,Product,True
+317,Reyansh Sastry,LinkedIn,2023-04-12,Senior,Marketing,True
+124,Shanaya Malhotra,Instagram,2023-04-12,Mid,Finance,True
+1615,Yuvaan Taneja,Indeed,2023-04-12,Junior,Operations,True
+1183,Aayush Agrawal,Naukri,2023-04-12,Junior,Operations,True
+436,Keya Halder,LinkedIn,2023-04-13,Lead,Sales,True
+1052,Farhan Manda,Instagram,2023-04-13,Mid,Operations,True
+437,Emir Sandal,Employee Referral,2023-04-13,Mid,Engineering,True
+881,Zoya Bala,Naukri,2023-04-13,Mid,Engineering,True
+11,Mishti Ranganathan,Indeed,2023-04-13,Junior,Operations,True
+796,Neysa Srinivas,Indeed,2023-04-14,Senior,Operations,True
+301,Indrajit Borde,Company Website,2023-04-14,Junior,Finance,True
+553,Adira Uppal,Employee Referral,2023-04-15,Mid,Engineering,True
+648,Nakul Mangal,LinkedIn,2023-04-15,Junior,Sales,True
+1630,Saanvi Kara,Naukri,2023-04-15,Mid,Engineering,True
+1341,Zara Shan,Campus Placement,2023-04-16,Senior,Engineering,True
+1121,Yuvraj  Sani,LinkedIn,2023-04-16,Junior,Engineering,True
+331,Lavanya Dass,LinkedIn,2023-04-17,Senior,Marketing,True
+765,Vihaan Krishnan,LinkedIn,2023-04-18,Junior,Sales,True
+267,Shayak Atwal,Naukri,2023-04-19,Mid,Product,True
+1761,Shalv Gokhale,Indeed,2023-04-19,Senior,Marketing,True
+445,Heer Bir,LinkedIn,2023-04-20,Senior,Sales,True
+1696,Indrans Edwin,LinkedIn,2023-04-20,Mid,Marketing,True
+1456,Yuvraj  Shanker,Employee Referral,2023-04-20,Senior,Product,True
+1361,Rhea Mand,Company Website,2023-04-20,Senior,Operations,True
+186,Pari Dubey,Company Website,2023-04-20,Mid,Product,True
+16,Vaibhav Dewan,LinkedIn,2023-04-20,Mid,Sales,True
+1168,Azad Bawa,Indeed,2023-04-20,Mid,Product,True
+399,Miraya Sanghvi,LinkedIn,2023-04-21,Lead,Marketing,True
+31,Vivaan Wagle,Company Website,2023-04-21,Lead,Engineering,True
+202,Ira Kapoor,Instagram,2023-04-21,Mid,Product,True
+760,Kashvi Sen,LinkedIn,2023-04-21,Junior,Engineering,True
+590,Ivana Sane,Company Website,2023-04-22,Mid,Finance,True
+706,Devansh Kara,LinkedIn,2023-04-22,Mid,Engineering,True
+418,Miraya Dass,Instagram,2023-04-23,Mid,Engineering,True
+413,Raghav Agrawal,LinkedIn,2023-04-23,Lead,Operations,True
+1622,Armaan Mallick,LinkedIn,2023-04-23,Mid,Product,True
+1234,Charvi Ghose,LinkedIn,2023-04-24,Senior,Product,True
+1606,Anya Ghose,Employee Referral,2023-04-25,Junior,Engineering,True
+1408,Anaya Konda,LinkedIn,2023-04-25,Mid,Operations,True
+483,Devansh Yogi,LinkedIn,2023-04-26,Junior,Finance,True
+1699,Devansh Srinivasan,Naukri,2023-04-26,Senior,Operations,True
+1487,Keya Behl,LinkedIn,2023-04-26,Mid,Finance,True
+223,Vidur Ganguly,Naukri,2023-04-27,Junior,Product,True
+152,Amira Gill,LinkedIn,2023-04-27,Lead,Engineering,True
+1020,Ehsaan Bhatti,Company Website,2023-04-27,Lead,Finance,True
+84,Yasmin Venkataraman,LinkedIn,2023-04-28,Mid,Product,True
+86,Heer Kapur,Indeed,2023-04-28,Mid,Sales,True
+197,Badal Mallick,Company Website,2023-04-28,Lead,Engineering,True
+232,Tara Wable,Company Website,2023-04-28,Mid,Product,True
+1339,Sumer Tripathi,Company Website,2023-04-29,Junior,Sales,True
+681,Nitara Divan,Campus Placement,2023-04-29,Mid,Finance,True
+1624,Diya Mand,LinkedIn,2023-04-29,Lead,Sales,True
+777,Tarini Maharaj,Naukri,2023-04-29,Senior,Product,True
+1752,Ishaan Chanda,Naukri,2023-04-29,Lead,Engineering,True
+1493,Raghav De,Naukri,2023-04-29,Junior,Marketing,True
+1415,Indrajit Shetty,Indeed,2023-04-29,Junior,Marketing,True
+1558,Anika Sarna,Employee Referral,2023-04-30,Senior,Engineering,True
+617,Ishaan Taneja,Company Website,2023-05-01,Mid,Marketing,True
+602,Kartik Chowdhury,LinkedIn,2023-05-01,Mid,Sales,True
+357,Anahi Bhargava,Naukri,2023-05-01,Senior,Sales,True
+872,Tarini Dasgupta,Naukri,2023-05-01,Senior,Engineering,True
+971,Aarush Lata,LinkedIn,2023-05-02,Junior,Finance,True
+1603,Oorja Vohra,LinkedIn,2023-05-02,Mid,Marketing,True
+1645,Amira Sahni,Glassdoor,2023-05-02,Lead,Product,True
+1019,Taran Sidhu,Employee Referral,2023-05-02,Mid,Product,True
+945,Urvi Dhaliwal,Employee Referral,2023-05-03,Lead,Engineering,True
+1163,Madhav Kala,Company Website,2023-05-03,Lead,Marketing,True
+259,Rhea Bose,LinkedIn,2023-05-03,Junior,Product,True
+1084,Azad Tailor,Employee Referral,2023-05-03,Junior,Finance,True
+646,Saanvi Bora,LinkedIn,2023-05-04,Lead,Finance,True
+1214,Tejas Mahajan,Naukri,2023-05-04,Mid,Finance,True
+1693,Hansh Buch,Employee Referral,2023-05-04,Senior,Product,True
+90,Badal Sachdev,Employee Referral,2023-05-04,Junior,Sales,True
+1760,Samaira Mannan,Employee Referral,2023-05-05,Lead,Sales,True
+390,Adira Bawa,LinkedIn,2023-05-06,Senior,Product,True
+813,Mamooty Dixit,Naukri,2023-05-07,Junior,Marketing,True
+311,Prerak Sahota,Company Website,2023-05-08,Senior,Engineering,True
+1386,Yasmin Vaidya,LinkedIn,2023-05-09,Mid,Engineering,True
+624,Adira Bath,Company Website,2023-05-10,Mid,Marketing,True
+1360,Nehmat Dutt,Employee Referral,2023-05-11,Junior,Product,True
+1780,Sana Wali,LinkedIn,2023-05-11,Senior,Marketing,True
+1089,Jhanvi Kala,LinkedIn,2023-05-12,Junior,Operations,True
+837,Tiya Basu,LinkedIn,2023-05-12,Senior,Finance,True
+923,Vedika Lala,Indeed,2023-05-12,Junior,Product,True
+372,Mehul Varty,Naukri,2023-05-12,Mid,Marketing,True
+1765,Alisha Gala,Glassdoor,2023-05-13,Mid,Engineering,True
+1605,Adah Sahota,LinkedIn,2023-05-14,Junior,Product,True
+1718,Ivan Som,Employee Referral,2023-05-14,Lead,Sales,True
+1036,Taran Dass,Naukri,2023-05-14,Junior,Finance,True
+21,Mahika Ravi,LinkedIn,2023-05-14,Senior,Marketing,True
+893,Umang Walla,Campus Placement,2023-05-14,Lead,Product,True
+1730,Alisha Rau,Naukri,2023-05-14,Lead,Marketing,True
+1223,Dhanush Kumer,Naukri,2023-05-14,Mid,Product,True
+220,Aaina Luthra,Company Website,2023-05-15,Junior,Sales,True
+1293,Fateh Bath,LinkedIn,2023-05-15,Mid,Engineering,True
+1256,Damini Samra,LinkedIn,2023-05-15,Mid,Finance,True
+1099,Amira Bhandari,Naukri,2023-05-15,Mid,Engineering,True
+302,Dharmajan Dash,LinkedIn,2023-05-15,Lead,Marketing,True
+1542,Samiha Lad,LinkedIn,2023-05-16,Senior,Marketing,True
+662,Zoya Bir,Instagram,2023-05-16,Lead,Operations,True
+1743,Yashvi Sur,Campus Placement,2023-05-16,Junior,Sales,True
+1537,Mamooty Saran,Naukri,2023-05-16,Lead,Sales,True
+644,Kimaya Loyal,Naukri,2023-05-16,Mid,Operations,True
+1741,Anika Brar,Employee Referral,2023-05-16,Junior,Operations,True
+1719,Mishti Bali,Naukri,2023-05-17,Senior,Marketing,True
+461,Darshit Thakkar,LinkedIn,2023-05-17,Lead,Marketing,True
+701,Ela Hari,LinkedIn,2023-05-17,Lead,Engineering,True
+478,Mannat Bains,Naukri,2023-05-17,Senior,Engineering,True
+650,Eshani Gole,Employee Referral,2023-05-17,Mid,Engineering,True
+1267,Indrajit Aggarwal,Company Website,2023-05-18,Lead,Finance,True
+860,Shalv Dora,Campus Placement,2023-05-18,Senior,Product,True
+207,Advika Barad,LinkedIn,2023-05-19,Lead,Product,True
+476,Drishya Rajagopalan,Naukri,2023-05-19,Lead,Sales,True
+1796,Sara Setty,LinkedIn,2023-05-19,Junior,Marketing,True
+1587,Misha Desai,Campus Placement,2023-05-19,Senior,Marketing,True
+1283,Saksham Suresh,Employee Referral,2023-05-19,Lead,Product,True
+1715,Aradhya Bains,Naukri,2023-05-20,Junior,Product,True
+1322,Zain Wadhwa,Company Website,2023-05-20,Lead,Marketing,True
+977,Nakul Char,Indeed,2023-05-20,Lead,Operations,True
+749,Anahi Chaudry,LinkedIn,2023-05-20,Mid,Finance,True
+566,Anahi Shroff,LinkedIn,2023-05-20,Senior,Sales,True
+729,Romil Butala,LinkedIn,2023-05-21,Lead,Marketing,True
+354,Rhea Buch,Employee Referral,2023-05-21,Senior,Product,True
+1574,Kaira Sami,Indeed,2023-05-21,Mid,Marketing,True
+871,Tanya Luthra,Indeed,2023-05-21,Lead,Engineering,True
+1471,Shray Bumb,Glassdoor,2023-05-21,Senior,Marketing,True
+1253,Zeeshan Sem,Campus Placement,2023-05-21,Junior,Finance,True
+421,Arhaan Mann,Employee Referral,2023-05-22,Mid,Operations,True
+309,Manjari Shankar,Company Website,2023-05-22,Senior,Engineering,True
+604,Vedika Bedi,Naukri,2023-05-22,Lead,Product,True
+574,Armaan Balakrishnan,Employee Referral,2023-05-23,Senior,Marketing,True
+559,Eva Kumer,Naukri,2023-05-23,Senior,Sales,True
+1601,Chirag De,Employee Referral,2023-05-23,Lead,Operations,True
+654,Umang Date,Campus Placement,2023-05-24,Junior,Operations,True
+205,Navya Devi,Naukri,2023-05-24,Junior,Engineering,True
+716,Anay Gole,LinkedIn,2023-05-24,Junior,Engineering,True
+1464,Renee Chaudhary,LinkedIn,2023-05-25,Lead,Finance,True
+292,Ishita Dhingra,Indeed,2023-05-25,Senior,Sales,True
+1237,Sana Wali,Naukri,2023-05-25,Junior,Product,True
+1473,Raunak Atwal,LinkedIn,2023-05-25,Lead,Marketing,True
+980,Amira Mandal,Campus Placement,2023-05-25,Junior,Engineering,True
+626,Anay Johal,Naukri,2023-05-26,Senior,Finance,True
+746,Rohan Karan,LinkedIn,2023-05-26,Junior,Operations,True
+1604,Ela Lal,Company Website,2023-05-26,Mid,Sales,True
+698,Saksham Sachar,Instagram,2023-05-26,Senior,Engineering,True
+1281,Adira Saini,Naukri,2023-05-26,Lead,Finance,True
+180,Anahita Kant,Campus Placement,2023-05-27,Mid,Product,True
+247,Sahil Mani,LinkedIn,2023-05-27,Lead,Engineering,True
+497,Darshit Bath,LinkedIn,2023-05-28,Lead,Engineering,True
+799,Hunar Tara,LinkedIn,2023-05-28,Lead,Engineering,True
+1594,Indranil Ben,Indeed,2023-05-28,Junior,Marketing,True
+978,Sumer Deol,LinkedIn,2023-05-28,Senior,Finance,True
+1356,Khushi Bedi,Instagram,2023-05-28,Senior,Sales,True
+1113,Kabir Kohli,LinkedIn,2023-05-29,Mid,Finance,True
+1798,Tara Kohli,LinkedIn,2023-05-29,Mid,Product,True
+1259,Raunak Soman,Glassdoor,2023-05-29,Mid,Sales,True
+218,Anvi Aggarwal,Company Website,2023-05-29,Mid,Operations,True
+1006,Shlok Ramakrishnan,Instagram,2023-05-30,Lead,Sales,True
+560,Urvi Ghosh,LinkedIn,2023-05-30,Junior,Marketing,True
+1152,Nishith Bora,Company Website,2023-05-30,Junior,Sales,True
+513,Mahika Saha,Company Website,2023-05-30,Junior,Sales,True
+430,Dhanuk Bobal,Instagram,2023-05-30,Senior,Engineering,True
+1261,Aayush Gour,LinkedIn,2023-05-30,Junior,Sales,True
+177,Yuvaan Mahal,Naukri,2023-05-30,Mid,Operations,True
+1732,Vidur Samra,LinkedIn,2023-05-30,Junior,Sales,True
+1586,Shalv Gola,Indeed,2023-05-30,Senior,Product,True
+1024,Sumer Malhotra,Naukri,2023-05-31,Junior,Marketing,True
+1233,Rati Ahluwalia,LinkedIn,2023-06-01,Senior,Engineering,True
+272,Dharmajan Dara,Instagram,2023-06-01,Mid,Engineering,True
+1800,Mehul Bail,Employee Referral,2023-06-01,Lead,Product,True
+229,Jivin Bakshi,LinkedIn,2023-06-01,Junior,Marketing,True
+795,Kimaya Khalsa,Naukri,2023-06-01,Junior,Engineering,True
+1535,Advik Sandhu,LinkedIn,2023-06-01,Lead,Marketing,True
+217,Tarini Mani,LinkedIn,2023-06-01,Junior,Sales,True
+1754,Kartik Bhandari,LinkedIn,2023-06-01,Junior,Sales,True
+57,Bhavin Dara,Naukri,2023-06-01,Junior,Engineering,True
+24,Purab Reddy,Indeed,2023-06-01,Lead,Marketing,True
+726,Tiya Bhattacharyya,Naukri,2023-06-02,Junior,Operations,True
+23,Ishaan Kashyap,LinkedIn,2023-06-02,Junior,Sales,True
+1463,Amani Bakshi,Company Website,2023-06-02,Mid,Engineering,True
+495,Nitya Datta,Naukri,2023-06-02,Senior,Product,True
+321,Aarna Bhandari,LinkedIn,2023-06-03,Lead,Engineering,True
+1101,Eva Reddy,LinkedIn,2023-06-03,Lead,Engineering,True
+1290,Yuvraj  Bhasin,Indeed,2023-06-03,Mid,Marketing,True
+291,Raghav Bajaj,Employee Referral,2023-06-03,Senior,Engineering,True
+844,Jiya Ramachandran,LinkedIn,2023-06-04,Mid,Marketing,True
+782,Kiaan Ramachandran,Indeed,2023-06-04,Junior,Engineering,True
+1749,Heer Mahal,Glassdoor,2023-06-04,Lead,Engineering,True
+165,Onkar Bains,Company Website,2023-06-05,Lead,Engineering,True
+67,Fateh Dasgupta,LinkedIn,2023-06-06,Mid,Engineering,True
+236,Stuvan Choudhury,LinkedIn,2023-06-06,Lead,Engineering,True
+1641,Saanvi Gara,Employee Referral,2023-06-06,Senior,Operations,True
+575,Reyansh Barad,LinkedIn,2023-06-07,Lead,Product,True
+1578,Amani Divan,Company Website,2023-06-07,Senior,Sales,True
+379,Divyansh Lall,Indeed,2023-06-07,Mid,Finance,True
+153,Yashvi Viswanathan,Indeed,2023-06-07,Lead,Finance,True
+1547,Advik Comar,Employee Referral,2023-06-07,Mid,Marketing,True
+1412,Azad Deep,Glassdoor,2023-06-07,Lead,Product,True
+1045,Rohan Dyal,Naukri,2023-06-08,Lead,Finance,True
+300,Kashvi Rau,Glassdoor,2023-06-08,Junior,Sales,True
+168,Nitya Gandhi,LinkedIn,2023-06-08,Junior,Product,True
+1777,Jayant Roy,Employee Referral,2023-06-08,Lead,Operations,True
+948,Drishya Wadhwa,Naukri,2023-06-08,Junior,Marketing,True
+242,Jivika Chopra,Naukri,2023-06-08,Lead,Marketing,True
+1124,Jivika Aurora,LinkedIn,2023-06-09,Junior,Finance,True
+1248,Nirvaan Bajaj,Naukri,2023-06-10,Junior,Sales,True
+1197,Madhav Bassi,LinkedIn,2023-06-11,Lead,Sales,True
+1717,Drishya Barman,LinkedIn,2023-06-11,Mid,Operations,True
+1018,Aarush Dube,LinkedIn,2023-06-11,Senior,Operations,True
+680,Ehsaan Baral,LinkedIn,2023-06-11,Senior,Engineering,True
+438,Anaya Arora,Instagram,2023-06-11,Lead,Finance,True
+637,Madhav Tiwari,Campus Placement,2023-06-11,Lead,Product,True
+1063,Keya Iyer,Indeed,2023-06-11,Junior,Sales,True
+62,Eva Viswanathan,Naukri,2023-06-12,Lead,Product,True
+736,Damini Rege,Glassdoor,2023-06-13,Junior,Marketing,True
+1005,Mehul Tripathi,LinkedIn,2023-06-13,Mid,Operations,True
+1708,Farhan Sami,Company Website,2023-06-14,Lead,Finance,True
+142,Vanya Mammen,LinkedIn,2023-06-14,Senior,Product,True
+935,Divij Loyal,LinkedIn,2023-06-14,Senior,Finance,True
+1023,Ehsaan Arya,LinkedIn,2023-06-14,Mid,Finance,True
+1174,Ojas Barman,Naukri,2023-06-14,Junior,Operations,True
+1516,Damini Bhasin,Employee Referral,2023-06-15,Lead,Operations,True
+1596,Jivin Ramaswamy,LinkedIn,2023-06-16,Junior,Marketing,True
+1551,Uthkarsh Vora,Naukri,2023-06-16,Senior,Engineering,True
+1286,Mehul Barad,LinkedIn,2023-06-17,Junior,Engineering,True
+1269,Myra Tripathi,Naukri,2023-06-17,Mid,Marketing,True
+1748,Kaira Raju,LinkedIn,2023-06-18,Senior,Finance,True
+769,Reyansh Loyal,Instagram,2023-06-18,Lead,Marketing,True
+467,Yasmin Chahal,Indeed,2023-06-18,Senior,Operations,True
+374,Renee Tak,LinkedIn,2023-06-18,Mid,Sales,True
+1474,Badal Bumb,Employee Referral,2023-06-18,Lead,Marketing,True
+915,Kashvi Ram,LinkedIn,2023-06-18,Lead,Marketing,True
+641,Badal Dar,Naukri,2023-06-19,Junior,Product,True
+303,Ivana Singhal,LinkedIn,2023-06-19,Lead,Engineering,True
+1328,Anvi Magar,Glassdoor,2023-06-19,Lead,Marketing,True
+1545,Taimur Sheth,LinkedIn,2023-06-20,Mid,Finance,True
+889,Rati Balay,Campus Placement,2023-06-20,Junior,Marketing,True
+757,Badal Dhillon,Glassdoor,2023-06-21,Junior,Finance,True
+849,Shalv Bumb,Employee Referral,2023-06-22,Mid,Product,True
+1724,Siya Sankar,LinkedIn,2023-06-22,Junior,Product,True
+1659,Krish Cheema,LinkedIn,2023-06-23,Junior,Operations,True
+1404,Krish Bava,Indeed,2023-06-23,Junior,Finance,True
+1742,Himmat Shenoy,LinkedIn,2023-06-23,Lead,Sales,True
+1726,Armaan Bassi,Instagram,2023-06-24,Junior,Engineering,True
+884,Jhanvi Kashyap,Company Website,2023-06-24,Senior,Sales,True
+776,Devansh Hans,LinkedIn,2023-06-24,Senior,Engineering,True
+836,Reyansh Roy,LinkedIn,2023-06-24,Mid,Sales,True
+1505,Ritvik Bava,Indeed,2023-06-24,Mid,Engineering,True
+534,Eshani Sama,Indeed,2023-06-25,Junior,Product,True
+663,Saanvi Soni,Naukri,2023-06-26,Lead,Engineering,True
+821,Riya Baral,Campus Placement,2023-06-27,Junior,Marketing,True
+1384,Vedika Venkatesh,LinkedIn,2023-06-27,Lead,Marketing,True
+605,Nitara Ganguly,LinkedIn,2023-06-27,Mid,Product,True
+1472,Siya Thakur,Employee Referral,2023-06-27,Senior,Engineering,True
+1110,Rania Bobal,Indeed,2023-06-28,Senior,Sales,True
+1091,Mohanlal Chanda,LinkedIn,2023-06-28,Lead,Engineering,True
+1012,Dharmajan Som,LinkedIn,2023-06-28,Lead,Finance,True
+219,Rohan Shetty,LinkedIn,2023-06-28,Junior,Finance,True
+47,Indranil Karan,Employee Referral,2023-06-28,Senior,Product,True
+364,Darshit Devi,Employee Referral,2023-06-28,Senior,Operations,True
+591,Raunak Date,LinkedIn,2023-06-28,Mid,Sales,True
+1481,Mamooty Date,LinkedIn,2023-06-28,Junior,Operations,True
+673,Shanaya Kannan,Employee Referral,2023-06-29,Junior,Engineering,True
+752,Yakshit Bhattacharyya,Indeed,2023-06-29,Lead,Sales,True
+138,Adah Bhatt,LinkedIn,2023-06-29,Lead,Operations,True
+260,Jayesh Sha,Employee Referral,2023-06-29,Mid,Product,True
+1492,Raghav Reddy,Employee Referral,2023-06-30,Mid,Engineering,True
+443,Armaan Doshi,Campus Placement,2023-06-30,Junior,Product,True
+94,Biju Butala,LinkedIn,2023-06-30,Senior,Operations,True
+28,Priyansh Bali,Company Website,2023-07-01,Lead,Engineering,True
+847,Himmat Varghese,LinkedIn,2023-07-01,Senior,Finance,True
+1034,Raghav Kade,Indeed,2023-07-01,Lead,Operations,True
+1130,Kaira Bhandari,Glassdoor,2023-07-01,Lead,Finance,True
+1647,Ishita Kalita,LinkedIn,2023-07-01,Senior,Finance,True
+1303,Zaina Sundaram,Employee Referral,2023-07-01,Lead,Finance,True
+930,Jhanvi Jhaveri,LinkedIn,2023-07-02,Senior,Finance,True
+1441,Neysa Kibe,Indeed,2023-07-02,Lead,Engineering,True
+1079,Amani Srinivasan,Indeed,2023-07-02,Lead,Sales,True
+1640,Madhav Karnik,LinkedIn,2023-07-03,Lead,Operations,True
+1196,Zain Randhawa,LinkedIn,2023-07-04,Lead,Operations,True
+1674,Lagan Shetty,Employee Referral,2023-07-04,Junior,Finance,True
+846,Nayantara Magar,Company Website,2023-07-04,Junior,Product,True
+1427,Zara Char,Employee Referral,2023-07-04,Senior,Operations,True
+1025,Kimaya Ram,LinkedIn,2023-07-04,Lead,Operations,True
+298,Anvi Bhandari,Naukri,2023-07-04,Mid,Sales,True
+178,Romil Dhar,Naukri,2023-07-04,Mid,Marketing,True
+343,Tara Maharaj,Naukri,2023-07-04,Senior,Sales,True
+1546,Ivan Tak,Indeed,2023-07-06,Mid,Finance,True
+1029,Kaira Lad,Company Website,2023-07-06,Senior,Marketing,True
+1143,Vardaniya Chauhan,Company Website,2023-07-06,Mid,Sales,True
+838,Hazel Shankar,Company Website,2023-07-07,Senior,Finance,True
+886,Onkar Taneja,Company Website,2023-07-07,Junior,Product,True
+1549,Sana Apte,LinkedIn,2023-07-08,Mid,Operations,True
+1268,Anay Dada,Indeed,2023-07-08,Lead,Product,True
+110,Pranay Chaudry,Employee Referral,2023-07-09,Mid,Marketing,True
+1264,Anahi Gour,LinkedIn,2023-07-09,Junior,Operations,True
+1434,Elakshi Karnik,Indeed,2023-07-09,Junior,Finance,True
+779,Gokul Bava,Indeed,2023-07-09,Senior,Product,True
+593,Stuvan Dubey,Indeed,2023-07-10,Lead,Product,True
+1775,Taimur Soman,Company Website,2023-07-10,Lead,Finance,True
+444,Farhan Bava,Company Website,2023-07-10,Senior,Engineering,True
+356,Divij Chowdhury,LinkedIn,2023-07-10,Lead,Operations,True
+725,Gokul Vyas,LinkedIn,2023-07-11,Senior,Sales,True
+606,Kimaya Guha,LinkedIn,2023-07-11,Senior,Product,True
+1675,Taimur Talwar,Employee Referral,2023-07-11,Lead,Marketing,True
+1790,Himmat Kata,Glassdoor,2023-07-11,Mid,Marketing,True
+861,Pranay Sachdeva,Naukri,2023-07-12,Mid,Product,True
+917,Nitara Lad,Indeed,2023-07-12,Junior,Product,True
+505,Kismat Dugal,LinkedIn,2023-07-14,Junior,Finance,True
+834,Anvi Sachdev,LinkedIn,2023-07-14,Senior,Finance,True
+41,Vaibhav Raju,Campus Placement,2023-07-14,Senior,Engineering,True
+1081,Anika Bava,Employee Referral,2023-07-14,Lead,Finance,True
+213,Zeeshan Jani,Naukri,2023-07-14,Junior,Product,True
+918,Zain Doctor,LinkedIn,2023-07-15,Senior,Engineering,True
+501,Khushi Mand,Indeed,2023-07-15,Junior,Sales,True
+1799,Chirag Deo,Company Website,2023-07-15,Junior,Sales,True
+156,Darshit Som,LinkedIn,2023-07-15,Mid,Engineering,True
+1683,Shanaya Dass,LinkedIn,2023-07-16,Junior,Marketing,True
+1616,Dhanush Karpe,LinkedIn,2023-07-16,Senior,Marketing,True
+109,Nirvi Manne,LinkedIn,2023-07-17,Senior,Engineering,True
+961,Amira Chad,LinkedIn,2023-07-17,Senior,Operations,True
+789,Kiara Ganguly,Glassdoor,2023-07-17,Mid,Engineering,True
+989,Neelofar Srinivasan,Indeed,2023-07-18,Senior,Product,True
+1426,Jayant Chacko,Employee Referral,2023-07-19,Senior,Finance,True
+56,Zara Dube,Campus Placement,2023-07-19,Lead,Product,True
+1068,Ivan Sabharwal,LinkedIn,2023-07-19,Lead,Product,True
+997,Suhana Tara,Campus Placement,2023-07-21,Senior,Finance,True
+594,Hansh Rajan,LinkedIn,2023-07-22,Lead,Operations,True
+273,Ayesha Mall,LinkedIn,2023-07-22,Mid,Operations,True
+1353,Khushi Sarraf,LinkedIn,2023-07-22,Junior,Product,True
+1631,Divit Sibal,Naukri,2023-07-23,Senior,Marketing,True
+1497,Saira Arya,Naukri,2023-07-24,Lead,Marketing,True
+335,Anaya Lad,LinkedIn,2023-07-24,Junior,Sales,True
+571,Yashvi Devan,Instagram,2023-07-24,Mid,Finance,True
+365,Shlok Subramaniam,LinkedIn,2023-07-25,Mid,Marketing,True
+567,Pihu Wadhwa,Indeed,2023-07-25,Lead,Sales,True
+810,Inaaya  Goel,LinkedIn,2023-07-25,Junior,Marketing,True
+1285,Samar Kara,Indeed,2023-07-26,Lead,Engineering,True
+1686,Tanya Raja,Campus Placement,2023-07-26,Mid,Sales,True
+744,Nayantara Dora,LinkedIn,2023-07-26,Mid,Sales,True
+941,Kanav Shanker,Employee Referral,2023-07-27,Lead,Marketing,True
+1257,Jayesh Choudhury,LinkedIn,2023-07-27,Mid,Sales,True
+1271,Sara Seth,LinkedIn,2023-07-27,Mid,Engineering,True
+1236,Siya Sridhar,Indeed,2023-07-28,Senior,Operations,True
+499,Shanaya Shankar,LinkedIn,2023-07-28,Senior,Finance,True
+507,Indrans Saha,Indeed,2023-07-29,Lead,Marketing,True
+658,Himmat Bains,Campus Placement,2023-07-30,Mid,Finance,True
+1611,Dhanuk Sheth,Campus Placement,2023-07-30,Mid,Marketing,True
+1044,Nehmat Rajan,LinkedIn,2023-07-30,Senior,Product,True
+1664,Jhanvi Khatri,LinkedIn,2023-07-30,Senior,Product,True
+468,Nitara Verma,Naukri,2023-07-30,Lead,Engineering,True
+819,Trisha Suri,LinkedIn,2023-07-31,Senior,Finance,True
+619,Ojas Bal,Indeed,2023-07-31,Mid,Engineering,True
+1315,Samaira Hora,Company Website,2023-08-01,Lead,Product,True
+1299,Parinaaz Doctor,LinkedIn,2023-08-01,Junior,Marketing,True
+216,Vidur Zachariah,LinkedIn,2023-08-01,Mid,Marketing,True
+876,Kaira Loyal,Indeed,2023-08-01,Lead,Sales,True
+1769,Jayan Agate,LinkedIn,2023-08-02,Mid,Product,True
+1527,Kashvi Singhal,Naukri,2023-08-03,Mid,Sales,True
+1490,Rohan Sani,Naukri,2023-08-03,Lead,Sales,True
+1308,Keya Raj,Naukri,2023-08-03,Mid,Operations,True
+17,Myra Tiwari,LinkedIn,2023-08-04,Senior,Marketing,True
+1414,Priyansh Manda,Indeed,2023-08-04,Senior,Engineering,True
+1021,Kabir Kale,Naukri,2023-08-04,Mid,Finance,True
+1097,Kashvi Behl,Naukri,2023-08-04,Lead,Finance,True
+1093,Vivaan Atwal,LinkedIn,2023-08-04,Lead,Operations,True
+258,Taran Ravi,LinkedIn,2023-08-05,Mid,Sales,True
+214,Hrishita Kaul,LinkedIn,2023-08-06,Junior,Engineering,True
+652,Vidur Vohra,Naukri,2023-08-07,Mid,Product,True
+50,Dishani Bera,Naukri,2023-08-07,Lead,Finance,True
+964,Eshani Badal,Indeed,2023-08-07,Lead,Engineering,True
+954,Pranay Malhotra,LinkedIn,2023-08-07,Senior,Sales,True
+1205,Nirvi Vora,Glassdoor,2023-08-08,Senior,Engineering,True
+358,Charvi Sehgal,Employee Referral,2023-08-08,Senior,Finance,True
+1200,Stuvan Kala,LinkedIn,2023-08-08,Lead,Operations,True
+818,Vivaan Tank,Company Website,2023-08-08,Mid,Finance,True
+1432,Dhruv Hari,Instagram,2023-08-11,Junior,Finance,True
+1,Zoya Virk,LinkedIn,2023-08-11,Junior,Operations,True
+503,Sumer Vohra,Company Website,2023-08-11,Lead,Marketing,True
+1161,Sana Karnik,Campus Placement,2023-08-12,Junior,Marketing,True
+1514,Anaya Bala,Employee Referral,2023-08-12,Mid,Sales,True
+614,Kartik Gour,Naukri,2023-08-12,Lead,Engineering,True
+523,Sahil Sen,LinkedIn,2023-08-12,Lead,Sales,True
+955,Ritvik Bose,Naukri,2023-08-12,Lead,Operations,True
+1430,Mishti Borah,Naukri,2023-08-13,Senior,Sales,True
+58,Dharmajan Setty,Employee Referral,2023-08-13,Mid,Finance,True
+734,Gokul Rattan,LinkedIn,2023-08-13,Junior,Sales,True
+1559,Lagan Saran,Naukri,2023-08-14,Lead,Sales,True
+951,Lagan Goyal,LinkedIn,2023-08-14,Mid,Operations,True
+1469,Jayesh Virk,Naukri,2023-08-14,Junior,Marketing,True
+755,Gatik Deol,Indeed,2023-08-15,Junior,Product,True
+1597,Vanya Gola,LinkedIn,2023-08-15,Mid,Operations,True
+32,Hridaan Deo,Company Website,2023-08-16,Mid,Product,True
+717,Anahita Suri,LinkedIn,2023-08-16,Mid,Marketing,True
+1509,Neysa Basu,Naukri,2023-08-16,Mid,Operations,True
+1014,Dharmajan Desai,Glassdoor,2023-08-17,Lead,Sales,True
+938,Devansh Chandra,LinkedIn,2023-08-18,Lead,Marketing,True
+862,Rania Dalal,LinkedIn,2023-08-18,Mid,Marketing,True
+1722,Lagan Luthra,Campus Placement,2023-08-18,Junior,Engineering,True
+1728,Ivana Banik,Naukri,2023-08-18,Mid,Marketing,True
+611,Suhana Shere,LinkedIn,2023-08-19,Senior,Marketing,True
+130,Raghav Bains,LinkedIn,2023-08-19,Mid,Sales,True
+1252,Mamooty Dyal,Instagram,2023-08-19,Mid,Sales,True
+375,Veer Saini,Instagram,2023-08-19,Senior,Operations,True
+53,Hrishita Sood,Employee Referral,2023-08-19,Mid,Marketing,True
+198,Gatik Kari,LinkedIn,2023-08-20,Lead,Operations,True
+244,Ivan Raman,Employee Referral,2023-08-20,Lead,Operations,True
+1132,Hrishita Tata,Naukri,2023-08-21,Junior,Product,True
+1543,Adira Wali,Company Website,2023-08-21,Lead,Sales,True
+1254,Purab Tella,Naukri,2023-08-21,Lead,Marketing,True
+33,Nishith Sharma,Naukri,2023-08-22,Mid,Engineering,True
+233,Ranbir Shetty,Naukri,2023-08-22,Lead,Sales,True
+415,Reyansh Soni,Glassdoor,2023-08-22,Junior,Operations,True
+1116,Saksham Upadhyay,LinkedIn,2023-08-22,Senior,Sales,True
+1723,Neelofar Taneja,Campus Placement,2023-08-23,Junior,Product,False
+515,Rati Singh,LinkedIn,2023-08-24,Lead,Operations,True
+190,Amani Johal,Employee Referral,2023-08-24,Senior,Marketing,True
+1051,Vedika Hegde,LinkedIn,2023-08-24,Lead,Finance,True
+261,Mannat Swamy,Indeed,2023-08-24,Senior,Engineering,True
+536,Kismat Bala,Campus Placement,2023-08-24,Mid,Finance,True
+1031,Hiran Desai,Indeed,2023-08-24,Lead,Product,True
+522,Shlok Brar,LinkedIn,2023-08-25,Junior,Finance,True
+1265,Trisha Soni,Indeed,2023-08-25,Mid,Marketing,True
+544,Devansh Issac,LinkedIn,2023-08-26,Junior,Sales,True
+699,Nishith Bhandari,LinkedIn,2023-08-26,Lead,Finance,True
+1539,Veer Krishnamurthy,LinkedIn,2023-08-26,Senior,Product,True
+1041,Shamik Trivedi,LinkedIn,2023-08-27,Junior,Sales,True
+1313,Arnav Kashyap,Company Website,2023-08-27,Senior,Marketing,True
+642,Navya Sundaram,Indeed,2023-08-28,Lead,Finance,True
+489,Divyansh Sundaram,Glassdoor,2023-08-28,Senior,Operations,True
+705,Krish Bhat,Naukri,2023-08-28,Junior,Marketing,True
+1231,Sahil Sama,LinkedIn,2023-08-28,Mid,Finance,True
+1008,Myra Deshpande,LinkedIn,2023-08-28,Junior,Finance,True
+988,Charvi Uppal,LinkedIn,2023-08-29,Junior,Sales,True
+5,Tarini Ganguly,Indeed,2023-08-29,Lead,Engineering,True
+1484,Stuvan Karpe,LinkedIn,2023-08-30,Mid,Engineering,True
+211,Veer Saran,Naukri,2023-08-30,Senior,Engineering,True
+1707,Jhanvi Tata,LinkedIn,2023-08-30,Senior,Marketing,True
+457,Divij Saini,Naukri,2023-08-30,Junior,Finance,True
+1682,Ishita Bala,Employee Referral,2023-08-30,Lead,Marketing,True
+1733,Hazel Aggarwal,Glassdoor,2023-08-30,Lead,Marketing,True
+1366,Trisha Mander,Company Website,2023-08-30,Mid,Finance,True
+1410,Kabir Goyal,LinkedIn,2023-08-30,Lead,Marketing,True
+1100,Oorja Venkataraman,Employee Referral,2023-08-30,Lead,Product,True
+1692,Ranbir Mall,Company Website,2023-08-30,Junior,Operations,True
+1393,Renee Aurora,Naukri,2023-08-31,Senior,Product,True
+1095,Vidur Agate,Indeed,2023-08-31,Senior,Product,True
+703,Renee Kapoor,Instagram,2023-08-31,Senior,Sales,True
+697,Eva Goswami,LinkedIn,2023-09-01,Lead,Product,True
+221,Aradhya Choudhary,Company Website,2023-09-01,Senior,Engineering,True
+1694,Aarush Gandhi,Campus Placement,2023-09-01,Junior,Sales,True
+322,Neelofar Borde,Employee Referral,2023-09-01,Senior,Engineering,True
+1413,Anahita Deep,Employee Referral,2023-09-01,Lead,Finance,True
+1296,Madhav Tiwari,Campus Placement,2023-09-01,Mid,Operations,True
+304,Mahika Raju,Naukri,2023-09-01,Lead,Operations,True
+1526,Lakshay Sidhu,Glassdoor,2023-09-02,Junior,Finance,True
+1004,Baiju Bawa,Naukri,2023-09-02,Mid,Operations,True
+670,Neysa Gandhi,Employee Referral,2023-09-02,Junior,Marketing,True
+1363,Uthkarsh Dube,Indeed,2023-09-02,Mid,Operations,True
+64,Riya Dugal,Naukri,2023-09-02,Senior,Product,True
+162,Shray Sethi,Company Website,2023-09-02,Lead,Marketing,True
+434,Abram Deo,LinkedIn,2023-09-03,Mid,Engineering,True
+1768,Zara Dugar,LinkedIn,2023-09-03,Lead,Engineering,True
+1703,Divij Ghosh,Campus Placement,2023-09-03,Senior,Operations,True
+541,Jayant Bhattacharyya,LinkedIn,2023-09-04,Lead,Finance,True
+103,Bhavin Kumar,Naukri,2023-09-04,Lead,Finance,True
+830,Saanvi Keer,Naukri,2023-09-04,Junior,Operations,True
+957,Jiya Thaman,LinkedIn,2023-09-04,Mid,Engineering,True
+660,Vanya Sani,Naukri,2023-09-04,Lead,Finance,True
+1082,Saira Sarin,LinkedIn,2023-09-05,Senior,Marketing,True
+325,Kimaya Shere,Naukri,2023-09-05,Mid,Sales,True
+89,Ahana  Swamy,LinkedIn,2023-09-06,Junior,Finance,True
+558,Dhanuk Kumer,Campus Placement,2023-09-06,Mid,Finance,True
+417,Madhup Ravi,Company Website,2023-09-06,Junior,Operations,True
+155,Yakshit Gala,Glassdoor,2023-09-07,Lead,Operations,True
+1073,Alia Grover,Indeed,2023-09-07,Senior,Product,True
+215,Biju Chauhan,Company Website,2023-09-07,Mid,Operations,True
+1581,Riaan Gole,Naukri,2023-09-08,Junior,Engineering,True
+13,Azad Sahota,Campus Placement,2023-09-08,Senior,Sales,True
+54,Kismat Edwin,LinkedIn,2023-09-08,Lead,Operations,True
+727,Damini Vig,Indeed,2023-09-09,Senior,Product,True
+693,Taran Handa,Campus Placement,2023-09-09,Mid,Engineering,True
+6,Divij Gupta,Instagram,2023-09-10,Junior,Operations,True
+992,Lakshit Yohannan,LinkedIn,2023-09-10,Mid,Finance,True
+1508,Pihu Yogi,Employee Referral,2023-09-10,Mid,Sales,True
+1700,Eshani Choudhary,Naukri,2023-09-10,Senior,Marketing,True
+1758,Riaan Sampath,Campus Placement,2023-09-10,Lead,Finance,True
+549,Riaan Bhandari,LinkedIn,2023-09-10,Junior,Engineering,True
+1657,Rati Mahal,Indeed,2023-09-11,Mid,Finance,True
+63,Lakshit Madan,LinkedIn,2023-09-11,Senior,Operations,True
+615,Anahi Sodhi,Employee Referral,2023-09-11,Senior,Engineering,True
+656,Shray Dara,Company Website,2023-09-11,Senior,Finance,True
+898,Eva Bhatt,Indeed,2023-09-12,Lead,Sales,True
+855,Dhruv Iyer,Employee Referral,2023-09-12,Mid,Finance,True
+1155,Mishti Johal,LinkedIn,2023-09-12,Lead,Product,True
+1193,Manjari Sachar,Indeed,2023-09-12,Mid,Operations,True
+30,Lakshit Sagar,Company Website,2023-09-12,Senior,Marketing,True
+925,Indrajit Doctor,Glassdoor,2023-09-12,Senior,Product,True
+715,Miraan Subramanian,Employee Referral,2023-09-13,Junior,Product,True
+26,Manikya Tara,LinkedIn,2023-09-13,Junior,Sales,True
+759,Indranil Talwar,LinkedIn,2023-09-13,Junior,Sales,True
+1208,Neelofar Bala,LinkedIn,2023-09-13,Mid,Sales,True
+1083,Samar Bandi,LinkedIn,2023-09-13,Senior,Marketing,True
+1154,Ayesha Bobal,LinkedIn,2023-09-14,Lead,Engineering,True
+191,Saanvi Sarin,Indeed,2023-09-14,Mid,Finance,True
+1072,Pranay Choudhry,Company Website,2023-09-14,Lead,Product,True
+1120,Jhanvi Krishnan,LinkedIn,2023-09-15,Junior,Marketing,True
+1673,Prisha Srinivasan,Naukri,2023-09-15,Lead,Finance,True
+968,Aayush Chopra,LinkedIn,2023-09-15,Junior,Operations,True
+984,Divij Jain,LinkedIn,2023-09-16,Mid,Engineering,True
+1784,Tiya Rajagopal,Employee Referral,2023-09-17,Senior,Sales,True
+1609,Dishani Vala,LinkedIn,2023-09-17,Junior,Engineering,True
+1294,Zara Sankar,Indeed,2023-09-17,Junior,Product,True
+1201,Vritika Boase,Campus Placement,2023-09-18,Senior,Product,True
+472,Jayant Deo,LinkedIn,2023-09-18,Junior,Finance,True
+947,Ryan De,Indeed,2023-09-19,Junior,Sales,True
+1185,Rania Bhatti,Indeed,2023-09-20,Junior,Sales,True
+1108,Fateh Dar,Indeed,2023-09-21,Senior,Engineering,True
+449,Ayesha Randhawa,Naukri,2023-09-21,Mid,Engineering,True
+100,Siya Dugar,LinkedIn,2023-09-22,Senior,Sales,True
+816,Jhanvi Sunder,Company Website,2023-09-22,Junior,Sales,True
+1687,Urvi Seshadri,LinkedIn,2023-09-22,Senior,Finance,True
+791,Anika Tandon,LinkedIn,2023-09-22,Senior,Finance,True
+969,Umang Balan,Company Website,2023-09-22,Lead,Product,True
+1791,Vivaan Gopal,LinkedIn,2023-09-23,Junior,Product,True
+1311,Zoya Bhatt,Company Website,2023-09-23,Senior,Marketing,True
+1751,Lakshit Jhaveri,LinkedIn,2023-09-24,Mid,Finance,True
+1725,Anay Karpe,Indeed,2023-09-24,Mid,Engineering,True
+1712,Veer Dave,Company Website,2023-09-25,Junior,Sales,True
+1046,Anvi Dugar,Indeed,2023-09-25,Lead,Operations,True
+37,Divij Shroff,Campus Placement,2023-09-25,Mid,Operations,True
+1069,Jivika Roy,Indeed,2023-09-25,Mid,Product,True
+201,Manjari Tandon,Employee Referral,2023-09-26,Lead,Finance,True
+781,Ivana Goswami,Naukri,2023-09-27,Mid,Sales,True
+874,Dhanuk Manda,LinkedIn,2023-09-27,Mid,Sales,True
+1747,Gatik Bail,LinkedIn,2023-09-27,Senior,Operations,True
+129,Baiju Batra,Employee Referral,2023-09-28,Mid,Product,True
+424,Jayant Chaudhry,Naukri,2023-09-28,Lead,Marketing,True
+946,Anahita Loke,Naukri,2023-09-28,Mid,Marketing,True
+18,Ishaan Goyal,Employee Referral,2023-09-28,Lead,Sales,True
+771,Prerak Seth,Naukri,2023-09-29,Senior,Sales,True
+709,Nitya Ghose,LinkedIn,2023-09-29,Junior,Engineering,True
+38,Faiyaz Bose,Instagram,2023-09-29,Junior,Engineering,True
+778,Misha Sangha,Naukri,2023-09-29,Junior,Finance,True
+12,Kashvi Char,LinkedIn,2023-09-29,Mid,Sales,True
+169,Nitara Vala,Company Website,2023-09-29,Senior,Operations,True
+381,Yuvraj  Virk,LinkedIn,2023-09-29,Mid,Operations,True
+737,Kiara Mannan,Indeed,2023-09-30,Junior,Marketing,True
+1189,Rohan Biswas,LinkedIn,2023-09-30,Junior,Finance,True
+1729,Pranay Jani,Instagram,2023-09-30,Senior,Finance,True
+1117,Miraya Bala,Indeed,2023-10-01,Lead,Sales,True
+1528,Ayesha Srivastava,Naukri,2023-10-01,Lead,Sales,True
+96,Vardaniya Srinivasan,Company Website,2023-10-02,Senior,Marketing,True
+885,Samaira Apte,Campus Placement,2023-10-02,Junior,Sales,True
+1142,Ivan Randhawa,Employee Referral,2023-10-03,Lead,Marketing,True
+801,Kanav Andra,Employee Referral,2023-10-03,Senior,Engineering,True
+1080,Elakshi Khurana,Naukri,2023-10-03,Mid,Finance,True
+1763,Divyansh Dhar,Indeed,2023-10-03,Junior,Sales,True
+676,Yasmin Lad,Naukri,2023-10-03,Junior,Engineering,True
+1521,Hridaan Dugar,Naukri,2023-10-04,Mid,Finance,True
+1501,Shlok Seshadri,Naukri,2023-10-04,Mid,Sales,True
+108,Miraya Baria,Employee Referral,2023-10-05,Senior,Sales,True
+433,Divij Subramanian,Company Website,2023-10-05,Senior,Marketing,True
+1480,Kismat Suresh,LinkedIn,2023-10-05,Lead,Product,True
+1129,Ira Kumer,Naukri,2023-10-06,Lead,Marketing,True
+1141,Rhea Ramaswamy,Employee Referral,2023-10-06,Senior,Finance,True
+1573,Oorja Basu,Naukri,2023-10-07,Lead,Marketing,True
+154,Mamooty Arora,LinkedIn,2023-10-07,Lead,Product,True
+254,Nitara Goyal,Naukri,2023-10-07,Mid,Operations,True
+1423,Vivaan Zacharia,Campus Placement,2023-10-07,Senior,Sales,True
+1634,Ira Lal,Employee Referral,2023-10-07,Lead,Sales,True
+312,Indranil Dar,Employee Referral,2023-10-07,Lead,Operations,True
+1756,Suhana Maharaj,Employee Referral,2023-10-07,Mid,Operations,True
+1345,Hrishita Dubey,LinkedIn,2023-10-08,Junior,Engineering,True
+1263,Seher Rastogi,Naukri,2023-10-08,Mid,Marketing,True
+428,Zara Divan,LinkedIn,2023-10-08,Senior,Engineering,True
+526,Tanya Ranganathan,Indeed,2023-10-09,Senior,Engineering,True
+377,Damini Rajagopal,Indeed,2023-10-09,Mid,Finance,True
+1307,Umang Sankar,LinkedIn,2023-10-09,Senior,Operations,True
+1087,Seher Dara,LinkedIn,2023-10-09,Lead,Marketing,True
+1047,Vivaan Dutta,Naukri,2023-10-10,Lead,Marketing,True
+101,Badal Master,Campus Placement,2023-10-10,Junior,Operations,True
+1206,Lagan Lad,Employee Referral,2023-10-10,Mid,Engineering,True
+20,Rati Sanghvi,Naukri,2023-10-11,Junior,Engineering,True
+828,Navya Dada,Indeed,2023-10-11,Senior,Finance,True
+111,Nakul Deo,Employee Referral,2023-10-11,Senior,Engineering,True
+1438,Emir Manda,Company Website,2023-10-11,Junior,Product,True
+903,Indrans Devi,LinkedIn,2023-10-12,Junior,Operations,True
+1613,Ranbir Bakshi,Company Website,2023-10-12,Senior,Sales,True
+1561,Nitara Lad,Indeed,2023-10-12,Mid,Engineering,True
+139,Ryan Gopal,Indeed,2023-10-12,Mid,Operations,True
+425,Vedika Madan,Instagram,2023-10-13,Senior,Marketing,True
+355,Ishita Amble,LinkedIn,2023-10-13,Mid,Engineering,True
+35,Keya Iyengar,Company Website,2023-10-13,Senior,Finance,True
+403,Zaina Kaul,Naukri,2023-10-14,Junior,Marketing,True
+1397,Yuvraj  Sarin,Employee Referral,2023-10-14,Lead,Operations,True
+538,Tiya Biswas,Campus Placement,2023-10-15,Junior,Marketing,True
+1327,Vaibhav Srinivas,Glassdoor,2023-10-15,Junior,Sales,True
+1407,Ryan Srinivasan,LinkedIn,2023-10-15,Senior,Sales,True
+1746,Aayush Malhotra,Company Website,2023-10-15,Senior,Product,True
+1317,Jayant Goel,Indeed,2023-10-16,Senior,Engineering,True
+1147,Riaan Mangat,Glassdoor,2023-10-16,Senior,Marketing,True
+288,Ritvik Comar,Naukri,2023-10-17,Lead,Product,True
+508,Mamooty Vaidya,Indeed,2023-10-17,Lead,Product,True
+128,Dishani Konda,LinkedIn,2023-10-17,Lead,Engineering,True
+1731,Adah Dugar,Indeed,2023-10-17,Mid,Product,True
+826,Hiran Bhagat,Indeed,2023-10-17,Senior,Finance,True
+689,Tejas Kunda,Campus Placement,2023-10-17,Senior,Sales,True
+1766,Rania Master,Company Website,2023-10-17,Senior,Engineering,True
+959,Onkar Singh,Naukri,2023-10-17,Junior,Operations,True
+1126,Mamooty Luthra,LinkedIn,2023-10-18,Lead,Finance,True
+1239,Shamik Swamy,LinkedIn,2023-10-18,Mid,Finance,True
+1755,Oorja Sura,LinkedIn,2023-10-18,Mid,Marketing,True
+1348,Akarsh Lall,Instagram,2023-10-18,Mid,Marketing,True
+633,Rasha Thakur,LinkedIn,2023-10-18,Senior,Operations,True
+1203,Nishith Malhotra,LinkedIn,2023-10-19,Junior,Operations,True
+1566,Charvi Chaudhary,Naukri,2023-10-19,Senior,Sales,True
+657,Trisha Mannan,LinkedIn,2023-10-19,Junior,Finance,True
+1770,Nishith Srivastava,Company Website,2023-10-19,Mid,Engineering,True
+65,Oorja Sachar,LinkedIn,2023-10-20,Mid,Sales,True
+1058,Pari Krish,Indeed,2023-10-21,Junior,Marketing,True
+1343,Jiya Manda,LinkedIn,2023-10-21,Senior,Operations,True
+1681,Vedika Sani,LinkedIn,2023-10-21,Mid,Sales,True
+318,Rati Vasa,LinkedIn,2023-10-21,Lead,Finance,True
+1310,Kiaan Zacharia,Employee Referral,2023-10-22,Lead,Operations,True
+149,Priyansh Buch,Indeed,2023-10-22,Lead,Finance,True
+1580,Jayant Vohra,Employee Referral,2023-10-22,Lead,Marketing,True
+173,Ishita Bhatt,LinkedIn,2023-10-22,Mid,Finance,True
+440,Myra Tata,LinkedIn,2023-10-22,Senior,Sales,True
+939,Anvi Chawla,Naukri,2023-10-22,Junior,Product,True
+143,Miraya Shere,Employee Referral,2023-10-23,Lead,Operations,True
+132,Navya Deep,Company Website,2023-10-23,Lead,Engineering,True
+1623,Divij Sule,Employee Referral,2023-10-23,Junior,Engineering,True
+1575,Indrajit Bath,Company Website,2023-10-24,Lead,Engineering,True
+1454,Lavanya Roy,Employee Referral,2023-10-24,Mid,Marketing,True
+1626,Shlok Gopal,Indeed,2023-10-25,Lead,Marketing,True
+363,Kanav Ram,LinkedIn,2023-10-25,Senior,Marketing,True
+1002,Vritika Sankaran,Naukri,2023-10-25,Mid,Product,True
+986,Bhavin Ray,Indeed,2023-10-25,Junior,Sales,True
+929,Zara Kata,LinkedIn,2023-10-25,Senior,Finance,True
+914,Mehul Tandon,LinkedIn,2023-10-26,Senior,Finance,True
+573,Sahil Kashyap,LinkedIn,2023-10-26,Junior,Product,True
+1280,Dhanuk Rajagopalan,LinkedIn,2023-10-29,Junior,Finance,True
+1172,Nehmat Dora,Naukri,2023-10-29,Lead,Marketing,True
+1402,Aarav Kala,Naukri,2023-10-29,Senior,Marketing,True
+926,Kabir Shroff,Instagram,2023-10-29,Lead,Marketing,True
+753,Drishya Mand,Employee Referral,2023-10-29,Mid,Marketing,True
+943,Nirvaan Sarin,Instagram,2023-10-29,Lead,Marketing,True
+841,Vedika Kota,LinkedIn,2023-10-29,Lead,Engineering,True
+1435,Vedika Sarma,LinkedIn,2023-10-29,Lead,Finance,True
+460,Nirvaan Bhatnagar,Campus Placement,2023-10-30,Senior,Operations,True
+450,Ranbir Babu,Employee Referral,2023-10-30,Mid,Marketing,True
+187,Zara Chaudhary,Indeed,2023-10-30,Senior,Engineering,True
+1781,Samiha Barad,Naukri,2023-10-30,Junior,Operations,True
+1175,Nitya Zacharia,LinkedIn,2023-10-30,Senior,Operations,True
+875,Biju Thakkar,Employee Referral,2023-10-30,Mid,Engineering,True
+112,Hansh Sampath,Company Website,2023-10-31,Mid,Sales,True
+1668,Vaibhav Bora,LinkedIn,2023-11-01,Lead,Marketing,True
+1788,Tejas Hayre,Campus Placement,2023-11-01,Senior,Operations,True
+426,Eva Krishna,Instagram,2023-11-01,Senior,Finance,True
+601,Lakshit Garde,Employee Referral,2023-11-01,Junior,Finance,True
+858,Pranay Handa,Company Website,2023-11-02,Senior,Product,True
+829,Divyansh Jhaveri,Employee Referral,2023-11-02,Mid,Marketing,True
+1160,Kavya Agarwal,Naukri,2023-11-02,Mid,Sales,True
+1301,Alisha Mall,Company Website,2023-11-02,Senior,Engineering,True
+410,Vaibhav Mangal,Glassdoor,2023-11-03,Senior,Operations,True
+184,Drishya Saini,Glassdoor,2023-11-03,Lead,Finance,True
+649,Kabir Salvi,Naukri,2023-11-03,Mid,Product,True
+15,Mehul Verma,Company Website,2023-11-03,Junior,Marketing,True
+175,Parinaaz Shere,LinkedIn,2023-11-03,Junior,Engineering,True
+713,Yashvi Golla,LinkedIn,2023-11-03,Senior,Marketing,True
+9,Samiha Karpe,Naukri,2023-11-04,Lead,Sales,True
+44,Pihu Wali,Company Website,2023-11-04,Senior,Finance,True
+1679,Rania Salvi,LinkedIn,2023-11-04,Lead,Product,True
+1483,Aarna Wason,Company Website,2023-11-05,Senior,Product,True
+974,Damini Talwar,Company Website,2023-11-05,Junior,Sales,True
+639,Faiyaz Soni,Campus Placement,2023-11-06,Mid,Sales,True
+185,Divij Tank,LinkedIn,2023-11-06,Mid,Product,True
+1332,Aniruddh Wason,LinkedIn,2023-11-06,Mid,Engineering,True
+1576,Samaira Sengupta,Company Website,2023-11-06,Senior,Product,True
+1204,Vanya Sant,LinkedIn,2023-11-06,Junior,Sales,True
+14,Trisha Dhillon,LinkedIn,2023-11-06,Junior,Finance,True
+383,Shayak Ratta,Indeed,2023-11-06,Lead,Marketing,True
+1362,Mamooty Salvi,Indeed,2023-11-06,Lead,Product,True
+824,Krish Thaker,LinkedIn,2023-11-06,Lead,Operations,True
+802,Saksham Kadakia,LinkedIn,2023-11-07,Senior,Sales,True
+277,Yuvaan Saraf,Naukri,2023-11-07,Senior,Operations,True
+691,Arhaan Bhatnagar,LinkedIn,2023-11-08,Mid,Product,True
+1403,Ritvik Tata,LinkedIn,2023-11-08,Senior,Engineering,True
+1376,Lakshay Dash,Company Website,2023-11-08,Lead,Finance,True
+133,Seher Kant,Naukri,2023-11-08,Lead,Sales,True
+909,Alia Ram,Instagram,2023-11-08,Mid,Finance,True
+120,Manjari Swamy,Company Website,2023-11-08,Junior,Marketing,True
+1279,Navya Tank,Naukri,2023-11-08,Senior,Product,True
+564,Lavanya Bose,LinkedIn,2023-11-08,Junior,Product,True
+1190,Urvi Talwar,LinkedIn,2023-11-08,Junior,Marketing,True
+710,Ira Madan,LinkedIn,2023-11-08,Junior,Marketing,True
+1716,Nehmat Char,LinkedIn,2023-11-09,Senior,Operations,True
+822,Ahana  Sagar,LinkedIn,2023-11-09,Senior,Product,True
+995,Jayesh Varghese,Naukri,2023-11-09,Lead,Operations,True
+123,Prerak Bhardwaj,Glassdoor,2023-11-09,Junior,Operations,True
+990,Jivika Varughese,Naukri,2023-11-10,Mid,Operations,True
+857,Samarth Dash,Naukri,2023-11-10,Mid,Engineering,True
+1467,Pihu Aurora,LinkedIn,2023-11-11,Junior,Product,True
+458,Nayantara Reddy,LinkedIn,2023-11-11,Mid,Product,True
+1459,Chirag Dugal,Naukri,2023-11-12,Lead,Operations,True
+1329,Shray Mandal,Indeed,2023-11-12,Senior,Finance,True
+552,Prisha Golla,LinkedIn,2023-11-12,Lead,Sales,True
+246,Sahil Bhagat,LinkedIn,2023-11-13,Senior,Sales,True
+1336,Nirvi Dara,Campus Placement,2023-11-14,Senior,Marketing,True
+1684,Miraya Vig,Company Website,2023-11-14,Lead,Product,True
+459,Badal Srivastava,Employee Referral,2023-11-15,Junior,Finance,True
+586,Vidur Jayaraman,LinkedIn,2023-11-16,Senior,Product,True
+1625,Neysa Sampath,Naukri,2023-11-16,Lead,Marketing,True
+1158,Rania Vyas,Naukri,2023-11-16,Senior,Marketing,True
+1342,Kiara Atwal,Indeed,2023-11-16,Mid,Sales,True
+856,Kabir Boase,Campus Placement,2023-11-16,Mid,Engineering,True
+940,Romil Amble,Naukri,2023-11-17,Junior,Engineering,True
+387,Hrishita Badami,Indeed,2023-11-17,Senior,Finance,True
+393,Yashvi Bala,Company Website,2023-11-17,Mid,Marketing,True
+928,Rohan Varughese,Indeed,2023-11-18,Mid,Marketing,True
+8,Lavanya Deo,LinkedIn,2023-11-18,Mid,Sales,True
+895,Uthkarsh Baria,LinkedIn,2023-11-18,Junior,Finance,True
+539,Riaan Gade,Campus Placement,2023-11-19,Junior,Marketing,True
+1325,Krish Rout,Employee Referral,2023-11-20,Junior,Marketing,True
+1076,Ehsaan Divan,Employee Referral,2023-11-20,Lead,Sales,True
+1592,Yasmin Kade,LinkedIn,2023-11-20,Senior,Sales,True
+991,Eva Bail,Indeed,2023-11-20,Lead,Marketing,True
+1103,Khushi Bhandari,Naukri,2023-11-20,Lead,Sales,True
+1550,Gatik Goswami,Employee Referral,2023-11-21,Senior,Marketing,True
+1548,Samiha Bhatti,LinkedIn,2023-11-21,Mid,Product,True
+1375,Alia Ahluwalia,Employee Referral,2023-11-21,Senior,Operations,True
+739,Jivika Bail,LinkedIn,2023-11-22,Senior,Operations,True
+1347,Bhavin Dada,Indeed,2023-11-23,Senior,Marketing,True
+409,Anya Bera,Instagram,2023-11-23,Mid,Product,True
+362,Ishita Bora,Glassdoor,2023-11-24,Senior,Finance,True
+831,Pihu Solanki,Naukri,2023-11-24,Mid,Finance,True
+1553,Kimaya Bajwa,Instagram,2023-11-24,Mid,Engineering,True
+958,Charvi Maharaj,Employee Referral,2023-11-25,Lead,Engineering,True
+490,Neysa Sachdev,Indeed,2023-11-25,Mid,Sales,True
+283,Mehul Bhasin,Indeed,2023-11-26,Lead,Operations,True
+924,Rasha Joshi,Indeed,2023-11-26,Lead,Product,True
+49,Damini Singh,LinkedIn,2023-11-26,Lead,Product,True
+625,Alisha Wagle,LinkedIn,2023-11-26,Mid,Finance,True
+1663,Rhea Bhardwaj,Indeed,2023-11-27,Junior,Product,True
+1735,Rati Vala,Naukri,2023-11-28,Lead,Finance,True
+1437,Hunar Mander,Employee Referral,2023-11-28,Senior,Marketing,True
+745,Nirvaan Swaminathan,Employee Referral,2023-11-28,Junior,Engineering,True
+621,Riya Vaidya,Indeed,2023-11-28,Senior,Sales,True
+1198,Hiran Shetty,Campus Placement,2023-11-29,Senior,Product,True
+230,Vaibhav Gade,LinkedIn,2023-11-29,Lead,Operations,True
+556,Sahil Sharma,Indeed,2023-11-29,Lead,Engineering,True
+99,Madhav Balakrishnan,LinkedIn,2023-11-29,Mid,Product,True
+1162,Chirag Sunder,Indeed,2023-11-29,Junior,Marketing,True
+1495,Bhavin Swaminathan,Employee Referral,2023-11-30,Mid,Engineering,True
+793,Zeeshan Manne,Indeed,2023-11-30,Senior,Operations,True
+1494,Kanav Borde,Employee Referral,2023-11-30,Lead,Marketing,True
+597,Gokul Sampath,LinkedIn,2023-11-30,Mid,Product,True
+1368,Zoya Ramesh,Indeed,2023-11-30,Junior,Product,True
+1713,Anay Kuruvilla,Naukri,2023-12-01,Lead,Finance,True
+194,Suhana Vasa,Campus Placement,2023-12-01,Lead,Marketing,True
+1540,Ivan Bali,Indeed,2023-12-01,Lead,Operations,True
+1217,Abram Deep,Indeed,2023-12-01,Mid,Marketing,True
+711,Rohan Varghese,Company Website,2023-12-02,Mid,Engineering,True
+78,Zara Jani,LinkedIn,2023-12-02,Mid,Product,True
+344,Amani Basu,LinkedIn,2023-12-02,Senior,Sales,True
+203,Shanaya Venkataraman,LinkedIn,2023-12-02,Mid,Finance,True
+1720,Oorja Rau,Employee Referral,2023-12-02,Senior,Marketing,True
+295,Kaira Dhar,Naukri,2023-12-03,Mid,Finance,True
+1759,Ojas Bawa,LinkedIn,2023-12-03,Junior,Sales,True
+239,Krish Tripathi,LinkedIn,2023-12-04,Junior,Product,True
+455,Biju Issac,Employee Referral,2023-12-04,Senior,Operations,True
+1447,Umang Anne,LinkedIn,2023-12-04,Lead,Operations,True
+68,Chirag Gara,Naukri,2023-12-05,Lead,Product,True
+1357,Romil Edwin,Naukri,2023-12-05,Senior,Product,True
+448,Zeeshan Sagar,Company Website,2023-12-05,Mid,Finance,True
+43,Pihu Sen,Naukri,2023-12-05,Senior,Finance,True
+1235,Ivan Grewal,Naukri,2023-12-06,Mid,Finance,True
+36,Madhup Biswas,Naukri,2023-12-06,Junior,Engineering,True
+542,Hazel Sarraf,Campus Placement,2023-12-06,Lead,Finance,True
+994,Piya Dey,LinkedIn,2023-12-06,Lead,Product,True
+721,Eshani Jha,Campus Placement,2023-12-06,Junior,Engineering,True
+1326,Mohanlal Suresh,Indeed,2023-12-06,Senior,Engineering,True
+535,Azad Choudhary,Company Website,2023-12-06,Junior,Operations,True
+770,Emir Kale,LinkedIn,2023-12-06,Mid,Marketing,True
+166,Aarav Lad,LinkedIn,2023-12-06,Junior,Product,True
+800,Arhaan Mangat,Naukri,2023-12-06,Mid,Engineering,True
+29,Jiya Vora,LinkedIn,2023-12-07,Lead,Finance,True
+1711,Vaibhav Sunder,Naukri,2023-12-07,Lead,Engineering,True
+1520,Yuvraj  Mane,Campus Placement,2023-12-07,Junior,Sales,True
+504,Saira Bal,Company Website,2023-12-07,Senior,Engineering,True
+1738,Mahika Bassi,LinkedIn,2023-12-07,Mid,Product,True
+1319,Alia Wagle,LinkedIn,2023-12-08,Senior,Product,True
+407,Prisha Dass,LinkedIn,2023-12-08,Lead,Operations,True
+141,Nitya Behl,LinkedIn,2023-12-08,Senior,Finance,True
+1213,Vidur Vasa,Campus Placement,2023-12-09,Senior,Product,True
+758,Mannat Kadakia,Employee Referral,2023-12-10,Lead,Engineering,True
+52,Indrans Grover,Employee Referral,2023-12-10,Junior,Marketing,True
+1323,Biju Bassi,Indeed,2023-12-10,Lead,Product,True
+1522,Vanya Baria,LinkedIn,2023-12-10,Junior,Operations,True
+380,Abram Sen,Indeed,2023-12-12,Junior,Engineering,True
+1461,Jayant Char,LinkedIn,2023-12-12,Junior,Product,True
+1114,Ivana Chacko,Company Website,2023-12-12,Lead,Finance,True
+1321,Neelofar Divan,LinkedIn,2023-12-13,Lead,Product,True
+1053,Kiara Mahajan,Naukri,2023-12-13,Junior,Marketing,True
+1349,Aarav Gandhi,LinkedIn,2023-12-13,Lead,Engineering,True
+332,Divij Contractor,LinkedIn,2023-12-13,Mid,Finance,True
+1665,Pari Shenoy,Naukri,2023-12-14,Mid,Operations,True
+269,Lakshit Goel,Company Website,2023-12-14,Mid,Sales,True
+1453,Priyansh Sethi,Indeed,2023-12-15,Junior,Product,True
+1335,Indranil Bedi,LinkedIn,2023-12-15,Lead,Finance,True
+910,Nirvaan Shanker,Employee Referral,2023-12-16,Senior,Engineering,True
+1030,Piya Gupta,Employee Referral,2023-12-17,Lead,Operations,True
+1602,Abram Sarraf,Naukri,2023-12-17,Mid,Finance,True
+1096,Lagan Dewan,Instagram,2023-12-18,Senior,Marketing,True
+1644,Trisha Walla,LinkedIn,2023-12-18,Junior,Engineering,False
+285,Kartik Chokshi,Company Website,2023-12-18,Junior,Operations,True
+1400,Vihaan Mangal,LinkedIn,2023-12-18,Junior,Product,True
+1504,Jayan Trivedi,LinkedIn,2023-12-18,Mid,Sales,True
+982,Piya Thaker,LinkedIn,2023-12-19,Mid,Product,True
+1377,Stuvan Dave,Glassdoor,2023-12-19,Junior,Operations,True
+1015,Vaibhav Sawhney,Company Website,2023-12-20,Lead,Product,True
+39,Vritika Sangha,Indeed,2023-12-20,Senior,Product,True
+160,Jayesh Mannan,Indeed,2023-12-20,Senior,Operations,True
+388,Miraan Raval,Glassdoor,2023-12-20,Lead,Marketing,True
+482,Ayesha Sawhney,LinkedIn,2023-12-21,Mid,Sales,True
+1169,Advik Bhatia,LinkedIn,2023-12-22,Lead,Finance,True
+616,Vanya Halder,Naukri,2023-12-23,Junior,Product,True
+1173,Raghav Batra,Indeed,2023-12-23,Senior,Finance,True
+1067,Nirvi Salvi,Company Website,2023-12-23,Senior,Sales,True
+1300,Jayant Aurora,LinkedIn,2023-12-24,Junior,Marketing,True
+314,Aarav Jayaraman,Company Website,2023-12-24,Junior,Product,True
+271,Ivana Ahluwalia,Naukri,2023-12-24,Senior,Finance,True
+1654,Raghav Issac,Company Website,2023-12-24,Junior,Finance,True
+823,Siya Khatri,Campus Placement,2023-12-24,Lead,Sales,True
+815,Samar Khatri,Indeed,2023-12-25,Senior,Marketing,True
+243,Rati Dave,Company Website,2023-12-25,Senior,Engineering,True
+1316,Aniruddh Halder,LinkedIn,2023-12-25,Mid,Engineering,True
+1109,Farhan Chand,Naukri,2023-12-26,Mid,Operations,True
+618,Zaina Ramakrishnan,Company Website,2023-12-26,Lead,Marketing,True
+655,Taimur Subramaniam,Employee Referral,2023-12-26,Lead,Sales,True
+241,Gokul Khalsa,Indeed,2023-12-27,Junior,Operations,True
+931,Ivana Lanka,LinkedIn,2023-12-27,Lead,Operations,True
+518,Jivika Saha,LinkedIn,2023-12-27,Mid,Marketing,True
+740,Dhanush Bajaj,LinkedIn,2023-12-27,Mid,Operations,True
+71,Devansh Sathe,LinkedIn,2023-12-27,Senior,Product,True
+347,Nirvi Virk,Company Website,2023-12-28,Lead,Sales,True
+326,Advika Bhatia,Naukri,2023-12-28,Mid,Operations,True
+397,Jayan Chahal,LinkedIn,2023-12-28,Junior,Engineering,True
+1064,Inaaya  Badami,Company Website,2023-12-28,Lead,Product,True
+1422,Anika Doctor,Campus Placement,2023-12-29,Lead,Operations,True
+555,Eshani Baral,LinkedIn,2023-12-29,Junior,Operations,True
+1249,Tejas Handa,Employee Referral,2023-12-30,Senior,Marketing,True
+839,Jayant Joshi,LinkedIn,2023-12-30,Mid,Finance,True
+579,Samarth Ramakrishnan,Indeed,2023-12-30,Mid,Finance,True
+712,Riya Savant,Employee Referral,2023-12-31,Lead,Operations,True
+1167,Vedika Garg,LinkedIn,2023-12-31,Mid,Finance,True
+1207,Siya Hayre,LinkedIn,2023-12-31,Mid,Marketing,True
+1589,Jivin Bhandari,Campus Placement,2023-12-31,Junior,Sales,True
+1128,Jivika Sharaf,LinkedIn,2024-01-01,Senior,Product,True
+751,Saanvi Dutta,Employee Referral,2024-01-01,Mid,Finance,True
+950,Tara Tripathi,Company Website,2024-01-02,Junior,Finance,True
+973,Heer Dhar,Company Website,2024-01-02,Junior,Sales,True
+708,Zoya Sanghvi,LinkedIn,2024-01-02,Mid,Product,True
+631,Vritika Bora,Glassdoor,2024-01-02,Junior,Operations,True
+509,Stuvan Uppal,Indeed,2024-01-03,Senior,Sales,True
+1451,Manikya Bhavsar,Indeed,2024-01-03,Senior,Finance,True
+892,Tiya Bir,Indeed,2024-01-03,Junior,Finance,True
+607,Ishaan Chana,Indeed,2024-01-03,Junior,Product,True
+1772,Raghav Trivedi,Indeed,2024-01-03,Junior,Sales,True
+1266,Sana Yohannan,Employee Referral,2024-01-03,Junior,Finance,True
+882,Hansh Kunda,Company Website,2024-01-04,Senior,Product,True
+1242,Charvi Kari,LinkedIn,2024-01-04,Junior,Engineering,True
+1588,Umang Tandon,LinkedIn,2024-01-05,Lead,Finance,True
+551,Zaina Ranganathan,Naukri,2024-01-05,Junior,Engineering,True
+640,Miraan Dora,LinkedIn,2024-01-05,Senior,Engineering,True
+1107,Pari Bhavsar,LinkedIn,2024-01-05,Senior,Operations,True
+1795,Jivika Mandal,Company Website,2024-01-05,Lead,Sales,True
+1009,Ayesha Comar,LinkedIn,2024-01-05,Lead,Product,True
+562,Miraan Behl,Company Website,2024-01-05,Senior,Marketing,True
+224,Samaira Butala,Naukri,2024-01-06,Junior,Product,True
+1094,Alisha Rajagopalan,LinkedIn,2024-01-06,Senior,Marketing,True
+93,Anya Chhabra,LinkedIn,2024-01-06,Lead,Finance,True
+147,Sara Ganesan,LinkedIn,2024-01-06,Lead,Finance,True
+1118,Aayush Kibe,Campus Placement,2024-01-07,Lead,Product,True
+1704,Lakshit Saini,Naukri,2024-01-07,Junior,Operations,True
+1593,Faiyaz Bhatti,Employee Referral,2024-01-07,Junior,Operations,True
+1523,Shamik Raval,Instagram,2024-01-08,Junior,Engineering,True
+683,Ivan Sant,LinkedIn,2024-01-08,Lead,Marketing,True
+349,Ela Golla,Indeed,2024-01-08,Mid,Engineering,True
+1098,Tejas Gaba,Employee Referral,2024-01-09,Lead,Sales,True
+193,Hunar Sagar,LinkedIn,2024-01-09,Mid,Engineering,True
+25,Piya Gaba,LinkedIn,2024-01-09,Junior,Sales,True
+405,Devansh Kant,Indeed,2024-01-10,Mid,Marketing,True
+1228,Bhavin Das,Naukri,2024-01-10,Senior,Marketing,True
+400,Charvi Manne,Campus Placement,2024-01-10,Lead,Sales,True
+195,Vanya Kala,LinkedIn,2024-01-10,Senior,Marketing,True
+613,Sahil Tailor,LinkedIn,2024-01-11,Junior,Finance,True
+1394,Neysa Butala,Campus Placement,2024-01-11,Junior,Engineering,True
+351,Lagan Deol,LinkedIn,2024-01-11,Senior,Product,True
+942,Siya Shroff,Campus Placement,2024-01-12,Mid,Finance,True
+339,Yuvraj  Ganesan,LinkedIn,2024-01-12,Lead,Product,True
+1721,Piya Kala,LinkedIn,2024-01-12,Mid,Product,True
+212,Renee Chhabra,Glassdoor,2024-01-12,Senior,Engineering,True
+1701,Elakshi Bandi,Naukri,2024-01-12,Senior,Engineering,True
+106,Yuvaan Bhasin,Employee Referral,2024-01-13,Lead,Operations,True
+812,Nishith Dewan,LinkedIn,2024-01-13,Lead,Operations,True
+1395,Indranil Bala,Indeed,2024-01-13,Junior,Operations,True
+85,Nishith Char,Employee Referral,2024-01-13,Mid,Operations,True
+629,Umang Choudhury,Employee Referral,2024-01-13,Lead,Product,True
+250,Ehsaan Sarin,LinkedIn,2024-01-14,Senior,Finance,True
+1056,Advika Sur,LinkedIn,2024-01-15,Junior,Operations,True
+210,Hiran Borra,LinkedIn,2024-01-15,Mid,Product,True
+91,Divij Shetty,Indeed,2024-01-15,Junior,Operations,True
+353,Gatik Atwal,Naukri,2024-01-15,Senior,Product,True
+1331,Anay Dutta,Campus Placement,2024-01-16,Lead,Sales,True
+1165,Raunak Ganguly,Indeed,2024-01-16,Junior,Marketing,True
+310,Tarini Chawla,Indeed,2024-01-16,Junior,Finance,True
+238,Tanya Aurora,LinkedIn,2024-01-17,Mid,Operations,True
+686,Mannat Kalla,Company Website,2024-01-17,Junior,Operations,True
+1529,Hansh Rana,LinkedIn,2024-01-17,Senior,Product,True
+1595,Kiara Khurana,Naukri,2024-01-17,Lead,Product,True
+718,Manjari Wagle,Company Website,2024-01-17,Junior,Operations,True
+603,Indrans Barad,LinkedIn,2024-01-18,Mid,Operations,True
+853,Jayant Ramaswamy,Indeed,2024-01-18,Junior,Sales,True
+979,Dhanush Grover,Campus Placement,2024-01-18,Junior,Operations,True
+462,Khushi Chokshi,Naukri,2024-01-18,Lead,Finance,True
+960,Samaira Rege,Company Website,2024-01-19,Lead,Product,True
+547,Kashvi Kala,Naukri,2024-01-20,Lead,Marketing,True
+766,Nakul Chokshi,LinkedIn,2024-01-20,Mid,Finance,True
+1572,Miraan Agarwal,Instagram,2024-01-20,Junior,Engineering,True
+88,Anahi Dash,Employee Referral,2024-01-20,Lead,Finance,True
+696,Tarini Barad,Employee Referral,2024-01-21,Senior,Engineering,True
+1646,Charvi Agate,LinkedIn,2024-01-21,Lead,Product,True
+249,Dhanuk Rajagopalan,Indeed,2024-01-21,Lead,Product,True
+1476,Parinaaz Chauhan,Company Website,2024-01-21,Mid,Engineering,True
+533,Raunak Sane,Naukri,2024-01-22,Lead,Engineering,True
+1652,Dishani Wadhwa,LinkedIn,2024-01-22,Senior,Sales,True
+1170,Advika Kari,LinkedIn,2024-01-22,Senior,Finance,True
+161,Armaan Bhagat,Employee Referral,2024-01-22,Lead,Sales,True
+904,Samaira Singhal,LinkedIn,2024-01-23,Lead,Marketing,True
+762,Charvi Kurian,Naukri,2024-01-23,Senior,Operations,True
+1305,Vanya Choudhry,LinkedIn,2024-01-24,Junior,Product,True
+429,Zaina Bhandari,Indeed,2024-01-24,Lead,Sales,True
+1370,Charvi Bobal,LinkedIn,2024-01-24,Senior,Product,True
+79,Divit Bava,LinkedIn,2024-01-24,Senior,Product,True
+1620,Charvi Sharma,Company Website,2024-01-24,Lead,Marketing,True
+550,Akarsh Gaba,LinkedIn,2024-01-25,Mid,Finance,True
+171,Dishani Dubey,Company Website,2024-01-25,Senior,Finance,True
+565,Jayesh Som,LinkedIn,2024-01-25,Senior,Product,True
+548,Rhea Reddy,Employee Referral,2024-01-25,Junior,Operations,True
+164,Veer Yogi,Employee Referral,2024-01-26,Lead,Finance,True
+494,Saksham Kala,Instagram,2024-01-26,Senior,Finance,True
+1740,Vivaan Tara,Naukri,2024-01-26,Senior,Product,True
+843,Armaan Agrawal,Naukri,2024-01-26,Senior,Product,True
+1767,Jivika Mander,Employee Referral,2024-01-26,Junior,Product,True
+1212,Taran Dutt,Employee Referral,2024-01-26,Junior,Engineering,True
+1383,Divyansh Thakkar,Naukri,2024-01-26,Lead,Operations,True
+477,Alisha Krishnamurthy,Glassdoor,2024-01-27,Lead,Product,True
+179,Adah Srivastava,LinkedIn,2024-01-27,Mid,Product,True
+1075,Shray Arora,LinkedIn,2024-01-27,Mid,Finance,True
+454,Inaaya  Yohannan,LinkedIn,2024-01-28,Mid,Product,True
+852,Vritika Divan,Glassdoor,2024-01-28,Junior,Engineering,True
+1736,Taimur Krishnamurthy,LinkedIn,2024-01-28,Lead,Finance,True
+608,Saira Kanda,LinkedIn,2024-01-29,Lead,Product,True
+1455,Kanav Kant,Indeed,2024-01-29,Mid,Sales,True
+1288,Indrans Bera,Indeed,2024-01-29,Mid,Product,True
+1057,Rania Banerjee,LinkedIn,2024-01-29,Lead,Operations,True
+1385,Ishaan Kara,LinkedIn,2024-01-29,Senior,Product,True
+281,Sumer Sarna,Indeed,2024-01-29,Lead,Operations,True
+1192,Darshit Lanka,LinkedIn,2024-01-30,Mid,Marketing,True
+899,Aarav Shukla,Employee Referral,2024-01-30,Mid,Operations,True
+1243,Bhavin Krish,LinkedIn,2024-01-31,Mid,Product,True
+340,Oorja Ben,Employee Referral,2024-01-31,Senior,Marketing,True
+290,Rhea Loke,LinkedIn,2024-01-31,Senior,Sales,True
+1251,Ishita Suri,Indeed,2024-02-01,Junior,Operations,True
+784,Armaan Biswas,LinkedIn,2024-02-01,Lead,Operations,True
+557,Madhup Ganesan,LinkedIn,2024-02-02,Junior,Finance,True
+733,Myra Majumdar,Naukri,2024-02-02,Senior,Marketing,True
+738,Jayan Sahni,Indeed,2024-02-02,Senior,Marketing,True
+1184,Fateh Vasa,Indeed,2024-02-02,Lead,Operations,True
+1695,Rhea Brahmbhatt,LinkedIn,2024-02-04,Mid,Product,True
+1125,Riaan Babu,Instagram,2024-02-04,Senior,Marketing,True
+1139,Urvi Tak,LinkedIn,2024-02-04,Lead,Marketing,True
+1418,Tanya Raja,Employee Referral,2024-02-04,Lead,Sales,True
+669,Reyansh Gokhale,Indeed,2024-02-05,Junior,Sales,True
+1533,Sana Grover,LinkedIn,2024-02-05,Mid,Sales,True
+754,Samar Dara,Employee Referral,2024-02-05,Junior,Marketing,True
+293,Navya Vig,Glassdoor,2024-02-06,Mid,Operations,True
+599,Diya Golla,Naukri,2024-02-06,Junior,Sales,True
+1218,Arnav Balan,LinkedIn,2024-02-07,Lead,Operations,True
+704,Manjari Dhar,Company Website,2024-02-07,Senior,Sales,True
+570,Ahana  Raval,Naukri,2024-02-07,Senior,Engineering,True
+479,Amira Rout,LinkedIn,2024-02-07,Mid,Finance,True
+1706,Madhav Shetty,Campus Placement,2024-02-07,Senior,Sales,True
+981,Rasha Chowdhury,LinkedIn,2024-02-08,Junior,Sales,True
+404,Parinaaz Mahajan,Glassdoor,2024-02-08,Senior,Sales,True
+1382,Stuvan Mahajan,Employee Referral,2024-02-08,Senior,Finance,True
+1220,Aarna Sarna,LinkedIn,2024-02-08,Mid,Marketing,True
+199,Zaina Kata,Naukri,2024-02-09,Junior,Sales,True
+723,Samar Rege,Naukri,2024-02-09,Lead,Engineering,True
+786,Indrajit Raman,LinkedIn,2024-02-09,Junior,Operations,True
+748,Advika Johal,Instagram,2024-02-10,Junior,Sales,True
+1277,Amira Shenoy,Naukri,2024-02-10,Junior,Operations,True
+188,Anay Bajaj,Glassdoor,2024-02-10,Senior,Engineering,True
+545,Adira Andra,Indeed,2024-02-11,Senior,Engineering,True
+1202,Raghav Roy,Naukri,2024-02-11,Junior,Finance,True
+530,Zeeshan Deshpande,LinkedIn,2024-02-11,Junior,Sales,True
+540,Aarush Kothari,Indeed,2024-02-12,Junior,Sales,True
+1050,Shaan Guha,Indeed,2024-02-12,Mid,Finance,True
+568,Mishti Dugar,LinkedIn,2024-02-12,Senior,Sales,True
+234,Ojas Tiwari,Company Website,2024-02-13,Lead,Finance,True
+1078,Stuvan Dugal,LinkedIn,2024-02-13,Senior,Engineering,True
+34,Siya Master,Indeed,2024-02-13,Senior,Sales,True
+580,Damini Borra,Indeed,2024-02-14,Senior,Product,True
+452,Miraan Varma,LinkedIn,2024-02-15,Junior,Marketing,True
+1470,Khushi Majumdar,Naukri,2024-02-16,Senior,Engineering,True
+406,Khushi Doctor,Indeed,2024-02-16,Junior,Engineering,True
+45,Tiya Rege,Naukri,2024-02-17,Senior,Operations,True
+145,Yasmin Tak,LinkedIn,2024-02-18,Junior,Finance,True
+953,Seher Bora,Indeed,2024-02-18,Junior,Sales,True
+1632,Aarav Garde,Indeed,2024-02-18,Junior,Marketing,True
+105,Pari Venkataraman,LinkedIn,2024-02-19,Mid,Sales,True
+264,Dhruv Dewan,Naukri,2024-02-19,Lead,Sales,True
+833,Yuvraj  Sachdeva,Campus Placement,2024-02-19,Lead,Finance,True
+1552,Trisha Loke,Campus Placement,2024-02-19,Lead,Marketing,True
+970,Nirvi Kohli,Naukri,2024-02-19,Lead,Sales,True
+74,Ranbir Sami,Naukri,2024-02-19,Mid,Product,True
+1635,Rati Bera,Naukri,2024-02-19,Lead,Operations,True
+714,Gatik Chaudhry,LinkedIn,2024-02-19,Lead,Operations,True
+1115,Reyansh Boase,Indeed,2024-02-19,Junior,Engineering,True
+451,Madhav Kapadia,Indeed,2024-02-20,Lead,Operations,True
+384,Nehmat Baria,Company Website,2024-02-20,Senior,Product,True
+1518,Baiju Virk,Employee Referral,2024-02-20,Mid,Sales,True
+1369,Navya Mandal,LinkedIn,2024-02-20,Junior,Operations,True
+27,Zara Dugar,Company Website,2024-02-21,Mid,Marketing,True
+806,Renee Biswas,LinkedIn,2024-02-21,Lead,Operations,True
+1709,Alia Dara,LinkedIn,2024-02-21,Junior,Sales,True
+1621,Ehsaan Jaggi,Naukri,2024-02-22,Junior,Sales,True
+1042,Zaina Venkataraman,Indeed,2024-02-23,Senior,Marketing,True
+916,Miraan Dora,Company Website,2024-02-24,Junior,Sales,True
+1180,Lakshit Khare,LinkedIn,2024-02-24,Senior,Engineering,True
+163,Adira Raman,Company Website,2024-02-25,Junior,Sales,True
+797,Saira Bal,Campus Placement,2024-02-25,Senior,Product,True
+1028,Samaira Yohannan,LinkedIn,2024-02-25,Mid,Operations,True
+420,Sahil Subramaniam,Employee Referral,2024-02-25,Lead,Finance,True
+525,Baiju Brahmbhatt,LinkedIn,2024-02-26,Junior,Engineering,True
+623,Purab Kar,Instagram,2024-02-26,Junior,Sales,True
+1656,Hiran Jhaveri,Glassdoor,2024-02-26,Senior,Engineering,True
+894,Alia Virk,LinkedIn,2024-02-26,Lead,Engineering,True
+1133,Tara Sem,LinkedIn,2024-02-27,Senior,Marketing,True
+1330,Vidur Deshmukh,LinkedIn,2024-02-28,Junior,Product,True
+512,Jhanvi Sinha,Naukri,2024-02-28,Junior,Operations,True
+1262,Riaan Manda,Campus Placement,2024-02-28,Lead,Sales,True
+783,Damini Bahri,Employee Referral,2024-02-28,Mid,Operations,True
+157,Stuvan Rege,LinkedIn,2024-02-29,Senior,Operations,True
+1194,Advika Gill,Employee Referral,2024-03-01,Junior,Finance,True
+609,Zain Gopal,Employee Referral,2024-03-01,Lead,Product,True
+1188,Ehsaan Dugar,LinkedIn,2024-03-01,Senior,Finance,True
+470,Vritika Subramaniam,LinkedIn,2024-03-01,Lead,Operations,True
+1389,Shlok Chada,LinkedIn,2024-03-01,Lead,Finance,True
+685,Samiha Virk,LinkedIn,2024-03-02,Senior,Sales,True
+1302,Divit Kashyap,LinkedIn,2024-03-02,Mid,Marketing,True
+121,Nitya Taneja,LinkedIn,2024-03-02,Mid,Operations,True
+498,Divij Kalita,Indeed,2024-03-02,Mid,Product,True
+1510,Sumer Choudhury,Campus Placement,2024-03-03,Junior,Engineering,True
+514,Aniruddh Chana,Indeed,2024-03-03,Senior,Marketing,True
+932,Vidur Dara,Indeed,2024-03-03,Senior,Product,True
+392,Aniruddh Bajaj,Instagram,2024-03-04,Mid,Marketing,True
+577,Anahi Mannan,Naukri,2024-03-04,Junior,Sales,True
+419,Mishti Bava,Naukri,2024-03-04,Mid,Product,True
+323,Hridaan Banik,LinkedIn,2024-03-05,Lead,Engineering,True
+72,Manikya Bandi,Company Website,2024-03-05,Mid,Product,True
+761,Kanav Singh,Naukri,2024-03-05,Mid,Product,True
+208,Miraan Deshpande,Naukri,2024-03-05,Mid,Product,True
+69,Khushi Malhotra,LinkedIn,2024-03-06,Lead,Operations,True
+840,Armaan Toor,Company Website,2024-03-06,Senior,Sales,True
+46,Faiyaz Din,LinkedIn,2024-03-06,Lead,Finance,True
+561,Samiha Tank,Naukri,2024-03-07,Senior,Product,True
+1661,Rhea Sachar,Naukri,2024-03-07,Senior,Engineering,True
+1140,Lakshay Tak,LinkedIn,2024-03-08,Mid,Operations,True
+240,Misha Bose,Naukri,2024-03-09,Junior,Sales,True
+1774,Anvi Kashyap,Naukri,2024-03-09,Junior,Product,True
+1392,Shayak Rajan,LinkedIn,2024-03-10,Junior,Operations,True
+1569,Ritvik Buch,LinkedIn,2024-03-10,Lead,Marketing,True
+253,Shray Lata,Naukri,2024-03-10,Lead,Operations,True
+481,Aaryahi Sankar,Naukri,2024-03-10,Lead,Marketing,True
+1390,Ishaan Setty,Indeed,2024-03-11,Mid,Product,True
+107,Kavya Rajan,Indeed,2024-03-11,Senior,Sales,True
+227,Dharmajan Rout,Company Website,2024-03-12,Junior,Product,True
+345,Ojas Edwin,Naukri,2024-03-12,Mid,Finance,True
+1255,Kaira Grewal,Indeed,2024-03-12,Senior,Operations,True
+724,Alisha Kaul,Naukri,2024-03-12,Mid,Sales,True
+1565,Raunak Bhandari,LinkedIn,2024-03-13,Senior,Product,True
+235,Anaya Andra,LinkedIn,2024-03-13,Senior,Finance,True
+774,Jiya Mand,Naukri,2024-03-13,Junior,Sales,True
+22,Hazel Sethi,Employee Referral,2024-03-13,Junior,Engineering,True
+638,Ira Seth,LinkedIn,2024-03-14,Mid,Finance,True
+677,Zaina Barman,LinkedIn,2024-03-15,Senior,Operations,True
+632,Armaan Dhar,Naukri,2024-03-15,Mid,Product,True
+851,Abram Shan,Naukri,2024-03-15,Lead,Product,True
+1136,Rohan Vohra,LinkedIn,2024-03-16,Senior,Operations,True
+1199,Khushi Sethi,Employee Referral,2024-03-16,Senior,Operations,True
+1226,Sahil Sarkar,LinkedIn,2024-03-16,Senior,Finance,True
+527,Pari Baria,Naukri,2024-03-16,Mid,Engineering,True
+255,Dishani Sabharwal,LinkedIn,2024-03-16,Junior,Sales,True
+1648,Diya Sridhar,LinkedIn,2024-03-17,Mid,Sales,True
+1365,Rati Mangat,LinkedIn,2024-03-17,Lead,Operations,True
+1607,Indrajit Tripathi,Employee Referral,2024-03-17,Junior,Marketing,True
+1442,Armaan Chadha,LinkedIn,2024-03-17,Mid,Operations,True
+135,Dhanuk Wagle,Indeed,2024-03-18,Senior,Operations,True
+1771,Riya Shankar,LinkedIn,2024-03-18,Senior,Finance,True
+1672,Hunar Tripathi,Company Website,2024-03-19,Senior,Marketing,True
+1744,Myra Bora,Employee Referral,2024-03-19,Mid,Sales,True
+671,Gatik Sura,LinkedIn,2024-03-20,Junior,Product,True
+1677,Shanaya Sabharwal,Indeed,2024-03-20,Junior,Operations,True
+1419,Ishita Balasubramanian,LinkedIn,2024-03-21,Junior,Sales,True
+1055,Samiha Kashyap,Naukri,2024-03-21,Junior,Engineering,True
+1727,Baiju Chakraborty,Employee Referral,2024-03-21,Lead,Finance,True
+790,Rhea Manda,Naukri,2024-03-21,Mid,Finance,True
+965,Oorja Bajwa,LinkedIn,2024-03-21,Junior,Finance,True
+1131,Urvi Magar,Employee Referral,2024-03-21,Senior,Sales,True
+1666,Aarna Swamy,LinkedIn,2024-03-22,Mid,Product,True
+993,Purab Bajaj,Employee Referral,2024-03-22,Senior,Sales,True
+1685,Mamooty Ravel,Indeed,2024-03-22,Lead,Finance,True
+73,Shalv Banik,LinkedIn,2024-03-22,Lead,Engineering,True
+313,Ishita Barad,LinkedIn,2024-03-23,Junior,Marketing,True
+1138,Dhruv Kanda,Naukri,2024-03-23,Lead,Marketing,True
+1388,Pranay Ben,Campus Placement,2024-03-23,Mid,Engineering,True
+350,Mishti Kant,LinkedIn,2024-03-24,Junior,Marketing,True
+1457,Tara Kuruvilla,LinkedIn,2024-03-24,Mid,Marketing,True
+975,Zara Chakraborty,Employee Referral,2024-03-24,Lead,Product,True
+588,Vritika Raval,Naukri,2024-03-24,Lead,Sales,True
+487,Vaibhav Raju,LinkedIn,2024-03-25,Mid,Operations,True
+287,Divyansh Thaman,Naukri,2024-03-25,Mid,Sales,True
+1059,Myra Doshi,Indeed,2024-03-25,Junior,Marketing,True
+1272,Ehsaan Chauhan,LinkedIn,2024-03-25,Lead,Finance,True
+276,Divij Din,LinkedIn,2024-03-26,Junior,Product,True
+1619,Alia Dugar,Indeed,2024-03-26,Junior,Marketing,True
+1697,Urvi Rattan,Glassdoor,2024-03-26,Lead,Sales,True
+1344,Jivika Chandra,LinkedIn,2024-03-27,Junior,Sales,True
+307,Khushi Kala,Employee Referral,2024-03-27,Lead,Sales,True
+1230,Manjari Ramanathan,Glassdoor,2024-03-28,Mid,Product,True
+1443,Yuvaan Bora,Indeed,2024-03-28,Senior,Engineering,True
+1556,Zeeshan Kapadia,Employee Referral,2024-03-28,Senior,Finance,True
+804,Zain Krishna,LinkedIn,2024-03-29,Senior,Sales,True
+122,Nitara Ben,Naukri,2024-03-29,Senior,Operations,True
+1705,Shalv Gole,Company Website,2024-03-29,Lead,Engineering,True
+653,Azad Ravi,Indeed,2024-03-29,Mid,Engineering,True
+1568,Taimur Sarraf,Employee Referral,2024-03-30,Lead,Product,True
+867,Tushar Rana,LinkedIn,2024-03-30,Lead,Engineering,True
+228,Himmat Verma,Employee Referral,2024-03-30,Junior,Engineering,True
+720,Saanvi Sem,LinkedIn,2024-03-30,Mid,Engineering,True
+905,Arhaan Tailor,LinkedIn,2024-03-30,Lead,Engineering,True
+361,Anaya Dara,Campus Placement,2024-03-31,Junior,Finance,True
+1352,Biju Apte,LinkedIn,2024-04-01,Senior,Sales,True
+1567,Vanya Deep,LinkedIn,2024-04-01,Junior,Marketing,True
+1292,Ryan Kata,LinkedIn,2024-04-01,Senior,Finance,True
+780,Umang Sundaram,Naukri,2024-04-01,Junior,Sales,True
+1562,Misha Raman,LinkedIn,2024-04-01,Junior,Operations,True
+814,Renee Chawla,Naukri,2024-04-01,Mid,Product,True
+469,Hansh Amble,Campus Placement,2024-04-01,Junior,Product,True
+1374,Rhea Sampath,Indeed,2024-04-02,Mid,Marketing,True
+906,Mannat Sinha,Company Website,2024-04-02,Senior,Engineering,True
+346,Trisha Jaggi,Naukri,2024-04-02,Junior,Finance,True
+1409,Divij Rege,Employee Referral,2024-04-02,Senior,Marketing,True
+104,Kabir Banerjee,Employee Referral,2024-04-03,Junior,Engineering,True
+305,Urvi Lal,LinkedIn,2024-04-04,Mid,Operations,True
+275,Alia Sule,Naukri,2024-04-04,Senior,Finance,True
+554,Nirvaan Kamdar,LinkedIn,2024-04-04,Lead,Engineering,True
+1420,Elakshi Kadakia,Campus Placement,2024-04-04,Lead,Finance,True
+788,Ishaan Hegde,Instagram,2024-04-04,Mid,Marketing,True
+500,Zoya Bhattacharyya,LinkedIn,2024-04-05,Senior,Engineering,True
+1460,Himmat Sridhar,Instagram,2024-04-05,Junior,Engineering,True
+1287,Himmat Sridhar,LinkedIn,2024-04-05,Senior,Engineering,True
+1789,Trisha Raja,Employee Referral,2024-04-05,Senior,Sales,True
+1391,Ira Yadav,Naukri,2024-04-05,Lead,Sales,True
+371,Rasha Dar,Indeed,2024-04-05,Lead,Finance,True
+546,Dhanuk Venkataraman,Indeed,2024-04-06,Lead,Marketing,True
+848,Purab Char,LinkedIn,2024-04-07,Senior,Marketing,True
+627,Vivaan Krishnamurthy,Naukri,2024-04-07,Junior,Finance,True
+1764,Kartik Dutt,Glassdoor,2024-04-08,Senior,Finance,True
+1297,Hunar Bath,Indeed,2024-04-09,Lead,Product,True
+1436,Faiyaz Johal,Instagram,2024-04-09,Senior,Product,True
+231,Amani Gade,Indeed,2024-04-09,Lead,Engineering,True
+1491,Anya Balay,LinkedIn,2024-04-09,Junior,Engineering,True
+1636,Ivan Koshy,LinkedIn,2024-04-10,Junior,Engineering,True
+911,Yakshit Kanda,Company Website,2024-04-10,Senior,Operations,True
+200,Tanya Walla,Indeed,2024-04-10,Senior,Finance,True
+1499,Yuvaan Hari,LinkedIn,2024-04-10,Mid,Product,True
+1144,Zara Balan,LinkedIn,2024-04-11,Lead,Sales,True
+1276,Elakshi Jhaveri,LinkedIn,2024-04-12,Junior,Marketing,True
+690,Aniruddh Bora,LinkedIn,2024-04-12,Junior,Sales,True
+880,Divij Yogi,Indeed,2024-04-12,Senior,Sales,True
+167,Tejas Kale,LinkedIn,2024-04-12,Junior,Finance,True
+887,Shanaya Chopra,Naukri,2024-04-12,Senior,Product,True
+1273,Aaina Korpal,LinkedIn,2024-04-13,Mid,Product,True
+600,Taran Dubey,Naukri,2024-04-13,Mid,Finance,True
+334,Kashvi Bahri,LinkedIn,2024-04-13,Junior,Sales,True
+1246,Manikya Shanker,LinkedIn,2024-04-13,Junior,Engineering,True
+845,Shamik Dhar,LinkedIn,2024-04-13,Mid,Sales,True
+1500,Keya Sathe,Naukri,2024-04-13,Mid,Finance,True
+1195,Mishti Shere,Indeed,2024-04-14,Lead,Engineering,True
+700,Sara Chander,Campus Placement,2024-04-14,Junior,Operations,True
+1734,Tanya Sharma,Naukri,2024-04-14,Junior,Engineering,True
+181,Pari Chhabra,Indeed,2024-04-15,Senior,Finance,True
+423,Ritvik Gade,Instagram,2024-04-15,Senior,Operations,True
+1338,Tarini Choudhary,Employee Referral,2024-04-15,Lead,Finance,True
+531,Tanya Kunda,Instagram,2024-04-15,Mid,Finance,True
+636,Dhanush Andra,Company Website,2024-04-15,Junior,Engineering,True
+1660,Piya Gera,LinkedIn,2024-04-16,Lead,Operations,True
+1092,Navya Saha,Employee Referral,2024-04-16,Senior,Finance,True
+1762,Oorja Sagar,LinkedIn,2024-04-16,Lead,Product,True
+266,Jiya Ramaswamy,Company Website,2024-04-16,Senior,Engineering,True
+1359,Vritika Reddy,Naukri,2024-04-17,Mid,Sales,True
+77,Nirvaan Srinivasan,Naukri,2024-04-17,Mid,Engineering,True
+1425,Fateh Shukla,Indeed,2024-04-17,Mid,Finance,True
+592,Shamik Baria,Indeed,2024-04-18,Mid,Product,True
+1507,Samaira Swamy,Indeed,2024-04-18,Senior,Engineering,True
+146,Zain Arora,Company Website,2024-04-18,Lead,Engineering,True
+1786,Inaaya  Warrior,Employee Referral,2024-04-18,Mid,Marketing,True
+471,Khushi Edwin,LinkedIn,2024-04-18,Senior,Finance,True
+1678,Miraan Kumer,LinkedIn,2024-04-18,Mid,Marketing,True
+1577,Onkar Rout,Indeed,2024-04-19,Mid,Engineering,True
+583,Arnav Dasgupta,Naukri,2024-04-19,Mid,Sales,True
+204,Alisha Dayal,LinkedIn,2024-04-20,Senior,Finance,True
+386,Samar Rattan,Naukri,2024-04-20,Mid,Sales,True
+98,Indrans Chandran,LinkedIn,2024-04-20,Lead,Sales,True
+1486,Parinaaz Lad,Naukri,2024-04-20,Mid,Sales,True
+60,Gokul Sahni,Naukri,2024-04-20,Senior,Product,True
+182,Yashvi Yohannan,LinkedIn,2024-04-21,Senior,Finance,True
+1355,Devansh Grover,Naukri,2024-04-21,Lead,Marketing,True
+1503,Oorja Gola,LinkedIn,2024-04-21,Lead,Product,True
+1524,Saksham Ravel,Naukri,2024-04-21,Junior,Sales,True
+707,Riya Kapadia,LinkedIn,2024-04-22,Senior,Product,True
+367,Khushi Mann,Indeed,2024-04-23,Mid,Operations,True
+1676,Ehsaan Randhawa,Indeed,2024-04-23,Senior,Finance,True
+447,Khushi Sharaf,Company Website,2024-04-24,Senior,Marketing,True
+306,Alisha Kant,LinkedIn,2024-04-25,Mid,Sales,True
+1401,Indrans Bala,Naukri,2024-04-25,Senior,Product,True
+319,Devansh Sankar,Company Website,2024-04-25,Lead,Operations,True
+116,Dishani Deo,Indeed,2024-04-25,Lead,Product,True
+511,Kaira Chowdhury,Company Website,2024-04-25,Senior,Marketing,True
+398,Manjari Virk,LinkedIn,2024-04-26,Senior,Operations,True
+1650,Sana Tandon,Employee Referral,2024-04-26,Lead,Operations,True
+127,Piya Ravel,Naukri,2024-04-26,Senior,Engineering,True
+1350,Zara Bhattacharyya,LinkedIn,2024-04-27,Junior,Engineering,True
+1027,Zain Hari,LinkedIn,2024-04-27,Lead,Marketing,True
+463,Shalv Soman,Indeed,2024-04-27,Mid,Marketing,True
+1001,Veer Shroff,Campus Placement,2024-04-28,Mid,Sales,True
+735,Mannat Loke,LinkedIn,2024-04-28,Senior,Operations,True
+475,Anika Kapur,Glassdoor,2024-04-28,Junior,Sales,True
+1579,Anahi Bakshi,Instagram,2024-04-28,Junior,Finance,True
+798,Jayan Lala,Indeed,2024-04-29,Junior,Marketing,True
+912,Hrishita Chopra,Employee Referral,2024-04-29,Senior,Finance,True
+496,Indrans Sankar,LinkedIn,2024-04-29,Mid,Marketing,True
+1122,Zeeshan Savant,Instagram,2024-04-29,Junior,Engineering,True
+1488,Diya Saini,Company Website,2024-04-30,Lead,Marketing,True
+868,Madhup Bhavsar,Indeed,2024-04-30,Mid,Marketing,True
+1555,Badal Sant,Employee Referral,2024-04-30,Senior,Operations,True
+537,Lagan Dora,Campus Placement,2024-05-01,Senior,Engineering,True
+785,Zaina Khalsa,Employee Referral,2024-05-01,Mid,Product,True
+412,Akarsh Thakkar,Indeed,2024-05-01,Junior,Sales,True
+1618,Dhruv Varty,Campus Placement,2024-05-01,Senior,Finance,True
+835,Tanya Dhawan,Employee Referral,2024-05-02,Senior,Operations,True
+1584,Aayush Varkey,Indeed,2024-05-02,Junior,Sales,True
+1479,Anika Bhatti,Employee Referral,2024-05-02,Mid,Marketing,True
+439,Manjari Choudhry,Instagram,2024-05-02,Lead,Finance,True
+1221,Dharmajan Reddy,LinkedIn,2024-05-02,Junior,Operations,True
+1416,Dharmajan Sami,Naukri,2024-05-02,Senior,Product,True
+1627,Mamooty Uppal,Company Website,2024-05-02,Senior,Marketing,True
+453,Divyansh Sankar,Glassdoor,2024-05-03,Senior,Marketing,True
+3,Rasha Kakar,LinkedIn,2024-05-03,Mid,Engineering,True
+1793,Tanya Kurian,LinkedIn,2024-05-03,Lead,Finance,True
+888,Azad Kakar,Employee Referral,2024-05-04,Lead,Finance,True
+422,Sana Bhatti,LinkedIn,2024-05-04,Lead,Sales,True
+1090,Mehul Sur,Company Website,2024-05-04,Junior,Operations,True
+1557,Gatik Mahal,LinkedIn,2024-05-05,Junior,Marketing,True
+1512,Umang De,Indeed,2024-05-05,Junior,Product,True
+333,Tarini Samra,Naukri,2024-05-05,Mid,Marketing,True
+576,Mannat Rajan,LinkedIn,2024-05-05,Lead,Operations,True
+763,Charvi Wable,Naukri,2024-05-05,Mid,Marketing,True
+728,Gatik Lad,Naukri,2024-05-05,Junior,Engineering,True
+369,Shray Ganesan,Glassdoor,2024-05-05,Lead,Product,True
+432,Zaina Mallick,Indeed,2024-05-05,Mid,Marketing,True
+506,Ehsaan Mani,Glassdoor,2024-05-05,Mid,Finance,True
+1600,Zain Kannan,Campus Placement,2024-05-06,Senior,Sales,True
+775,Taran Malhotra,Company Website,2024-05-06,Mid,Engineering,True
+1583,Divit Varghese,Employee Referral,2024-05-07,Lead,Sales,True
+196,Jayesh Suri,LinkedIn,2024-05-08,Senior,Finance,True
+1086,Neelofar Bhagat,Instagram,2024-05-08,Senior,Operations,True
+1364,Gokul Chakrabarti,LinkedIn,2024-05-08,Lead,Engineering,True
+1450,Rasha Sani,Naukri,2024-05-08,Junior,Operations,True
+1039,Amira Bera,Instagram,2024-05-08,Lead,Sales,True
+584,Advika Lala,Glassdoor,2024-05-09,Junior,Sales,True
+524,Urvi Mander,LinkedIn,2024-05-09,Lead,Engineering,True
+891,Reyansh Jayaraman,Naukri,2024-05-09,Lead,Marketing,True
+1048,Sara Saran,Naukri,2024-05-09,Mid,Sales,True
+768,Bhamini Raju,Glassdoor,2024-05-09,Junior,Product,True
+95,Aarav Hayer,Company Website,2024-05-10,Lead,Product,True
+1049,Kashvi Srinivas,Indeed,2024-05-10,Senior,Sales,True
+1498,Ritvik Dayal,LinkedIn,2024-05-11,Junior,Product,True
+634,Tara Sastry,Indeed,2024-05-11,Senior,Finance,True
+732,Dhanush Dass,Naukri,2024-05-11,Senior,Operations,True
+1753,Mannat Tiwari,Naukri,2024-05-11,Lead,Product,True
+299,Yakshit Korpal,Instagram,2024-05-12,Mid,Marketing,True
+1794,Alia Buch,Naukri,2024-05-13,Senior,Operations,True
+987,Rati Chada,LinkedIn,2024-05-13,Senior,Sales,True
+750,Mahika Bora,Instagram,2024-05-13,Senior,Marketing,True
+256,Abram Vala,Employee Referral,2024-05-13,Senior,Engineering,True
+1367,Jivin Ramachandran,Employee Referral,2024-05-13,Junior,Operations,True
+1224,Zara Brahmbhatt,Indeed,2024-05-14,Lead,Finance,True
+172,Shaan Jaggi,Employee Referral,2024-05-14,Junior,Operations,True
+1649,Rania Mann,Employee Referral,2024-05-14,Junior,Operations,True
+1007,Urvi Gade,LinkedIn,2024-05-14,Mid,Engineering,True
+519,Darshit Bobal,Employee Referral,2024-05-15,Mid,Operations,True
+517,Jivin Virk,Employee Referral,2024-05-15,Lead,Product,True
+427,Ivan Dave,LinkedIn,2024-05-15,Senior,Product,True
+159,Aniruddh Bhardwaj,LinkedIn,2024-05-16,Mid,Product,True
+209,Samar Warrior,Indeed,2024-05-16,Lead,Sales,True
+598,Neelofar Sampath,LinkedIn,2024-05-16,Senior,Operations,True
+1773,Himmat Sane,Naukri,2024-05-16,Lead,Product,True
+359,Diya Sastry,Campus Placement,2024-05-17,Mid,Engineering,True
+773,Azad Iyer,Indeed,2024-05-17,Mid,Engineering,True
+1563,Aaina Thakur,Naukri,2024-05-17,Senior,Operations,True
+1448,Yashvi Doshi,LinkedIn,2024-05-17,Lead,Product,True
+115,Devansh Luthra,Instagram,2024-05-17,Junior,Engineering,True
+569,Advika Bandi,Employee Referral,2024-05-17,Mid,Sales,True
+140,Taimur Cheema,Naukri,2024-05-18,Junior,Product,True
+1145,Hazel Dey,Employee Referral,2024-05-18,Mid,Sales,True
+1628,Shalv Mammen,LinkedIn,2024-05-18,Junior,Product,True
+1710,Arnav Sanghvi,Company Website,2024-05-18,Lead,Finance,True
+741,Nehmat Cheema,Instagram,2024-05-19,Senior,Marketing,True
+1085,Akarsh Vala,Instagram,2024-05-19,Junior,Operations,True
+206,Mishti Dar,LinkedIn,2024-05-19,Junior,Engineering,True
+1582,Aaryahi Shankar,Employee Referral,2024-05-19,Junior,Operations,True
+1149,Himmat Sheth,LinkedIn,2024-05-20,Mid,Sales,True
+878,Farhan Sangha,Company Website,2024-05-20,Mid,Engineering,True
+134,Jhanvi Agrawal,Naukri,2024-05-20,Lead,Engineering,True
+692,Miraan Sood,Naukri,2024-05-20,Mid,Finance,True
+493,Yakshit Johal,Employee Referral,2024-05-22,Junior,Sales,True
+612,Mehul Loke,Company Website,2024-05-22,Junior,Operations,True
+563,Onkar Chaudhary,Employee Referral,2024-05-22,Mid,Product,True
+1312,Zoya Gandhi,Indeed,2024-05-23,Lead,Product,True
+395,Hunar Das,Campus Placement,2024-05-24,Junior,Engineering,True
+1179,Renee Batta,Indeed,2024-05-24,Mid,Operations,True
+1643,Myra Toor,LinkedIn,2024-05-24,Lead,Operations,True
+1445,Prisha Dani,LinkedIn,2024-05-24,Mid,Finance,True
+510,Farhan Singh,Naukri,2024-05-24,Lead,Engineering,True
+832,Aarush Maharaj,LinkedIn,2024-05-24,Senior,Sales,True
+341,Shalv Jha,Naukri,2024-05-24,Senior,Operations,True
+1637,Saanvi Sharaf,LinkedIn,2024-05-24,Mid,Finance,True
+873,Eshani Kapoor,Company Website,2024-05-24,Mid,Operations,True
+1295,Renee Sarin,Naukri,2024-05-25,Junior,Operations,True
+1150,Biju Devi,Naukri,2024-05-25,Senior,Product,True
+324,Ivan Sule,LinkedIn,2024-05-26,Junior,Finance,True
+516,Shayak Gill,Company Website,2024-05-26,Senior,Sales,True
+1482,Riya Savant,LinkedIn,2024-05-26,Junior,Finance,True
+1633,Myra Sura,Company Website,2024-05-26,Senior,Finance,False
+1102,Kimaya Hari,LinkedIn,2024-05-26,Mid,Finance,True
+1282,Miraan Dhingra,Naukri,2024-05-27,Junior,Marketing,True
+1614,Ira Rout,LinkedIn,2024-05-27,Mid,Operations,True
+1250,Jayesh Varughese,Glassdoor,2024-05-28,Senior,Engineering,True
+666,Arnav Dugar,LinkedIn,2024-05-28,Lead,Product,True
+308,Jiya Rao,Employee Referral,2024-05-29,Lead,Marketing,True
+315,Prisha Rajan,LinkedIn,2024-05-29,Senior,Marketing,True
+1785,Armaan Majumdar,Indeed,2024-05-30,Junior,Engineering,True
+1033,Chirag Chacko,Company Website,2024-05-31,Lead,Marketing,True
+61,Ira Butala,Indeed,2024-05-31,Lead,Operations,True
+863,Nitya Bhargava,Employee Referral,2024-05-31,Mid,Engineering,True
+920,Mishti Sane,Naukri,2024-05-31,Mid,Product,True
+1511,Aaina Subramaniam,Glassdoor,2024-05-31,Junior,Product,True
+466,Hansh Madan,Company Website,2024-06-01,Mid,Operations,True
+952,Zain Bajaj,LinkedIn,2024-06-01,Mid,Product,True
+901,Hazel Gupta,Instagram,2024-06-01,Lead,Product,True
+1406,Dhanush Khalsa,LinkedIn,2024-06-01,Junior,Sales,True
+396,Jivika Sanghvi,Instagram,2024-06-01,Lead,Marketing,True
+1318,Kabir Devan,LinkedIn,2024-06-02,Senior,Engineering,True
+808,Eshani Guha,LinkedIn,2024-06-02,Lead,Marketing,True
+1651,Ehsaan Hari,Company Website,2024-06-02,Junior,Product,True
+328,Purab Krishna,Instagram,2024-06-03,Junior,Product,True
+278,Ryan Saini,LinkedIn,2024-06-03,Junior,Sales,True
+1554,Neysa Toor,Glassdoor,2024-06-03,Senior,Finance,True
+297,Kabir Bal,Employee Referral,2024-06-04,Senior,Engineering,True
+922,Shray Rout,Naukri,2024-06-04,Mid,Finance,True
+1378,Saira Acharya,LinkedIn,2024-06-06,Lead,Marketing,True
+1111,Aaina Raju,LinkedIn,2024-06-06,Lead,Finance,True
+1061,Saanvi Kakar,LinkedIn,2024-06-06,Mid,Operations,True
+1088,Ishita Buch,Glassdoor,2024-06-07,Senior,Product,True
+825,Jhanvi Sarin,LinkedIn,2024-06-07,Senior,Operations,True
+40,Kimaya Balay,Indeed,2024-06-07,Junior,Product,True
+927,Nakul Vala,LinkedIn,2024-06-08,Senior,Finance,True
+983,Neysa Varughese,Campus Placement,2024-06-08,Mid,Marketing,True
+1071,Emir Ahluwalia,Instagram,2024-06-09,Senior,Operations,True
+1608,Aayush Rout,LinkedIn,2024-06-09,Junior,Product,True
+1346,Ayesha Bahl,Instagram,2024-06-10,Junior,Marketing,True
+622,Raunak Barman,Indeed,2024-06-10,Junior,Marketing,True
+336,Ranbir Chana,Instagram,2024-06-11,Lead,Operations,True
+408,Romil Chaudhary,Naukri,2024-06-11,Mid,Sales,True
+389,Manikya Shenoy,Employee Referral,2024-06-11,Junior,Sales,True
+394,Taimur Grover,Naukri,2024-06-11,Lead,Product,True
+787,Shaan Ramesh,Indeed,2024-06-13,Mid,Engineering,True
+1060,Ojas Sahni,Company Website,2024-06-14,Senior,Marketing,True
+1065,Rati Wason,Indeed,2024-06-14,Junior,Finance,True
+582,Riya Basak,Naukri,2024-06-15,Mid,Product,True
+897,Fateh Chakraborty,Campus Placement,2024-06-15,Junior,Product,True
+870,Zeeshan Sarna,Indeed,2024-06-16,Senior,Operations,True
+1536,Mishti Sha,Campus Placement,2024-06-17,Junior,Sales,True
+587,Parinaaz Ram,Company Website,2024-06-17,Lead,Sales,True
+1011,Kabir Sangha,LinkedIn,2024-06-17,Senior,Finance,True
+491,Adah Kara,Campus Placement,2024-06-17,Mid,Product,True
+1506,Gokul Shanker,Naukri,2024-06-18,Lead,Marketing,True
+1037,Saira Rattan,Indeed,2024-06-18,Lead,Sales,True
+1462,Bhavin Dash,LinkedIn,2024-06-19,Lead,Finance,True
+675,Rania Kothari,Instagram,2024-06-19,Senior,Marketing,True
+7,Taimur Vaidya,LinkedIn,2024-06-19,Senior,Sales,True
+933,Lagan Gandhi,Company Website,2024-06-19,Junior,Engineering,True
+859,Alia Shetty,Employee Referral,2024-06-20,Senior,Product,True
+1258,Yakshit Banerjee,Employee Referral,2024-06-20,Mid,Product,True
+809,Jayant Karpe,Company Website,2024-06-20,Junior,Marketing,True
+446,Amani Goyal,Naukri,2024-06-20,Lead,Marketing,True
+1123,Ayesha Chacko,Employee Referral,2024-06-20,Junior,Engineering,True
+1225,Vihaan Raj,Indeed,2024-06-20,Mid,Marketing,True
+416,Mahika Suresh,Naukri,2024-06-20,Lead,Marketing,True
+528,Ahana  Sahota,Campus Placement,2024-06-20,Mid,Marketing,True
+268,Shaan Chand,Indeed,2024-06-20,Junior,Product,True
+1275,Divij Bains,LinkedIn,2024-06-21,Junior,Operations,True
+1429,Pihu Kalla,Naukri,2024-06-21,Junior,Finance,True
+1571,Prisha Khosla,LinkedIn,2024-06-21,Senior,Engineering,True
+896,Neysa Vasa,Company Website,2024-06-21,Mid,Finance,True
+1778,Ranbir Varughese,Indeed,2024-06-21,Junior,Sales,True
+730,Samarth Savant,Indeed,2024-06-22,Mid,Finance,True
+1598,Piya Wable,Indeed,2024-06-22,Junior,Product,True
+1238,Trisha Yogi,Indeed,2024-06-23,Junior,Sales,True
+296,Anvi Kannan,Employee Referral,2024-06-23,Junior,Finance,True
+1127,Jayan Sridhar,LinkedIn,2024-06-23,Mid,Engineering,True
+529,Aradhya Raman,LinkedIn,2024-06-23,Senior,Sales,True
+1530,Myra Kala,Naukri,2024-06-23,Junior,Product,True
+661,Rasha Khatri,Indeed,2024-06-24,Junior,Sales,True
+1309,Dhanuk Apte,LinkedIn,2024-06-25,Junior,Product,True
+1421,Kaira Wadhwa,LinkedIn,2024-06-26,Junior,Engineering,True
+1541,Rohan Dhillon,Employee Referral,2024-06-26,Lead,Product,True
+1038,Kimaya Randhawa,Campus Placement,2024-06-26,Lead,Marketing,True
+1247,Azad Varughese,LinkedIn,2024-06-26,Senior,Sales,True
+854,Aaryahi Kurian,Employee Referral,2024-06-27,Mid,Engineering,True
+435,Amani Gour,Employee Referral,2024-06-27,Mid,Finance,True
+1035,Anya Srinivas,Indeed,2024-06-28,Junior,Engineering,True
+1245,Trisha Behl,Company Website,2024-06-28,Junior,Marketing,True
+1373,Myra Wali,LinkedIn,2024-06-28,Senior,Product,True
+411,Kashvi Divan,Company Website,2024-06-29,Lead,Finance,True
+1417,Zara Madan,Employee Referral,2024-06-29,Mid,Product,True
+1531,Aaryahi Khare,Employee Referral,2024-06-29,Senior,Product,True
+1260,Shaan Bassi,LinkedIn,2024-06-29,Junior,Marketing,True
+620,Umang Malhotra,Indeed,2024-06-29,Senior,Operations,True
+378,Divyansh Vohra,LinkedIn,2024-06-30,Junior,Operations,True
+75,Lakshit Madan,Campus Placement,2024-06-30,Junior,Product,True

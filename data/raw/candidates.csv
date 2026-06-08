@@ -1,0 +1,1841 @@
+candidate_id,name,source_channel,application_date,role_level,department
+1,Zoya Virk,linkedin.com,2023-08-11,Junior,Operations
+2,Tara Swaminathan,Employee Referral,2023-03-04,Senior,Engineering
+3,Rasha Kakar,LinkedIn,2024-05-03,Mid,Engineering
+4,Ranbir Brahmbhatt,Instagram,2023-03-24,Mid,Engineering
+5,Tarini Ganguly,Indeed,2023-08-29,Lead,Engineering
+6,Divij Gupta,Instagram,2023-09-10,Junior,Operations
+7,Taimur Vaidya,LinkedIn,2024-06-19,Senior,Sales
+8,Lavanya Deo,linkedin.com,2023-11-18,Mid,Sales
+9,Samiha Karpe,Naukri,2023-11-04,Lead,Sales
+10,Uthkarsh Baral,Campus Placement,2023-03-16,Junior,Product
+11,Mishti Ranganathan,Indeed,2023-04-13,Junior,Operations
+12,Kashvi Char,LinkedIn ,2023-09-29,Mid,Sales
+13,Azad Sahota,Campus Placement,2023-09-08,Senior,Sales
+14,Trisha Dhillon,LI,2023-11-06,Junior,Finance
+15,Mehul Verma,Company Website,2023-11-03,Junior,Marketing
+16,Vaibhav Dewan,LINKEDIN,2023-04-20,Mid,Sales
+17,Myra Tiwari,Linkedin,2023-08-04,Senior,Marketing
+18,Ishaan Goyal,Employee Referral,2023-09-28,Lead,Sales
+19,Lakshay Sampath,Campus Placement,2023-02-22,Junior,Finance
+20,Rati Sanghvi,Naukri,2023-10-11,Junior,Engineering
+21,Mahika Ravi,LinkedIn.com,2023-05-14,Senior,Marketing
+22,Hazel Sethi,Employee Referral,2024-03-13,Junior,Engineering
+23,Ishaan Kashyap,LinkedIn,2023-06-02,Junior,Sales
+24,Purab Reddy,Indeed,2023-06-01,Lead,Marketing
+25,Piya Gaba,LinkedIn,2024-01-09,Junior,Sales
+26,Manikya Tara,LinkedIn ,2023-09-13,Junior,Sales
+27,Zara Dugar,Company Website,2024-02-21,Mid,Marketing
+28,Priyansh Bali,Company Website,2023-07-01,Lead,Engineering
+29,Jiya Vora,Linked In,2023-12-07,Lead,Finance
+30,Lakshit Sagar,Company Website,2023-09-12,Senior,Marketing
+31,Vivaan Wagle,Company Website,2023-04-21,Lead,Engineering
+32,Hridaan Deo,Company Website,2023-08-16,Mid,Product
+33,Nishith Sharma,Naukri,2023-08-22,Mid,Engineering
+34,Siya Master,Indeed,2024-02-13,Senior,Sales
+35,Keya Iyengar,Company Website,2023-10-13,Senior,Finance
+36,Madhup Biswas,Naukri,2023-12-06,Junior,Engineering
+37,Divij Shroff,Campus Placement,2023-09-25,Mid,Operations
+38,Faiyaz Bose,Instagram,2023-09-29,Junior,Engineering
+39,Vritika Sangha,Indeed,2023-12-20,Senior,Product
+40,Kimaya Balay,Indeed,2024-06-07,Junior,Product
+41,Vaibhav Raju,Campus Placement,2023-07-14,Senior,Engineering
+42,Eva Dass,Employee Referral,2023-01-02,Mid,Sales
+43,Pihu Sen,Naukri,2023-12-05,Senior,Finance
+44,Pihu Wali,Company Website,2023-11-04,Senior,Finance
+45,Tiya Rege,Naukri,2024-02-17,Senior,Operations
+46,Faiyaz Din,linkedin,2024-03-06,Lead,Finance
+47,Indranil Karan,Employee Referral,2023-06-28,Senior,Product
+48,Saira Vora,Indeed,2023-01-01,Senior,Sales
+49,Damini Singh,LinkedIn ,2023-11-26,Lead,Product
+50,Dishani Bera,Naukri,2023-08-07,Lead,Finance
+51,Navya Kulkarni,Linked In,2023-03-28,Senior,Operations
+52,Indrans Grover,Employee Referral,2023-12-10,Junior,Marketing
+53,Hrishita Sood,Employee Referral,2023-08-19,Mid,Marketing
+54,Kismat Edwin,LinkedIn,2023-09-08,Lead,Operations
+55,Advik Bhalla,Company Website,2023-03-16,Lead,Product
+56,Zara Dube,Campus Placement,2023-07-19,Lead,Product
+57,Bhavin Dara,Naukri,2023-06-01,Junior,Engineering
+58,Dharmajan Setty,Employee Referral,2023-08-13,Mid,Finance
+59,Darshit Sidhu,Naukri,2023-02-21,Mid,Engineering
+60,Gokul Sahni,Naukri,2024-04-20,Senior,Product
+61,Ira Butala,Indeed,2024-05-31,Lead,Operations
+62,Eva Viswanathan,Naukri,2023-06-12,Lead,Product
+63,Lakshit Madan,LINKEDIN,2023-09-11,Senior,Operations
+64,Riya Dugal,Naukri,2023-09-02,Senior,Product
+65,Oorja Sachar,LinkedIn,2023-10-20,Mid,Sales
+66,Advika Yogi,LinkedIn.com,2023-03-24,Mid,Marketing
+67,Fateh Dasgupta,LinkedIn ,2023-06-06,Mid,Engineering
+68,Chirag Gara,Naukri,2023-12-05,Lead,Product
+69,Khushi Malhotra,LinkedIn,2024-03-06,Lead,Operations
+70,Khushi Choudhary,Instagram,2023-01-21,Lead,Product
+71,Devansh Sathe,LinkedIn,2023-12-27,Senior,Product
+72,Manikya Bandi,Company Website,2024-03-05,Mid,Product
+73,Shalv Banik,LinkedIn ,2024-03-22,Lead,Engineering
+74,Ranbir Sami,Naukri,2024-02-19,Mid,Product
+75,Lakshit Madan,Campus Placement,2024-06-30,Junior,Product
+76,Samaira Wadhwa,Indeed,2023-01-28,Junior,Finance
+77,Nirvaan Srinivasan,Naukri,2024-04-17,Mid,Engineering
+78,Zara Jani,LINKEDIN,2023-12-02,Mid,Product
+79,Divit Bava,LinkedIn.com,2024-01-24,Senior,Product
+80,Sumer Kakar, LinkedIn,2023-03-25,Lead,Engineering
+81,Anahita Venkatesh,Employee Referral,2023-02-23,Senior,Marketing
+82,Pari Sachdeva,Indeed,2023-02-11,Junior,Marketing
+83,Biju Jaggi,linkedin.com,2023-01-21,Mid,Marketing
+84,Yasmin Venkataraman,linkedin,2023-04-28,Mid,Product
+85,Nishith Char,Employee Referral,2024-01-13,Mid,Operations
+86,Heer Kapur,Indeed,2023-04-28,Mid,Sales
+87,Aarna Chand,linkedin,2023-01-27,Senior,Operations
+88,Anahi Dash,Employee Referral,2024-01-20,Lead,Finance
+89,Ahana  Swamy,linkedin.com,2023-09-06,Junior,Finance
+90,Badal Sachdev,Employee Referral,2023-05-04,Junior,Sales
+91,Divij Shetty,Indeed,2024-01-15,Junior,Operations
+92,Ivan Jani,Indeed,2023-01-13,Lead,Product
+93,Anya Chhabra,linkedin,2024-01-06,Lead,Finance
+94,Biju Butala,LI,2023-06-30,Senior,Operations
+95,Aarav Hayer,Company Website,2024-05-10,Lead,Product
+96,Vardaniya Srinivasan,Company Website,2023-10-02,Senior,Marketing
+97,Reyansh Kakar,Company Website,2023-03-30,Senior,Product
+98,Indrans Chandran, LinkedIn,2024-04-20,Lead,Sales
+99,Madhav Balakrishnan,LinkedIn,2023-11-29,Mid,Product
+100,Siya Dugar,LinkedIn ,2023-09-22,Senior,Sales
+101,Badal Master,Campus Placement,2023-10-10,Junior,Operations
+102,Damini Varkey,Instagram,2023-03-29,Mid,Finance
+103,Bhavin Kumar,Naukri,2023-09-04,Lead,Finance
+104,Kabir Banerjee,Employee Referral,2024-04-03,Junior,Engineering
+105,Pari Venkataraman,Linkedin,2024-02-19,Mid,Sales
+106,Yuvaan Bhasin,Employee Referral,2024-01-13,Lead,Operations
+107,Kavya Rajan,Indeed,2024-03-11,Senior,Sales
+108,Miraya Baria,Employee Referral,2023-10-05,Senior,Sales
+109,Nirvi Manne,LinkedIn ,2023-07-17,Senior,Engineering
+110,Pranay Chaudry,Employee Referral,2023-07-09,Mid,Marketing
+111,Nakul Deo,Employee Referral,2023-10-11,Senior,Engineering
+112,Hansh Sampath,Company Website,2023-10-31,Mid,Sales
+113,Amira Dugar,Linked In,2023-01-15,Mid,Sales
+114,Aayush Karnik,LinkedIn,2023-02-25,Senior,Finance
+115,Devansh Luthra,Instagram,2024-05-17,Junior,Engineering
+116,Dishani Deo,Indeed,2024-04-25,Lead,Product
+117,Stuvan Wadhwa,LinkedIn.com,2023-02-22,Senior,Product
+118,Nirvaan Goyal,linkedin,2023-03-08,Lead,Product
+119,Indranil Kanda,LinkedIn,2023-02-24,Mid,Marketing
+120,Manjari Swamy,Company Website,2023-11-08,Junior,Marketing
+121,Nitya Taneja,linkedin,2024-03-02,Mid,Operations
+122,Nitara Ben,Naukri,2024-03-29,Senior,Operations
+123,Prerak Bhardwaj,Glassdoor,2023-11-09,Junior,Operations
+124,Shanaya Malhotra,Instagram,2023-04-12,Mid,Finance
+125,Purab Dhaliwal,LinkedIn ,2023-03-25,Mid,Marketing
+126,Saanvi Garg,Linked In,2023-03-18,Mid,Engineering
+127,Piya Ravel,Naukri,2024-04-26,Senior,Engineering
+128,Dishani Konda,LinkedIn ,2023-10-17,Lead,Engineering
+129,Baiju Batra,Employee Referral,2023-09-28,Mid,Product
+130,Raghav Bains,linkedin,2023-08-19,Mid,Sales
+131,Shamik Solanki,Company Website,2023-03-15,Junior,Marketing
+132,Navya Deep,Company Website,2023-10-23,Lead,Engineering
+133,Seher Kant,Naukri,2023-11-08,Lead,Sales
+134,Jhanvi Agrawal,Naukri,2024-05-20,Lead,Engineering
+135,Dhanuk Wagle,Indeed,2024-03-18,Senior,Operations
+136,Inaaya  Badami, LinkedIn,2023-04-04,Mid,Finance
+137,Keya Majumdar,Company Website,2023-01-22,Senior,Operations
+138,Adah Bhatt,LinkedIn,2023-06-29,Lead,Operations
+139,Ryan Gopal,Indeed,2023-10-12,Mid,Operations
+140,Taimur Cheema,Naukri,2024-05-18,Junior,Product
+141,Nitya Behl,LinkedIn.com,2023-12-08,Senior,Finance
+142,Vanya Mammen,linkedin,2023-06-14,Senior,Product
+143,Miraya Shere,Employee Referral,2023-10-23,Lead,Operations
+144,Miraan Venkatesh,LinkedIn,2023-04-01,Senior,Sales
+145,Yasmin Tak,linked in,2024-02-18,Junior,Finance
+146,Zain Arora,Company Website,2024-04-18,Lead,Engineering
+147,Sara Ganesan,linkedin.com,2024-01-06,Lead,Finance
+148,Zaina Sami,Naukri,2023-02-22,Mid,Sales
+149,Priyansh Buch,Indeed,2023-10-22,Lead,Finance
+150,Vaibhav Viswanathan,Naukri,2023-01-30,Mid,Finance
+151,Anaya Choudhry,LI,2023-01-15,Lead,Engineering
+152,Amira Gill,LinkedIn ,2023-04-27,Lead,Engineering
+153,Yashvi Viswanathan,Indeed,2023-06-07,Lead,Finance
+154,Mamooty Arora,Linkedin,2023-10-07,Lead,Product
+155,Yakshit Gala,Glassdoor,2023-09-07,Lead,Operations
+156,Darshit Som,LI,2023-07-15,Mid,Engineering
+157,Stuvan Rege,LINKEDIN,2024-02-29,Senior,Operations
+158,Parinaaz Upadhyay,LINKEDIN,2023-01-03,Senior,Finance
+159,Aniruddh Bhardwaj,Linkedin,2024-05-16,Mid,Product
+160,Jayesh Mannan,Indeed,2023-12-20,Senior,Operations
+161,Armaan Bhagat,Employee Referral,2024-01-22,Lead,Sales
+162,Shray Sethi,Company Website,2023-09-02,Lead,Marketing
+163,Adira Raman,Company Website,2024-02-25,Junior,Sales
+164,Veer Yogi,Employee Referral,2024-01-26,Lead,Finance
+165,Onkar Bains,Company Website,2023-06-05,Lead,Engineering
+166,Aarav Lad,linkedin,2023-12-06,Junior,Product
+167,Tejas Kale,linkedin,2024-04-12,Junior,Finance
+168,Nitya Gandhi,LI,2023-06-08,Junior,Product
+169,Nitara Vala,Company Website,2023-09-29,Senior,Operations
+170,Saira Yogi,Employee Referral,2023-03-24,Senior,Finance
+171,Dishani Dubey,Company Website,2024-01-25,Senior,Finance
+172,Shaan Jaggi,Employee Referral,2024-05-14,Junior,Operations
+173,Ishita Bhatt,LinkedIn,2023-10-22,Mid,Finance
+174,Aaina Salvi,LinkedIn,2023-04-11,Junior,Product
+175,Parinaaz Shere,Linked In,2023-11-03,Junior,Engineering
+176,Mannat Mane,linked in,2023-02-27,Senior,Sales
+177,Yuvaan Mahal,Naukri,2023-05-30,Mid,Operations
+178,Romil Dhar,Naukri,2023-07-04,Mid,Marketing
+179,Adah Srivastava,LinkedIn,2024-01-27,Mid,Product
+180,Anahita Kant,Campus Placement,2023-05-27,Mid,Product
+181,Pari Chhabra,Indeed,2024-04-15,Senior,Finance
+182,Yashvi Yohannan,LinkedIn,2024-04-21,Senior,Finance
+183,Nirvi Basak,Indeed,2023-03-17,Lead,Sales
+184,Drishya Saini,Glassdoor,2023-11-03,Lead,Finance
+185,Divij Tank, LinkedIn,2023-11-06,Mid,Product
+186,Pari Dubey,Company Website,2023-04-20,Mid,Product
+187,Zara Chaudhary,Indeed,2023-10-30,Senior,Engineering
+188,Anay Bajaj,Glassdoor,2024-02-10,Senior,Engineering
+189,Anika Ramaswamy,Indeed,2023-02-20,Lead,Sales
+190,Amani Johal,Employee Referral,2023-08-24,Senior,Marketing
+191,Saanvi Sarin,Indeed,2023-09-14,Mid,Finance
+192,Bhamini Iyengar,linkedin,2023-02-10,Senior,Product
+193,Hunar Sagar,LinkedIn,2024-01-09,Mid,Engineering
+194,Suhana Vasa,Campus Placement,2023-12-01,Lead,Marketing
+195,Vanya Kala,linkedin.com,2024-01-10,Senior,Marketing
+196,Jayesh Suri,LINKEDIN,2024-05-08,Senior,Finance
+197,Badal Mallick,Company Website,2023-04-28,Lead,Engineering
+198,Gatik Kari,LI,2023-08-20,Lead,Operations
+199,Zaina Kata,Naukri,2024-02-09,Junior,Sales
+200,Tanya Walla,Indeed,2024-04-10,Senior,Finance
+201,Manjari Tandon,Employee Referral,2023-09-26,Lead,Finance
+202,Ira Kapoor,Instagram,2023-04-21,Mid,Product
+203,Shanaya Venkataraman,LinkedIn,2023-12-02,Mid,Finance
+204,Alisha Dayal,LinkedIn,2024-04-20,Senior,Finance
+205,Navya Devi,Naukri,2023-05-24,Junior,Engineering
+206,Mishti Dar,linked in,2024-05-19,Junior,Engineering
+207,Advika Barad, LinkedIn,2023-05-19,Lead,Product
+208,Miraan Deshpande,Naukri,2024-03-05,Mid,Product
+209,Samar Warrior,Indeed,2024-05-16,Lead,Sales
+210,Hiran Borra,LinkedIn,2024-01-15,Mid,Product
+211,Veer Saran,Naukri,2023-08-30,Senior,Engineering
+212,Renee Chhabra,Glassdoor,2024-01-12,Senior,Engineering
+213,Zeeshan Jani,Naukri,2023-07-14,Junior,Product
+214,Hrishita Kaul,LinkedIn,2023-08-06,Junior,Engineering
+215,Biju Chauhan,Company Website,2023-09-07,Mid,Operations
+216,Vidur Zachariah,linkedin.com,2023-08-01,Mid,Marketing
+217,Tarini Mani,LinkedIn.com,2023-06-01,Junior,Sales
+218,Anvi Aggarwal,Company Website,2023-05-29,Mid,Operations
+219,Rohan Shetty, LinkedIn,2023-06-28,Junior,Finance
+220,Aaina Luthra,Company Website,2023-05-15,Junior,Sales
+221,Aradhya Choudhary,Company Website,2023-09-01,Senior,Engineering
+222,Adira Kibe,Linked In,2023-02-23,Mid,Finance
+223,Vidur Ganguly,Naukri,2023-04-27,Junior,Product
+224,Samaira Butala,Naukri,2024-01-06,Junior,Product
+225,Gokul Rastogi,Naukri,2023-02-14,Senior,Product
+226,Vihaan Rajagopalan,Indeed,2023-02-01,Junior,Product
+227,Dharmajan Rout,Company Website,2024-03-12,Junior,Product
+228,Himmat Verma,Employee Referral,2024-03-30,Junior,Engineering
+229,Jivin Bakshi,linked in,2023-06-01,Junior,Marketing
+230,Vaibhav Gade,LINKEDIN,2023-11-29,Lead,Operations
+231,Amani Gade,Indeed,2024-04-09,Lead,Engineering
+232,Tara Wable,Company Website,2023-04-28,Mid,Product
+233,Ranbir Shetty,Naukri,2023-08-22,Lead,Sales
+234,Ojas Tiwari,Company Website,2024-02-13,Lead,Finance
+235,Anaya Andra,linkedin,2024-03-13,Senior,Finance
+236,Stuvan Choudhury, LinkedIn,2023-06-06,Lead,Engineering
+237,Vanya Sachdev,LinkedIn,2023-03-29,Junior,Product
+238,Tanya Aurora,linkedin,2024-01-17,Mid,Operations
+239,Krish Tripathi,LinkedIn,2023-12-04,Junior,Product
+240,Misha Bose,Naukri,2024-03-09,Junior,Sales
+241,Gokul Khalsa,Indeed,2023-12-27,Junior,Operations
+242,Jivika Chopra,Naukri,2023-06-08,Lead,Marketing
+243,Rati Dave,Company Website,2023-12-25,Senior,Engineering
+244,Ivan Raman,Employee Referral,2023-08-20,Lead,Operations
+245,Vanya Tank,Glassdoor,2023-01-27,Senior,Engineering
+246,Sahil Bhagat,Linked In,2023-11-13,Senior,Sales
+247,Sahil Mani,LinkedIn,2023-05-27,Lead,Engineering
+248,Vivaan Sehgal,LI,2023-02-01,Junior,Finance
+249,Dhanuk Rajagopalan,Indeed,2024-01-21,Lead,Product
+250,Ehsaan Sarin,LinkedIn.com,2024-01-14,Senior,Finance
+251,Piya Rama,linked in,2023-03-28,Junior,Marketing
+252,Yashvi Mandal,LI,2023-02-20,Junior,Sales
+253,Shray Lata,Naukri,2024-03-10,Lead,Operations
+254,Nitara Goyal,Naukri,2023-10-07,Mid,Operations
+255,Dishani Sabharwal,linkedin,2024-03-16,Junior,Sales
+256,Abram Vala,Employee Referral,2024-05-13,Senior,Engineering
+257,Ayesha Bera,LinkedIn ,2023-02-26,Junior,Marketing
+258,Taran Ravi,Linkedin,2023-08-05,Mid,Sales
+259,Rhea Bose,Linkedin,2023-05-03,Junior,Product
+260,Jayesh Sha,Employee Referral,2023-06-29,Mid,Product
+261,Mannat Swamy,Indeed,2023-08-24,Senior,Engineering
+262,Anahita Kamdar,Naukri,2023-02-13,Lead,Engineering
+263,Samarth Varkey,Naukri,2023-03-21,Senior,Operations
+264,Dhruv Dewan,Naukri,2024-02-19,Lead,Sales
+265,Nirvaan Sheth,linkedin,2023-01-22,Senior,Marketing
+266,Jiya Ramaswamy,Company Website,2024-04-16,Senior,Engineering
+267,Shayak Atwal,Naukri,2023-04-19,Mid,Product
+268,Shaan Chand,Indeed,2024-06-20,Junior,Product
+269,Lakshit Goel,Company Website,2023-12-14,Mid,Sales
+270,Shlok Dey,Company Website,2023-03-20,Junior,Operations
+271,Ivana Ahluwalia,Naukri,2023-12-24,Senior,Finance
+272,Dharmajan Dara,Instagram,2023-06-01,Mid,Engineering
+273,Ayesha Mall,LI,2023-07-22,Mid,Operations
+274,Prisha Khanna,LI,2023-03-19,Mid,Finance
+275,Alia Sule,Naukri,2024-04-04,Senior,Finance
+276,Divij Din,linked in,2024-03-26,Junior,Product
+277,Yuvaan Saraf,Naukri,2023-11-07,Senior,Operations
+278,Ryan Saini,LinkedIn,2024-06-03,Junior,Sales
+279,Anika Malhotra,Naukri,2023-02-08,Junior,Sales
+280,Aarna Sharma,Company Website,2023-03-20,Junior,Operations
+281,Sumer Sarna,Indeed,2024-01-29,Lead,Operations
+282,Purab Dua,Indeed,2023-02-12,Lead,Operations
+283,Mehul Bhasin,Indeed,2023-11-26,Lead,Operations
+284,Saksham Bhasin,LI,2023-03-05,Lead,Engineering
+285,Kartik Chokshi,Company Website,2023-12-18,Junior,Operations
+286,Raghav Sengupta,Indeed,2023-02-10,Mid,Finance
+287,Divyansh Thaman,Naukri,2024-03-25,Mid,Sales
+288,Ritvik Comar,Naukri,2023-10-17,Lead,Product
+289,Jayesh Dora,Employee Referral,2023-02-23,Senior,Engineering
+290,Rhea Loke,LinkedIn.com,2024-01-31,Senior,Sales
+291,Raghav Bajaj,Employee Referral,2023-06-03,Senior,Engineering
+292,Ishita Dhingra,Indeed,2023-05-25,Senior,Sales
+293,Navya Vig,Glassdoor,2024-02-06,Mid,Operations
+294,Ehsaan Viswanathan,Employee Referral,2023-03-28,Senior,Operations
+295,Kaira Dhar,Naukri,2023-12-03,Mid,Finance
+296,Anvi Kannan,Employee Referral,2024-06-23,Junior,Finance
+297,Kabir Bal,Employee Referral,2024-06-04,Senior,Engineering
+298,Anvi Bhandari,Naukri,2023-07-04,Mid,Sales
+299,Yakshit Korpal,Instagram,2024-05-12,Mid,Marketing
+300,Kashvi Rau,Glassdoor,2023-06-08,Junior,Sales
+301,Indrajit Borde,Company Website,2023-04-14,Junior,Finance
+302,Dharmajan Dash,LinkedIn.com,2023-05-15,Lead,Marketing
+303,Ivana Singhal,LI,2023-06-19,Lead,Engineering
+304,Mahika Raju,Naukri,2023-09-01,Lead,Operations
+305,Urvi Lal,Linkedin,2024-04-04,Mid,Operations
+306,Alisha Kant, LinkedIn,2024-04-25,Mid,Sales
+307,Khushi Kala,Employee Referral,2024-03-27,Lead,Sales
+308,Jiya Rao,Employee Referral,2024-05-29,Lead,Marketing
+309,Manjari Shankar,Company Website,2023-05-22,Senior,Engineering
+310,Tarini Chawla,Indeed,2024-01-16,Junior,Finance
+311,Prerak Sahota,Company Website,2023-05-08,Senior,Engineering
+312,Indranil Dar,Employee Referral,2023-10-07,Lead,Operations
+313,Ishita Barad,LI,2024-03-23,Junior,Marketing
+314,Aarav Jayaraman,Company Website,2023-12-24,Junior,Product
+315,Prisha Rajan,LinkedIn,2024-05-29,Senior,Marketing
+316,Riaan Babu,Naukri,2023-03-25,Senior,Marketing
+317,Reyansh Sastry,LinkedIn,2023-04-12,Senior,Marketing
+318,Rati Vasa,linkedin,2023-10-21,Lead,Finance
+319,Devansh Sankar,Company Website,2024-04-25,Lead,Operations
+320,Prerak Subramaniam,LinkedIn,2023-03-23,Junior,Sales
+321,Aarna Bhandari,LinkedIn ,2023-06-03,Lead,Engineering
+322,Neelofar Borde,Employee Referral,2023-09-01,Senior,Engineering
+323,Hridaan Banik,LinkedIn,2024-03-05,Lead,Engineering
+324,Ivan Sule,linkedin,2024-05-26,Junior,Finance
+325,Kimaya Shere,Naukri,2023-09-05,Mid,Sales
+326,Advika Bhatia,Naukri,2023-12-28,Mid,Operations
+327,Prisha Doshi,Naukri,2023-03-29,Senior,Engineering
+328,Purab Krishna,Instagram,2024-06-03,Junior,Product
+329,Advika Baria,Campus Placement,2023-02-14,Lead,Sales
+330,Adah Shah, LinkedIn,2023-01-17,Senior,Engineering
+331,Lavanya Dass,LinkedIn.com,2023-04-17,Senior,Marketing
+332,Divij Contractor,LinkedIn,2023-12-13,Mid,Finance
+333,Tarini Samra,Naukri,2024-05-05,Mid,Marketing
+334,Kashvi Bahri,LinkedIn,2024-04-13,Junior,Sales
+335,Anaya Lad,linkedin.com,2023-07-24,Junior,Sales
+336,Ranbir Chana,Instagram,2024-06-11,Lead,Operations
+337,Myra Talwar,Naukri,2023-02-07,Mid,Sales
+338,Divij Keer,Naukri,2023-02-18,Senior,Sales
+339,Yuvraj  Ganesan,linkedin,2024-01-12,Lead,Product
+340,Oorja Ben,Employee Referral,2024-01-31,Senior,Marketing
+341,Shalv Jha,Naukri,2024-05-24,Senior,Operations
+342,Reyansh Saini,LINKEDIN,2023-03-26,Lead,Engineering
+343,Tara Maharaj,Naukri,2023-07-04,Senior,Sales
+344,Amani Basu,linkedin,2023-12-02,Senior,Sales
+345,Ojas Edwin,Naukri,2024-03-12,Mid,Finance
+346,Trisha Jaggi,Naukri,2024-04-02,Junior,Finance
+347,Nirvi Virk,Company Website,2023-12-28,Lead,Sales
+348,Zain Bala,Indeed,2023-02-28,Junior,Finance
+349,Ela Golla,Indeed,2024-01-08,Mid,Engineering
+350,Mishti Kant,LI,2024-03-24,Junior,Marketing
+351,Lagan Deol,LinkedIn,2024-01-11,Senior,Product
+352,Reyansh Kanda,Instagram,2023-02-03,Mid,Finance
+353,Gatik Atwal,Naukri,2024-01-15,Senior,Product
+354,Rhea Buch,Employee Referral,2023-05-21,Senior,Product
+355,Ishita Amble,linked in,2023-10-13,Mid,Engineering
+356,Divij Chowdhury,LinkedIn,2023-07-10,Lead,Operations
+357,Anahi Bhargava,Naukri,2023-05-01,Senior,Sales
+358,Charvi Sehgal,Employee Referral,2023-08-08,Senior,Finance
+359,Diya Sastry,Campus Placement,2024-05-17,Mid,Engineering
+360,Zeeshan Tiwari,linkedin,2023-03-17,Lead,Marketing
+361,Anaya Dara,Campus Placement,2024-03-31,Junior,Finance
+362,Ishita Bora,Glassdoor,2023-11-24,Senior,Finance
+363,Kanav Ram,LinkedIn,2023-10-25,Senior,Marketing
+364,Darshit Devi,Employee Referral,2023-06-28,Senior,Operations
+365,Shlok Subramaniam,LinkedIn ,2023-07-25,Mid,Marketing
+366,Aarav Dhaliwal,Company Website,2023-01-27,Senior,Operations
+367,Khushi Mann,Indeed,2024-04-23,Mid,Operations
+368,Indrajit Kapoor,Campus Placement,2023-03-09,Senior,Product
+369,Shray Ganesan,Glassdoor,2024-05-05,Lead,Product
+370,Amani Dyal,Company Website,2023-03-17,Mid,Sales
+371,Rasha Dar,Indeed,2024-04-05,Lead,Finance
+372,Mehul Varty,Naukri,2023-05-12,Mid,Marketing
+373,Azad Dutt,Naukri,2023-02-26,Junior,Operations
+374,Renee Tak,LI,2023-06-18,Mid,Sales
+375,Veer Saini,Instagram,2023-08-19,Senior,Operations
+376,Bhamini Badami,Campus Placement,2023-03-22,Senior,Marketing
+377,Damini Rajagopal,Indeed,2023-10-09,Mid,Finance
+378,Divyansh Vohra,linked in,2024-06-30,Junior,Operations
+379,Divyansh Lall,Indeed,2023-06-07,Mid,Finance
+380,Abram Sen,Indeed,2023-12-12,Junior,Engineering
+381,Yuvraj  Virk,LinkedIn,2023-09-29,Mid,Operations
+382,Dhanuk Keer,Naukri,2023-02-01,Lead,Finance
+383,Shayak Ratta,Indeed,2023-11-06,Lead,Marketing
+384,Nehmat Baria,Company Website,2024-02-20,Senior,Product
+385,Pari Varughese,LinkedIn,2023-03-03,Mid,Product
+386,Samar Rattan,Naukri,2024-04-20,Mid,Sales
+387,Hrishita Badami,Indeed,2023-11-17,Senior,Finance
+388,Miraan Raval,Glassdoor,2023-12-20,Lead,Marketing
+389,Manikya Shenoy,Employee Referral,2024-06-11,Junior,Sales
+390,Adira Bawa, LinkedIn,2023-05-06,Senior,Product
+391,Ahana  Chacko, LinkedIn,2023-04-10,Junior,Sales
+392,Aniruddh Bajaj,Instagram,2024-03-04,Mid,Marketing
+393,Yashvi Bala,Company Website,2023-11-17,Mid,Marketing
+394,Taimur Grover,Naukri,2024-06-11,Lead,Product
+395,Hunar Das,Campus Placement,2024-05-24,Junior,Engineering
+396,Jivika Sanghvi,Instagram,2024-06-01,Lead,Marketing
+397,Jayan Chahal,LinkedIn ,2023-12-28,Junior,Engineering
+398,Manjari Virk,Linkedin,2024-04-26,Senior,Operations
+399,Miraya Sanghvi,LinkedIn,2023-04-21,Lead,Marketing
+400,Charvi Manne,Campus Placement,2024-01-10,Lead,Sales
+401,Mehul Kashyap,LinkedIn,2023-02-22,Mid,Sales
+402,Amira Datta,Indeed,2023-03-17,Lead,Operations
+403,Zaina Kaul,Naukri,2023-10-14,Junior,Marketing
+404,Parinaaz Mahajan,Glassdoor,2024-02-08,Senior,Sales
+405,Devansh Kant,Indeed,2024-01-10,Mid,Marketing
+406,Khushi Doctor,Indeed,2024-02-16,Junior,Engineering
+407,Prisha Dass,LinkedIn,2023-12-08,Lead,Operations
+408,Romil Chaudhary,Naukri,2024-06-11,Mid,Sales
+409,Anya Bera,Instagram,2023-11-23,Mid,Product
+410,Vaibhav Mangal,Glassdoor,2023-11-03,Senior,Operations
+411,Kashvi Divan,Company Website,2024-06-29,Lead,Finance
+412,Akarsh Thakkar,Indeed,2024-05-01,Junior,Sales
+413,Raghav Agrawal,LinkedIn.com,2023-04-23,Lead,Operations
+414,Mahika Sharma,linked in,2023-01-28,Lead,Sales
+415,Reyansh Soni,Glassdoor,2023-08-22,Junior,Operations
+416,Mahika Suresh,Naukri,2024-06-20,Lead,Marketing
+417,Madhup Ravi,Company Website,2023-09-06,Junior,Operations
+418,Miraya Dass,Instagram,2023-04-23,Mid,Engineering
+419,Mishti Bava,Naukri,2024-03-04,Mid,Product
+420,Sahil Subramaniam,Employee Referral,2024-02-25,Lead,Finance
+421,Arhaan Mann,Employee Referral,2023-05-22,Mid,Operations
+422,Sana Bhatti,linked in,2024-05-04,Lead,Sales
+423,Ritvik Gade,Instagram,2024-04-15,Senior,Operations
+424,Jayant Chaudhry,Naukri,2023-09-28,Lead,Marketing
+425,Vedika Madan,Instagram,2023-10-13,Senior,Marketing
+426,Eva Krishna,Instagram,2023-11-01,Senior,Finance
+427,Ivan Dave,linkedin.com,2024-05-15,Senior,Product
+428,Zara Divan,LinkedIn.com,2023-10-08,Senior,Engineering
+429,Zaina Bhandari,Indeed,2024-01-24,Lead,Sales
+430,Dhanuk Bobal,Instagram,2023-05-30,Senior,Engineering
+431,Parinaaz Sengupta,Linkedin,2023-03-22,Senior,Product
+432,Zaina Mallick,Indeed,2024-05-05,Mid,Marketing
+433,Divij Subramanian,Company Website,2023-10-05,Senior,Marketing
+434,Abram Deo,linkedin,2023-09-03,Mid,Engineering
+435,Amani Gour,Employee Referral,2024-06-27,Mid,Finance
+436,Keya Halder, LinkedIn,2023-04-13,Lead,Sales
+437,Emir Sandal,Employee Referral,2023-04-13,Mid,Engineering
+438,Anaya Arora,Instagram,2023-06-11,Lead,Finance
+439,Manjari Choudhry,Instagram,2024-05-02,Lead,Finance
+440,Myra Tata,linkedin.com,2023-10-22,Senior,Sales
+441,Rati Dora,Indeed,2023-04-02,Mid,Operations
+442,Farhan Boase,Employee Referral,2023-02-08,Mid,Product
+443,Armaan Doshi,Campus Placement,2023-06-30,Junior,Product
+444,Farhan Bava,Company Website,2023-07-10,Senior,Engineering
+445,Heer Bir,LinkedIn,2023-04-20,Senior,Sales
+446,Amani Goyal,Naukri,2024-06-20,Lead,Marketing
+447,Khushi Sharaf,Company Website,2024-04-24,Senior,Marketing
+448,Zeeshan Sagar,Company Website,2023-12-05,Mid,Finance
+449,Ayesha Randhawa,Naukri,2023-09-21,Mid,Engineering
+450,Ranbir Babu,Employee Referral,2023-10-30,Mid,Marketing
+451,Madhav Kapadia,Indeed,2024-02-20,Lead,Operations
+452,Miraan Varma,LinkedIn.com,2024-02-15,Junior,Marketing
+453,Divyansh Sankar,Glassdoor,2024-05-03,Senior,Marketing
+454,Inaaya  Yohannan,LinkedIn,2024-01-28,Mid,Product
+455,Biju Issac,Employee Referral,2023-12-04,Senior,Operations
+456,Kanav Bhat,Employee Referral,2023-01-12,Senior,Finance
+457,Divij Saini,Naukri,2023-08-30,Junior,Finance
+458,Nayantara Reddy,linkedin,2023-11-11,Mid,Product
+459,Badal Srivastava,Employee Referral,2023-11-15,Junior,Finance
+460,Nirvaan Bhatnagar,Campus Placement,2023-10-30,Senior,Operations
+461,Darshit Thakkar,LinkedIn ,2023-05-17,Lead,Marketing
+462,Khushi Chokshi,Naukri,2024-01-18,Lead,Finance
+463,Shalv Soman,Indeed,2024-04-27,Mid,Marketing
+464,Vedika Yohannan,Employee Referral,2023-03-25,Lead,Operations
+465,Raghav Varughese,Employee Referral,2023-03-21,Junior,Engineering
+466,Hansh Madan,Company Website,2024-06-01,Mid,Operations
+467,Yasmin Chahal,Indeed,2023-06-18,Senior,Operations
+468,Nitara Verma,Naukri,2023-07-30,Lead,Engineering
+469,Hansh Amble,Campus Placement,2024-04-01,Junior,Product
+470,Vritika Subramaniam,linkedin,2024-03-01,Lead,Operations
+471,Khushi Edwin,LinkedIn,2024-04-18,Senior,Finance
+472,Jayant Deo,LinkedIn,2023-09-18,Junior,Finance
+473,Gokul Shanker,LinkedIn ,2023-03-16,Junior,Product
+474,Eshani Bhandari,LinkedIn.com,2023-03-07,Junior,Engineering
+475,Anika Kapur,Glassdoor,2024-04-28,Junior,Sales
+476,Drishya Rajagopalan,Naukri,2023-05-19,Lead,Sales
+477,Alisha Krishnamurthy,Glassdoor,2024-01-27,Lead,Product
+478,Mannat Bains,Naukri,2023-05-17,Senior,Engineering
+479,Amira Rout,Linked In,2024-02-07,Mid,Finance
+480,Biju Khatri,Glassdoor,2023-01-04,Junior,Sales
+481,Aaryahi Sankar,Naukri,2024-03-10,Lead,Marketing
+482,Ayesha Sawhney, LinkedIn,2023-12-21,Mid,Sales
+483,Devansh Yogi,linkedin.com,2023-04-26,Junior,Finance
+484,Samarth Ramanathan,Naukri,2023-01-17,Mid,Marketing
+485,Chirag Bhatnagar,LinkedIn,2023-02-04,Lead,Operations
+486,Misha Ravel,Employee Referral,2023-02-19,Mid,Finance
+487,Vaibhav Raju,LinkedIn,2024-03-25,Mid,Operations
+488,Amani Krishnan,LinkedIn ,2023-02-27,Mid,Operations
+489,Divyansh Sundaram,Glassdoor,2023-08-28,Senior,Operations
+490,Neysa Sachdev,Indeed,2023-11-25,Mid,Sales
+491,Adah Kara,Campus Placement,2024-06-17,Mid,Product
+492,Zain Gara,Linkedin,2023-03-04,Mid,Finance
+493,Yakshit Johal,Employee Referral,2024-05-22,Junior,Sales
+494,Saksham Kala,Instagram,2024-01-26,Senior,Finance
+495,Nitya Datta,Naukri,2023-06-02,Senior,Product
+496,Indrans Sankar,Linked In,2024-04-29,Mid,Marketing
+497,Darshit Bath,Linkedin,2023-05-28,Lead,Engineering
+498,Divij Kalita,Indeed,2024-03-02,Mid,Product
+499,Shanaya Shankar, LinkedIn,2023-07-28,Senior,Finance
+500,Zoya Bhattacharyya,LinkedIn,2024-04-05,Senior,Engineering
+501,Khushi Mand,Indeed,2023-07-15,Junior,Sales
+502,Oorja Bhat,Naukri,2023-02-10,Junior,Marketing
+503,Sumer Vohra,Company Website,2023-08-11,Lead,Marketing
+504,Saira Bal,Company Website,2023-12-07,Senior,Engineering
+505,Kismat Dugal,LinkedIn ,2023-07-14,Junior,Finance
+506,Ehsaan Mani,Glassdoor,2024-05-05,Mid,Finance
+507,Indrans Saha,Indeed,2023-07-29,Lead,Marketing
+508,Mamooty Vaidya,Indeed,2023-10-17,Lead,Product
+509,Stuvan Uppal,Indeed,2024-01-03,Senior,Sales
+510,Farhan Singh,Naukri,2024-05-24,Lead,Engineering
+511,Kaira Chowdhury,Company Website,2024-04-25,Senior,Marketing
+512,Jhanvi Sinha,Naukri,2024-02-28,Junior,Operations
+513,Mahika Saha,Company Website,2023-05-30,Junior,Sales
+514,Aniruddh Chana,Indeed,2024-03-03,Senior,Marketing
+515,Rati Singh,linkedin.com,2023-08-24,Lead,Operations
+516,Shayak Gill,Company Website,2024-05-26,Senior,Sales
+517,Jivin Virk,Employee Referral,2024-05-15,Lead,Product
+518,Jivika Saha,Linked In,2023-12-27,Mid,Marketing
+519,Darshit Bobal,Employee Referral,2024-05-15,Mid,Operations
+520,Divij Shenoy,Glassdoor,2023-03-02,Junior,Engineering
+521,Uthkarsh Kadakia,Instagram,2023-02-19,Junior,Product
+522,Shlok Brar,linkedin,2023-08-25,Junior,Finance
+523,Sahil Sen,LI,2023-08-12,Lead,Sales
+524,Urvi Mander,LinkedIn,2024-05-09,Lead,Engineering
+525,Baiju Brahmbhatt,LinkedIn,2024-02-26,Junior,Engineering
+526,Tanya Ranganathan,Indeed,2023-10-09,Senior,Engineering
+527,Pari Baria,Naukri,2024-03-16,Mid,Engineering
+528,Ahana  Sahota,Campus Placement,2024-06-20,Mid,Marketing
+529,Aradhya Raman,linkedin.com,2024-06-23,Senior,Sales
+530,Zeeshan Deshpande,LINKEDIN,2024-02-11,Junior,Sales
+531,Tanya Kunda,Instagram,2024-04-15,Mid,Finance
+532,Shray Kale,LinkedIn ,2023-03-24,Junior,Engineering
+533,Raunak Sane,Naukri,2024-01-22,Lead,Engineering
+534,Eshani Sama,Indeed,2023-06-25,Junior,Product
+535,Azad Choudhary,Company Website,2023-12-06,Junior,Operations
+536,Kismat Bala,Campus Placement,2023-08-24,Mid,Finance
+537,Lagan Dora,Campus Placement,2024-05-01,Senior,Engineering
+538,Tiya Biswas,Campus Placement,2023-10-15,Junior,Marketing
+539,Riaan Gade,Campus Placement,2023-11-19,Junior,Marketing
+540,Aarush Kothari,Indeed,2024-02-12,Junior,Sales
+541,Jayant Bhattacharyya,LI,2023-09-04,Lead,Finance
+542,Hazel Sarraf,Campus Placement,2023-12-06,Lead,Finance
+543,Damini Mammen,LI,2023-03-22,Senior,Engineering
+544,Devansh Issac,linkedin,2023-08-26,Junior,Sales
+545,Adira Andra,Indeed,2024-02-11,Senior,Engineering
+546,Dhanuk Venkataraman,Indeed,2024-04-06,Lead,Marketing
+547,Kashvi Kala,Naukri,2024-01-20,Lead,Marketing
+548,Rhea Reddy,Employee Referral,2024-01-25,Junior,Operations
+549,Riaan Bhandari,Linkedin,2023-09-10,Junior,Engineering
+550,Akarsh Gaba,LINKEDIN,2024-01-25,Mid,Finance
+551,Zaina Ranganathan,Naukri,2024-01-05,Junior,Engineering
+552,Prisha Golla,LinkedIn,2023-11-12,Lead,Sales
+553,Adira Uppal,Employee Referral,2023-04-15,Mid,Engineering
+554,Nirvaan Kamdar,linkedin.com,2024-04-04,Lead,Engineering
+555,Eshani Baral,LinkedIn,2023-12-29,Junior,Operations
+556,Sahil Sharma,Indeed,2023-11-29,Lead,Engineering
+557,Madhup Ganesan,Linkedin,2024-02-02,Junior,Finance
+558,Dhanuk Kumer,Campus Placement,2023-09-06,Mid,Finance
+559,Eva Kumer,Naukri,2023-05-23,Senior,Sales
+560,Urvi Ghosh,LINKEDIN,2023-05-30,Junior,Marketing
+561,Samiha Tank,Naukri,2024-03-07,Senior,Product
+562,Miraan Behl,Company Website,2024-01-05,Senior,Marketing
+563,Onkar Chaudhary,Employee Referral,2024-05-22,Mid,Product
+564,Lavanya Bose,linkedin,2023-11-08,Junior,Product
+565,Jayesh Som,LinkedIn.com,2024-01-25,Senior,Product
+566,Anahi Shroff,LinkedIn.com,2023-05-20,Senior,Sales
+567,Pihu Wadhwa,Indeed,2023-07-25,Lead,Sales
+568,Mishti Dugar,Linked In,2024-02-12,Senior,Sales
+569,Advika Bandi,Employee Referral,2024-05-17,Mid,Sales
+570,Ahana  Raval,Naukri,2024-02-07,Senior,Engineering
+571,Yashvi Devan,Instagram,2023-07-24,Mid,Finance
+572,Sumer Kulkarni,Employee Referral,2023-01-28,Lead,Finance
+573,Sahil Kashyap,LinkedIn ,2023-10-26,Junior,Product
+574,Armaan Balakrishnan,Employee Referral,2023-05-23,Senior,Marketing
+575,Reyansh Barad, LinkedIn,2023-06-07,Lead,Product
+576,Mannat Rajan,LinkedIn,2024-05-05,Lead,Operations
+577,Anahi Mannan,Naukri,2024-03-04,Junior,Sales
+578,Alisha Tailor,Employee Referral,2023-03-29,Junior,Marketing
+579,Samarth Ramakrishnan,Indeed,2023-12-30,Mid,Finance
+580,Damini Borra,Indeed,2024-02-14,Senior,Product
+581,Alisha Behl,linkedin,2023-04-11,Senior,Marketing
+582,Riya Basak,Naukri,2024-06-15,Mid,Product
+583,Arnav Dasgupta,Naukri,2024-04-19,Mid,Sales
+584,Advika Lala,Glassdoor,2024-05-09,Junior,Sales
+585,Tejas Grewal,Naukri,2023-03-29,Junior,Finance
+586,Vidur Jayaraman,LI,2023-11-16,Senior,Product
+587,Parinaaz Ram,Company Website,2024-06-17,Lead,Sales
+588,Vritika Raval,Naukri,2024-03-24,Lead,Sales
+589,Chirag Gala,LinkedIn,2023-02-15,Junior,Engineering
+590,Ivana Sane,Company Website,2023-04-22,Mid,Finance
+591,Raunak Date, LinkedIn,2023-06-28,Mid,Sales
+592,Shamik Baria,Indeed,2024-04-18,Mid,Product
+593,Stuvan Dubey,Indeed,2023-07-10,Lead,Product
+594,Hansh Rajan,LinkedIn,2023-07-22,Lead,Operations
+595,Sahil Mammen,Naukri,2023-01-05,Mid,Marketing
+596,Nayantara Sule,LINKEDIN,2023-03-06,Junior,Operations
+597,Gokul Sampath,linkedin.com,2023-11-30,Mid,Product
+598,Neelofar Sampath,linkedin,2024-05-16,Senior,Operations
+599,Diya Golla,Naukri,2024-02-06,Junior,Sales
+600,Taran Dubey,Naukri,2024-04-13,Mid,Finance
+601,Lakshit Garde,Employee Referral,2023-11-01,Junior,Finance
+602,Kartik Chowdhury,linkedin,2023-05-01,Mid,Sales
+603,Indrans Barad,linkedin,2024-01-18,Mid,Operations
+604,Vedika Bedi,Naukri,2023-05-22,Lead,Product
+605,Nitara Ganguly,Linked In,2023-06-27,Mid,Product
+606,Kimaya Guha,Linkedin,2023-07-11,Senior,Product
+607,Ishaan Chana,Indeed,2024-01-03,Junior,Product
+608,Saira Kanda,linkedin,2024-01-29,Lead,Product
+609,Zain Gopal,Employee Referral,2024-03-01,Lead,Product
+610,Ahana  Ramaswamy,Linked In,2023-02-01,Mid,Sales
+611,Suhana Shere,LinkedIn,2023-08-19,Senior,Marketing
+612,Mehul Loke,Company Website,2024-05-22,Junior,Operations
+613,Sahil Tailor,linkedin,2024-01-11,Junior,Finance
+614,Kartik Gour,Naukri,2023-08-12,Lead,Engineering
+615,Anahi Sodhi,Employee Referral,2023-09-11,Senior,Engineering
+616,Vanya Halder,Naukri,2023-12-23,Junior,Product
+617,Ishaan Taneja,Company Website,2023-05-01,Mid,Marketing
+618,Zaina Ramakrishnan,Company Website,2023-12-26,Lead,Marketing
+619,Ojas Bal,Indeed,2023-07-31,Mid,Engineering
+620,Umang Malhotra,Indeed,2024-06-29,Senior,Operations
+621,Riya Vaidya,Indeed,2023-11-28,Senior,Sales
+622,Raunak Barman,Indeed,2024-06-10,Junior,Marketing
+623,Purab Kar,Instagram,2024-02-26,Junior,Sales
+624,Adira Bath,Company Website,2023-05-10,Mid,Marketing
+625,Alisha Wagle,LI,2023-11-26,Mid,Finance
+626,Anay Johal,Naukri,2023-05-26,Senior,Finance
+627,Vivaan Krishnamurthy,Naukri,2024-04-07,Junior,Finance
+628,Miraan Hans,Company Website,2023-04-06,Lead,Operations
+629,Umang Choudhury,Employee Referral,2024-01-13,Lead,Product
+630,Samar Bawa,LinkedIn.com,2023-01-03,Junior,Finance
+631,Vritika Bora,Glassdoor,2024-01-02,Junior,Operations
+632,Armaan Dhar,Naukri,2024-03-15,Mid,Product
+633,Rasha Thakur,LINKEDIN,2023-10-18,Senior,Operations
+634,Tara Sastry,Indeed,2024-05-11,Senior,Finance
+635,Alia Randhawa,Employee Referral,2023-02-17,Junior,Finance
+636,Dhanush Andra,Company Website,2024-04-15,Junior,Engineering
+637,Madhav Tiwari,Campus Placement,2023-06-11,Lead,Product
+638,Ira Seth,LinkedIn,2024-03-14,Mid,Finance
+639,Faiyaz Soni,Campus Placement,2023-11-06,Mid,Sales
+640,Miraan Dora,linkedin,2024-01-05,Senior,Engineering
+641,Badal Dar,Naukri,2023-06-19,Junior,Product
+642,Navya Sundaram,Indeed,2023-08-28,Lead,Finance
+643,Chirag Bhakta,LinkedIn,2023-04-08,Junior,Marketing
+644,Kimaya Loyal,Naukri,2023-05-16,Mid,Operations
+645,Mohanlal Kurian,Employee Referral,2023-01-10,Junior,Finance
+646,Saanvi Bora,LinkedIn.com,2023-05-04,Lead,Finance
+647,Aaryahi Acharya,linkedin,2023-03-14,Mid,Product
+648,Nakul Mangal,LinkedIn,2023-04-15,Junior,Sales
+649,Kabir Salvi,Naukri,2023-11-03,Mid,Product
+650,Eshani Gole,Employee Referral,2023-05-17,Mid,Engineering
+651,Eshani Magar,Indeed,2023-01-09,Mid,Product
+652,Vidur Vohra,Naukri,2023-08-07,Mid,Product
+653,Azad Ravi,Indeed,2024-03-29,Mid,Engineering
+654,Umang Date,Campus Placement,2023-05-24,Junior,Operations
+655,Taimur Subramaniam,Employee Referral,2023-12-26,Lead,Sales
+656,Shray Dara,Company Website,2023-09-11,Senior,Finance
+657,Trisha Mannan,LinkedIn,2023-10-19,Junior,Finance
+658,Himmat Bains,Campus Placement,2023-07-30,Mid,Finance
+659,Inaaya  Gara,Naukri,2023-02-25,Mid,Product
+660,Vanya Sani,Naukri,2023-09-04,Lead,Finance
+661,Rasha Khatri,Indeed,2024-06-24,Junior,Sales
+662,Zoya Bir,Instagram,2023-05-16,Lead,Operations
+663,Saanvi Soni,Naukri,2023-06-26,Lead,Engineering
+664,Armaan Din,LinkedIn,2023-03-11,Junior,Sales
+665,Azad Sule,LinkedIn ,2023-03-03,Lead,Operations
+666,Arnav Dugar,Linkedin,2024-05-28,Lead,Product
+667,Drishya Issac,Employee Referral,2023-03-26,Mid,Sales
+668,Ojas Badami,LinkedIn,2023-03-22,Mid,Marketing
+669,Reyansh Gokhale,Indeed,2024-02-05,Junior,Sales
+670,Neysa Gandhi,Employee Referral,2023-09-02,Junior,Marketing
+671,Gatik Sura,LinkedIn,2024-03-20,Junior,Product
+672,Adira Walia,Indeed,2023-02-26,Senior,Finance
+673,Shanaya Kannan,Employee Referral,2023-06-29,Junior,Engineering
+674,Shayak Chander,Employee Referral,2023-01-12,Mid,Product
+675,Rania Kothari,Instagram,2024-06-19,Senior,Marketing
+676,Yasmin Lad,Naukri,2023-10-03,Junior,Engineering
+677,Zaina Barman,LinkedIn.com,2024-03-15,Senior,Operations
+678,Dhanush Kale,LinkedIn,2023-03-20,Lead,Product
+679,Inaaya  Din,Naukri,2023-02-26,Lead,Operations
+680,Ehsaan Baral,Linked In,2023-06-11,Senior,Engineering
+681,Nitara Divan,Campus Placement,2023-04-29,Mid,Finance
+682,Alia Ramachandran,Naukri,2023-02-15,Junior,Marketing
+683,Ivan Sant,LinkedIn,2024-01-08,Lead,Marketing
+684,Stuvan Kapoor,Linked In,2023-02-06,Lead,Marketing
+685,Samiha Virk,linked in,2024-03-02,Senior,Sales
+686,Mannat Kalla,Company Website,2024-01-17,Junior,Operations
+687,Navya Sule,Employee Referral,2023-02-23,Mid,Marketing
+688,Dhanuk Sampath,Company Website,2023-02-17,Lead,Engineering
+689,Tejas Kunda,Campus Placement,2023-10-17,Senior,Sales
+690,Aniruddh Bora,LinkedIn,2024-04-12,Junior,Sales
+691,Arhaan Bhatnagar,linkedin.com,2023-11-08,Mid,Product
+692,Miraan Sood,Naukri,2024-05-20,Mid,Finance
+693,Taran Handa,Campus Placement,2023-09-09,Mid,Engineering
+694,Lavanya Bose,Instagram,2023-01-25,Mid,Operations
+695,Tushar Grewal,LinkedIn.com,2023-01-10,Senior,Engineering
+696,Tarini Barad,Employee Referral,2024-01-21,Senior,Engineering
+697,Eva Goswami,linkedin.com,2023-09-01,Lead,Product
+698,Saksham Sachar,Instagram,2023-05-26,Senior,Engineering
+699,Nishith Bhandari,LinkedIn,2023-08-26,Lead,Finance
+700,Sara Chander,Campus Placement,2024-04-14,Junior,Operations
+701,Ela Hari,linkedin,2023-05-17,Lead,Engineering
+702,Prerak Soman,Indeed,2023-03-05,Lead,Finance
+703,Renee Kapoor,Instagram,2023-08-31,Senior,Sales
+704,Manjari Dhar,Company Website,2024-02-07,Senior,Sales
+705,Krish Bhat,Naukri,2023-08-28,Junior,Marketing
+706,Devansh Kara,linkedin,2023-04-22,Mid,Engineering
+707,Riya Kapadia,Linked In,2024-04-22,Senior,Product
+708,Zoya Sanghvi,linkedin,2024-01-02,Mid,Product
+709,Nitya Ghose,linked in,2023-09-29,Junior,Engineering
+710,Ira Madan,LI,2023-11-08,Junior,Marketing
+711,Rohan Varghese,Company Website,2023-12-02,Mid,Engineering
+712,Riya Savant,Employee Referral,2023-12-31,Lead,Operations
+713,Yashvi Golla,LinkedIn,2023-11-03,Senior,Marketing
+714,Gatik Chaudhry,LinkedIn,2024-02-19,Lead,Operations
+715,Miraan Subramanian,Employee Referral,2023-09-13,Junior,Product
+716,Anay Gole,linkedin,2023-05-24,Junior,Engineering
+717,Anahita Suri,LinkedIn,2023-08-16,Mid,Marketing
+718,Manjari Wagle,Company Website,2024-01-17,Junior,Operations
+719,Chirag Dubey,Indeed,2023-03-18,Junior,Engineering
+720,Saanvi Sem,linkedin.com,2024-03-30,Mid,Engineering
+721,Eshani Jha,Campus Placement,2023-12-06,Junior,Engineering
+722,Kashvi Bansal,Instagram,2023-02-21,Mid,Operations
+723,Samar Rege,Naukri,2024-02-09,Lead,Engineering
+724,Alisha Kaul,Naukri,2024-03-12,Mid,Sales
+725,Gokul Vyas,LinkedIn ,2023-07-11,Senior,Sales
+726,Tiya Bhattacharyya,Naukri,2023-06-02,Junior,Operations
+727,Damini Vig,Indeed,2023-09-09,Senior,Product
+728,Gatik Lad,Naukri,2024-05-05,Junior,Engineering
+729,Romil Butala,Linkedin,2023-05-21,Lead,Marketing
+730,Samarth Savant,Indeed,2024-06-22,Mid,Finance
+731,Shray Lad,Glassdoor,2023-01-20,Lead,Finance
+732,Dhanush Dass,Naukri,2024-05-11,Senior,Operations
+733,Myra Majumdar,Naukri,2024-02-02,Senior,Marketing
+734,Gokul Rattan,LinkedIn,2023-08-13,Junior,Sales
+735,Mannat Loke,LinkedIn,2024-04-28,Senior,Operations
+736,Damini Rege,Glassdoor,2023-06-13,Junior,Marketing
+737,Kiara Mannan,Indeed,2023-09-30,Junior,Marketing
+738,Jayan Sahni,Indeed,2024-02-02,Senior,Marketing
+739,Jivika Bail,Linked In,2023-11-22,Senior,Operations
+740,Dhanush Bajaj,LinkedIn,2023-12-27,Mid,Operations
+741,Nehmat Cheema,Instagram,2024-05-19,Senior,Marketing
+742,Miraya Reddy,Naukri,2023-04-03,Junior,Marketing
+743,Charvi Walia,Indeed,2023-01-21,Lead,Engineering
+744,Nayantara Dora,LinkedIn.com,2023-07-26,Mid,Sales
+745,Nirvaan Swaminathan,Employee Referral,2023-11-28,Junior,Engineering
+746,Rohan Karan,LI,2023-05-26,Junior,Operations
+747,Prisha Balan,Company Website,2023-03-16,Senior,Finance
+748,Advika Johal,Instagram,2024-02-10,Junior,Sales
+749,Anahi Chaudry,Linkedin,2023-05-20,Mid,Finance
+750,Mahika Bora,Instagram,2024-05-13,Senior,Marketing
+751,Saanvi Dutta,Employee Referral,2024-01-01,Mid,Finance
+752,Yakshit Bhattacharyya,Indeed,2023-06-29,Lead,Sales
+753,Drishya Mand,Employee Referral,2023-10-29,Mid,Marketing
+754,Samar Dara,Employee Referral,2024-02-05,Junior,Marketing
+755,Gatik Deol,Indeed,2023-08-15,Junior,Product
+756,Nishith Bobal,LI,2023-03-21,Mid,Sales
+757,Badal Dhillon,Glassdoor,2023-06-21,Junior,Finance
+758,Mannat Kadakia,Employee Referral,2023-12-10,Lead,Engineering
+759,Indranil Talwar,LINKEDIN,2023-09-13,Junior,Sales
+760,Kashvi Sen,LINKEDIN,2023-04-21,Junior,Engineering
+761,Kanav Singh,Naukri,2024-03-05,Mid,Product
+762,Charvi Kurian,Naukri,2024-01-23,Senior,Operations
+763,Charvi Wable,Naukri,2024-05-05,Mid,Marketing
+764,Charvi Apte,Naukri,2023-02-04,Senior,Engineering
+765,Vihaan Krishnan,linked in,2023-04-18,Junior,Sales
+766,Nakul Chokshi,Linked In,2024-01-20,Mid,Finance
+767,Badal Bakshi,LinkedIn,2023-04-06,Senior,Operations
+768,Bhamini Raju,Glassdoor,2024-05-09,Junior,Product
+769,Reyansh Loyal,Instagram,2023-06-18,Lead,Marketing
+770,Emir Kale,LinkedIn,2023-12-06,Mid,Marketing
+771,Prerak Seth,Naukri,2023-09-29,Senior,Sales
+772,Tarini Jaggi, LinkedIn,2023-02-20,Lead,Operations
+773,Azad Iyer,Indeed,2024-05-17,Mid,Engineering
+774,Jiya Mand,Naukri,2024-03-13,Junior,Sales
+775,Taran Malhotra,Company Website,2024-05-06,Mid,Engineering
+776,Devansh Hans,LinkedIn,2023-06-24,Senior,Engineering
+777,Tarini Maharaj,Naukri,2023-04-29,Senior,Product
+778,Misha Sangha,Naukri,2023-09-29,Junior,Finance
+779,Gokul Bava,Indeed,2023-07-09,Senior,Product
+780,Umang Sundaram,Naukri,2024-04-01,Junior,Sales
+781,Ivana Goswami,Naukri,2023-09-27,Mid,Sales
+782,Kiaan Ramachandran,Indeed,2023-06-04,Junior,Engineering
+783,Damini Bahri,Employee Referral,2024-02-28,Mid,Operations
+784,Armaan Biswas,LinkedIn,2024-02-01,Lead,Operations
+785,Zaina Khalsa,Employee Referral,2024-05-01,Mid,Product
+786,Indrajit Raman,Linkedin,2024-02-09,Junior,Operations
+787,Shaan Ramesh,Indeed,2024-06-13,Mid,Engineering
+788,Ishaan Hegde,Instagram,2024-04-04,Mid,Marketing
+789,Kiara Ganguly,Glassdoor,2023-07-17,Mid,Engineering
+790,Rhea Manda,Naukri,2024-03-21,Mid,Finance
+791,Anika Tandon,LI,2023-09-22,Senior,Finance
+792,Tushar Gandhi,Campus Placement,2023-03-10,Junior,Product
+793,Zeeshan Manne,Indeed,2023-11-30,Senior,Operations
+794,Yashvi Yogi,Naukri,2023-01-13,Lead,Engineering
+795,Kimaya Khalsa,Naukri,2023-06-01,Junior,Engineering
+796,Neysa Srinivas,Indeed,2023-04-14,Senior,Operations
+797,Saira Bal,Campus Placement,2024-02-25,Senior,Product
+798,Jayan Lala,Indeed,2024-04-29,Junior,Marketing
+799,Hunar Tara,LINKEDIN,2023-05-28,Lead,Engineering
+800,Arhaan Mangat,Naukri,2023-12-06,Mid,Engineering
+801,Kanav Andra,Employee Referral,2023-10-03,Senior,Engineering
+802,Saksham Kadakia,LinkedIn.com,2023-11-07,Senior,Sales
+803,Zain Sant,Company Website,2023-04-11,Mid,Marketing
+804,Zain Krishna,Linkedin,2024-03-29,Senior,Sales
+805,Sara Seth,Employee Referral,2023-04-02,Mid,Product
+806,Renee Biswas,LinkedIn ,2024-02-21,Lead,Operations
+807,Jhanvi Gaba,Company Website,2023-02-27,Mid,Engineering
+808,Eshani Guha,linked in,2024-06-02,Lead,Marketing
+809,Jayant Karpe,Company Website,2024-06-20,Junior,Marketing
+810,Inaaya  Goel,linkedin.com,2023-07-25,Junior,Marketing
+811,Manjari Khurana,LinkedIn,2023-02-21,Senior,Finance
+812,Nishith Dewan,linkedin.com,2024-01-13,Lead,Operations
+813,Mamooty Dixit,Naukri,2023-05-07,Junior,Marketing
+814,Renee Chawla,Naukri,2024-04-01,Mid,Product
+815,Samar Khatri,Indeed,2023-12-25,Senior,Marketing
+816,Jhanvi Sunder,Company Website,2023-09-22,Junior,Sales
+817,Reyansh Bhat,LinkedIn,2023-02-20,Mid,Operations
+818,Vivaan Tank,Company Website,2023-08-08,Mid,Finance
+819,Trisha Suri,LinkedIn ,2023-07-31,Senior,Finance
+820,Riaan Bail,Naukri,2023-01-21,Junior,Product
+821,Riya Baral,Campus Placement,2023-06-27,Junior,Marketing
+822,Ahana  Sagar, LinkedIn,2023-11-09,Senior,Product
+823,Siya Khatri,Campus Placement,2023-12-24,Lead,Sales
+824,Krish Thaker,LinkedIn ,2023-11-06,Lead,Operations
+825,Jhanvi Sarin,linkedin,2024-06-07,Senior,Operations
+826,Hiran Bhagat,Indeed,2023-10-17,Senior,Finance
+827,Nirvaan Bakshi,linkedin,2023-03-07,Senior,Sales
+828,Navya Dada,Indeed,2023-10-11,Senior,Finance
+829,Divyansh Jhaveri,Employee Referral,2023-11-02,Mid,Marketing
+830,Saanvi Keer,Naukri,2023-09-04,Junior,Operations
+831,Pihu Solanki,Naukri,2023-11-24,Mid,Finance
+832,Aarush Maharaj,LinkedIn,2024-05-24,Senior,Sales
+833,Yuvraj  Sachdeva,Campus Placement,2024-02-19,Lead,Finance
+834,Anvi Sachdev,LinkedIn,2023-07-14,Senior,Finance
+835,Tanya Dhawan,Employee Referral,2024-05-02,Senior,Operations
+836,Reyansh Roy,Linkedin,2023-06-24,Mid,Sales
+837,Tiya Basu,linkedin,2023-05-12,Senior,Finance
+838,Hazel Shankar,Company Website,2023-07-07,Senior,Finance
+839,Jayant Joshi,LinkedIn,2023-12-30,Mid,Finance
+840,Armaan Toor,Company Website,2024-03-06,Senior,Sales
+841,Vedika Kota,LINKEDIN,2023-10-29,Lead,Engineering
+842,Siya Viswanathan,Naukri,2023-03-14,Lead,Marketing
+843,Armaan Agrawal,Naukri,2024-01-26,Senior,Product
+844,Jiya Ramachandran,LinkedIn,2023-06-04,Mid,Marketing
+845,Shamik Dhar,LinkedIn.com,2024-04-13,Mid,Sales
+846,Nayantara Magar,Company Website,2023-07-04,Junior,Product
+847,Himmat Varghese,LinkedIn.com,2023-07-01,Senior,Finance
+848,Purab Char,LinkedIn,2024-04-07,Senior,Marketing
+849,Shalv Bumb,Employee Referral,2023-06-22,Mid,Product
+850,Neelofar Dave,Company Website,2023-04-01,Mid,Operations
+851,Abram Shan,Naukri,2024-03-15,Lead,Product
+852,Vritika Divan,Glassdoor,2024-01-28,Junior,Engineering
+853,Jayant Ramaswamy,Indeed,2024-01-18,Junior,Sales
+854,Aaryahi Kurian,Employee Referral,2024-06-27,Mid,Engineering
+855,Dhruv Iyer,Employee Referral,2023-09-12,Mid,Finance
+856,Kabir Boase,Campus Placement,2023-11-16,Mid,Engineering
+857,Samarth Dash,Naukri,2023-11-10,Mid,Engineering
+858,Pranay Handa,Company Website,2023-11-02,Senior,Product
+859,Alia Shetty,Employee Referral,2024-06-20,Senior,Product
+860,Shalv Dora,Campus Placement,2023-05-18,Senior,Product
+861,Pranay Sachdeva,Naukri,2023-07-12,Mid,Product
+862,Rania Dalal,LinkedIn,2023-08-18,Mid,Marketing
+863,Nitya Bhargava,Employee Referral,2024-05-31,Mid,Engineering
+864,Ryan Buch,Naukri,2023-02-08,Lead,Finance
+865,Piya Krishnamurthy, LinkedIn,2023-02-19,Junior,Finance
+866,Prisha Bhargava,linkedin,2023-01-21,Junior,Finance
+867,Tushar Rana,linkedin,2024-03-30,Lead,Engineering
+868,Madhup Bhavsar,Indeed,2024-04-30,Mid,Marketing
+869,Indrans Karan,Employee Referral,2023-01-10,Senior,Product
+870,Zeeshan Sarna,Indeed,2024-06-16,Senior,Operations
+871,Tanya Luthra,Indeed,2023-05-21,Lead,Engineering
+872,Tarini Dasgupta,Naukri,2023-05-01,Senior,Engineering
+873,Eshani Kapoor,Company Website,2024-05-24,Mid,Operations
+874,Dhanuk Manda,linkedin.com,2023-09-27,Mid,Sales
+875,Biju Thakkar,Employee Referral,2023-10-30,Mid,Engineering
+876,Kaira Loyal,Indeed,2023-08-01,Lead,Sales
+877,Ivan Gade, LinkedIn,2023-01-14,Junior,Engineering
+878,Farhan Sangha,Company Website,2024-05-20,Mid,Engineering
+879,Saanvi Manne,Company Website,2023-03-18,Junior,Sales
+880,Divij Yogi,Indeed,2024-04-12,Senior,Sales
+881,Zoya Bala,Naukri,2023-04-13,Mid,Engineering
+882,Hansh Kunda,Company Website,2024-01-04,Senior,Product
+883,Amani Manda,Employee Referral,2023-04-08,Junior,Engineering
+884,Jhanvi Kashyap,Company Website,2023-06-24,Senior,Sales
+885,Samaira Apte,Campus Placement,2023-10-02,Junior,Sales
+886,Onkar Taneja,Company Website,2023-07-07,Junior,Product
+887,Shanaya Chopra,Naukri,2024-04-12,Senior,Product
+888,Azad Kakar,Employee Referral,2024-05-04,Lead,Finance
+889,Rati Balay,Campus Placement,2023-06-20,Junior,Marketing
+890,Darshit Keer,Employee Referral,2023-03-02,Mid,Engineering
+891,Reyansh Jayaraman,Naukri,2024-05-09,Lead,Marketing
+892,Tiya Bir,Indeed,2024-01-03,Junior,Finance
+893,Umang Walla,Campus Placement,2023-05-14,Lead,Product
+894,Alia Virk,linkedin,2024-02-26,Lead,Engineering
+895,Uthkarsh Baria,LinkedIn,2023-11-18,Junior,Finance
+896,Neysa Vasa,Company Website,2024-06-21,Mid,Finance
+897,Fateh Chakraborty,Campus Placement,2024-06-15,Junior,Product
+898,Eva Bhatt,Indeed,2023-09-12,Lead,Sales
+899,Aarav Shukla,Employee Referral,2024-01-30,Mid,Operations
+900,Rohan Kata,Campus Placement,2023-02-25,Junior,Finance
+901,Hazel Gupta,Instagram,2024-06-01,Lead,Product
+902,Nishith Karpe,Company Website,2023-03-18,Lead,Sales
+903,Indrans Devi, LinkedIn,2023-10-12,Junior,Operations
+904,Samaira Singhal,LinkedIn ,2024-01-23,Lead,Marketing
+905,Arhaan Tailor,LinkedIn,2024-03-30,Lead,Engineering
+906,Mannat Sinha,Company Website,2024-04-02,Senior,Engineering
+907,Nakul Chauhan,Glassdoor,2023-01-19,Junior,Product
+908,Divyansh Rajan,Naukri,2023-01-01,Junior,Operations
+909,Alia Ram,Instagram,2023-11-08,Mid,Finance
+910,Nirvaan Shanker,Employee Referral,2023-12-16,Senior,Engineering
+911,Yakshit Kanda,Company Website,2024-04-10,Senior,Operations
+912,Hrishita Chopra,Employee Referral,2024-04-29,Senior,Finance
+913,Hiran Krishnamurthy,Naukri,2023-04-10,Mid,Engineering
+914,Mehul Tandon,LinkedIn.com,2023-10-26,Senior,Finance
+915,Kashvi Ram,linkedin,2023-06-18,Lead,Marketing
+916,Miraan Dora,Company Website,2024-02-24,Junior,Sales
+917,Nitara Lad,Indeed,2023-07-12,Junior,Product
+918,Zain Doctor,LinkedIn ,2023-07-15,Senior,Engineering
+919,Biju Mallick,Employee Referral,2023-02-17,Junior,Product
+920,Mishti Sane,Naukri,2024-05-31,Mid,Product
+921,Ivana Kota,LinkedIn,2023-02-19,Lead,Operations
+922,Shray Rout,Naukri,2024-06-04,Mid,Finance
+923,Vedika Lala,Indeed,2023-05-12,Junior,Product
+924,Rasha Joshi,Indeed,2023-11-26,Lead,Product
+925,Indrajit Doctor,Glassdoor,2023-09-12,Senior,Product
+926,Kabir Shroff,Instagram,2023-10-29,Lead,Marketing
+927,Nakul Vala,linkedin,2024-06-08,Senior,Finance
+928,Rohan Varughese,Indeed,2023-11-18,Mid,Marketing
+929,Zara Kata,LinkedIn ,2023-10-25,Senior,Finance
+930,Jhanvi Jhaveri,linkedin,2023-07-02,Senior,Finance
+931,Ivana Lanka,linkedin,2023-12-27,Lead,Operations
+932,Vidur Dara,Indeed,2024-03-03,Senior,Product
+933,Lagan Gandhi,Company Website,2024-06-19,Junior,Engineering
+934,Alisha Vaidya,Naukri,2023-02-24,Junior,Marketing
+935,Divij Loyal,LINKEDIN,2023-06-14,Senior,Finance
+936,Baiju Desai, LinkedIn,2023-03-05,Senior,Marketing
+937,Pari Ramakrishnan,Employee Referral,2023-02-03,Senior,Product
+938,Devansh Chandra,linkedin,2023-08-18,Lead,Marketing
+939,Anvi Chawla,Naukri,2023-10-22,Junior,Product
+940,Romil Amble,Naukri,2023-11-17,Junior,Engineering
+941,Kanav Shanker,Employee Referral,2023-07-27,Lead,Marketing
+942,Siya Shroff,Campus Placement,2024-01-12,Mid,Finance
+943,Nirvaan Sarin,Instagram,2023-10-29,Lead,Marketing
+944,Vivaan Dar,Glassdoor,2023-03-18,Mid,Marketing
+945,Urvi Dhaliwal,Employee Referral,2023-05-03,Lead,Engineering
+946,Anahita Loke,Naukri,2023-09-28,Mid,Marketing
+947,Ryan De,Indeed,2023-09-19,Junior,Sales
+948,Drishya Wadhwa,Naukri,2023-06-08,Junior,Marketing
+949,Anahita Bawa,Campus Placement,2023-02-22,Senior,Product
+950,Tara Tripathi,Company Website,2024-01-02,Junior,Finance
+951,Lagan Goyal,linked in,2023-08-14,Mid,Operations
+952,Zain Bajaj,LinkedIn,2024-06-01,Mid,Product
+953,Seher Bora,Indeed,2024-02-18,Junior,Sales
+954,Pranay Malhotra,LinkedIn ,2023-08-07,Senior,Sales
+955,Ritvik Bose,Naukri,2023-08-12,Lead,Operations
+956,Shalv Contractor,Company Website,2023-01-10,Junior,Finance
+957,Jiya Thaman,LinkedIn.com,2023-09-04,Mid,Engineering
+958,Charvi Maharaj,Employee Referral,2023-11-25,Lead,Engineering
+959,Onkar Singh,Naukri,2023-10-17,Junior,Operations
+960,Samaira Rege,Company Website,2024-01-19,Lead,Product
+961,Amira Chad,LinkedIn,2023-07-17,Senior,Operations
+962,Jayan Boase,LinkedIn,2023-04-09,Mid,Operations
+963,Kabir Walia,Indeed,2023-03-09,Mid,Finance
+964,Eshani Badal,Indeed,2023-08-07,Lead,Engineering
+965,Oorja Bajwa,linkedin.com,2024-03-21,Junior,Finance
+966,Zain Biswas,Employee Referral,2023-01-25,Lead,Finance
+967,Darshit Sathe,LinkedIn.com,2023-03-31,Junior,Engineering
+968,Aayush Chopra,Linked In,2023-09-15,Junior,Operations
+969,Umang Balan,Company Website,2023-09-22,Lead,Product
+970,Nirvi Kohli,Naukri,2024-02-19,Lead,Sales
+971,Aarush Lata,LinkedIn,2023-05-02,Junior,Finance
+972,Abram Anand,Employee Referral,2023-03-06,Junior,Finance
+973,Heer Dhar,Company Website,2024-01-02,Junior,Sales
+974,Damini Talwar,Company Website,2023-11-05,Junior,Sales
+975,Zara Chakraborty,Employee Referral,2024-03-24,Lead,Product
+976,Divit Lala,Company Website,2023-02-01,Lead,Marketing
+977,Nakul Char,Indeed,2023-05-20,Lead,Operations
+978,Sumer Deol,Linkedin,2023-05-28,Senior,Finance
+979,Dhanush Grover,Campus Placement,2024-01-18,Junior,Operations
+980,Amira Mandal,Campus Placement,2023-05-25,Junior,Engineering
+981,Rasha Chowdhury,LinkedIn,2024-02-08,Junior,Sales
+982,Piya Thaker,LinkedIn ,2023-12-19,Mid,Product
+983,Neysa Varughese,Campus Placement,2024-06-08,Mid,Marketing
+984,Divij Jain,Linked In,2023-09-16,Mid,Engineering
+985,Uthkarsh Majumdar,Linked In,2023-02-25,Lead,Finance
+986,Bhavin Ray,Indeed,2023-10-25,Junior,Sales
+987,Rati Chada,linkedin,2024-05-13,Senior,Sales
+988,Charvi Uppal,linkedin,2023-08-29,Junior,Sales
+989,Neelofar Srinivasan,Indeed,2023-07-18,Senior,Product
+990,Jivika Varughese,Naukri,2023-11-10,Mid,Operations
+991,Eva Bail,Indeed,2023-11-20,Lead,Marketing
+992,Lakshit Yohannan,LinkedIn,2023-09-10,Mid,Finance
+993,Purab Bajaj,Employee Referral,2024-03-22,Senior,Sales
+994,Piya Dey,linkedin,2023-12-06,Lead,Product
+995,Jayesh Varghese,Naukri,2023-11-09,Lead,Operations
+996,Advik Chawla,linkedin,2023-03-25,Senior,Marketing
+997,Suhana Tara,Campus Placement,2023-07-21,Senior,Finance
+998,Dhanuk Doctor,Campus Placement,2023-03-20,Junior,Engineering
+999,Jivika Dara,Company Website,2023-02-01,Lead,Operations
+1000,Parinaaz Yadav,LinkedIn ,2023-02-07,Senior,Operations
+1001,Veer Shroff,Campus Placement,2024-04-28,Mid,Sales
+1002,Vritika Sankaran,Naukri,2023-10-25,Mid,Product
+1003,Damini Sharma,Naukri,2023-04-03,Lead,Sales
+1004,Baiju Bawa,Naukri,2023-09-02,Mid,Operations
+1005,Mehul Tripathi,LI,2023-06-13,Mid,Operations
+1006,Shlok Ramakrishnan,Instagram,2023-05-30,Lead,Sales
+1007,Urvi Gade,LinkedIn,2024-05-14,Mid,Engineering
+1008,Myra Deshpande,LINKEDIN,2023-08-28,Junior,Finance
+1009,Ayesha Comar,linkedin.com,2024-01-05,Lead,Product
+1010,Ishita Guha,Campus Placement,2023-02-17,Junior,Finance
+1011,Kabir Sangha,linked in,2024-06-17,Senior,Finance
+1012,Dharmajan Som,LINKEDIN,2023-06-28,Lead,Finance
+1013,Yasmin Dasgupta,Naukri,2023-03-21,Senior,Product
+1014,Dharmajan Desai,Glassdoor,2023-08-17,Lead,Sales
+1015,Vaibhav Sawhney,Company Website,2023-12-20,Lead,Product
+1016,Seher Hayer,Campus Placement,2023-01-07,Mid,Product
+1017,Taran Bera,Linked In,2023-03-20,Senior,Marketing
+1018,Aarush Dube,LI,2023-06-11,Senior,Operations
+1019,Taran Sidhu,Employee Referral,2023-05-02,Mid,Product
+1020,Ehsaan Bhatti,Company Website,2023-04-27,Lead,Finance
+1021,Kabir Kale,Naukri,2023-08-04,Mid,Finance
+1022,Ivana Mall,Company Website,2023-01-23,Mid,Engineering
+1023,Ehsaan Arya,linkedin,2023-06-14,Mid,Finance
+1024,Sumer Malhotra,Naukri,2023-05-31,Junior,Marketing
+1025,Kimaya Ram,LINKEDIN,2023-07-04,Lead,Operations
+1026,Veer Ahuja,Glassdoor,2023-01-20,Senior,Engineering
+1027,Zain Hari,LinkedIn ,2024-04-27,Lead,Marketing
+1028,Samaira Yohannan,LinkedIn ,2024-02-25,Mid,Operations
+1029,Kaira Lad,Company Website,2023-07-06,Senior,Marketing
+1030,Piya Gupta,Employee Referral,2023-12-17,Lead,Operations
+1031,Hiran Desai,Indeed,2023-08-24,Lead,Product
+1032,Priyansh Koshy,linkedin,2023-01-17,Mid,Operations
+1033,Chirag Chacko,Company Website,2024-05-31,Lead,Marketing
+1034,Raghav Kade,Indeed,2023-07-01,Lead,Operations
+1035,Anya Srinivas,Indeed,2024-06-28,Junior,Engineering
+1036,Taran Dass,Naukri,2023-05-14,Junior,Finance
+1037,Saira Rattan,Indeed,2024-06-18,Lead,Sales
+1038,Kimaya Randhawa,Campus Placement,2024-06-26,Lead,Marketing
+1039,Amira Bera,Instagram,2024-05-08,Lead,Sales
+1040,Romil Aggarwal,Indeed,2023-04-11,Lead,Marketing
+1041,Shamik Trivedi, LinkedIn,2023-08-27,Junior,Sales
+1042,Zaina Venkataraman,Indeed,2024-02-23,Senior,Marketing
+1043,Advika Ganesh,LinkedIn,2023-01-08,Junior,Operations
+1044,Nehmat Rajan,LinkedIn,2023-07-30,Senior,Product
+1045,Rohan Dyal,Naukri,2023-06-08,Lead,Finance
+1046,Anvi Dugar,Indeed,2023-09-25,Lead,Operations
+1047,Vivaan Dutta,Naukri,2023-10-10,Lead,Marketing
+1048,Sara Saran,Naukri,2024-05-09,Mid,Sales
+1049,Kashvi Srinivas,Indeed,2024-05-10,Senior,Sales
+1050,Shaan Guha,Indeed,2024-02-12,Mid,Finance
+1051,Vedika Hegde,linkedin,2023-08-24,Lead,Finance
+1052,Farhan Manda,Instagram,2023-04-13,Mid,Operations
+1053,Kiara Mahajan,Naukri,2023-12-13,Junior,Marketing
+1054,Pihu Sodhi,Naukri,2023-01-06,Junior,Marketing
+1055,Samiha Kashyap,Naukri,2024-03-21,Junior,Engineering
+1056,Advika Sur,LINKEDIN,2024-01-15,Junior,Operations
+1057,Rania Banerjee,LinkedIn,2024-01-29,Lead,Operations
+1058,Pari Krish,Indeed,2023-10-21,Junior,Marketing
+1059,Myra Doshi,Indeed,2024-03-25,Junior,Marketing
+1060,Ojas Sahni,Company Website,2024-06-14,Senior,Marketing
+1061,Saanvi Kakar,LinkedIn,2024-06-06,Mid,Operations
+1062,Devansh Kapur,Linked In,2023-02-06,Senior,Marketing
+1063,Keya Iyer,Indeed,2023-06-11,Junior,Sales
+1064,Inaaya  Badami,Company Website,2023-12-28,Lead,Product
+1065,Rati Wason,Indeed,2024-06-14,Junior,Finance
+1066,Emir Sodhi,Employee Referral,2023-04-03,Senior,Finance
+1067,Nirvi Salvi,Company Website,2023-12-23,Senior,Sales
+1068,Ivan Sabharwal,LinkedIn ,2023-07-19,Lead,Product
+1069,Jivika Roy,Indeed,2023-09-25,Mid,Product
+1070,Suhana Gandhi,Naukri,2023-03-16,Senior,Sales
+1071,Emir Ahluwalia,Instagram,2024-06-09,Senior,Operations
+1072,Pranay Choudhry,Company Website,2023-09-14,Lead,Product
+1073,Alia Grover,Indeed,2023-09-07,Senior,Product
+1074,Anahi Som,Employee Referral,2023-01-29,Lead,Engineering
+1075,Shray Arora,LINKEDIN,2024-01-27,Mid,Finance
+1076,Ehsaan Divan,Employee Referral,2023-11-20,Lead,Sales
+1077,Dharmajan Bhardwaj,Naukri,2023-01-10,Senior,Marketing
+1078,Stuvan Dugal,Linkedin,2024-02-13,Senior,Engineering
+1079,Amani Srinivasan,Indeed,2023-07-02,Lead,Sales
+1080,Elakshi Khurana,Naukri,2023-10-03,Mid,Finance
+1081,Anika Bava,Employee Referral,2023-07-14,Lead,Finance
+1082,Saira Sarin,linkedin.com,2023-09-05,Senior,Marketing
+1083,Samar Bandi,LinkedIn ,2023-09-13,Senior,Marketing
+1084,Azad Tailor,Employee Referral,2023-05-03,Junior,Finance
+1085,Akarsh Vala,Instagram,2024-05-19,Junior,Operations
+1086,Neelofar Bhagat,Instagram,2024-05-08,Senior,Operations
+1087,Seher Dara,linked in,2023-10-09,Lead,Marketing
+1088,Ishita Buch,Glassdoor,2024-06-07,Senior,Product
+1089,Jhanvi Kala,LinkedIn ,2023-05-12,Junior,Operations
+1090,Mehul Sur,Company Website,2024-05-04,Junior,Operations
+1091,Mohanlal Chanda,LinkedIn.com,2023-06-28,Lead,Engineering
+1092,Navya Saha,Employee Referral,2024-04-16,Senior,Finance
+1093,Vivaan Atwal,LinkedIn,2023-08-04,Lead,Operations
+1094,Alisha Rajagopalan,linkedin,2024-01-06,Senior,Marketing
+1095,Vidur Agate,Indeed,2023-08-31,Senior,Product
+1096,Lagan Dewan,Instagram,2023-12-18,Senior,Marketing
+1097,Kashvi Behl,Naukri,2023-08-04,Lead,Finance
+1098,Tejas Gaba,Employee Referral,2024-01-09,Lead,Sales
+1099,Amira Bhandari,Naukri,2023-05-15,Mid,Engineering
+1100,Oorja Venkataraman,Employee Referral,2023-08-30,Lead,Product
+1101,Eva Reddy,linkedin.com,2023-06-03,Lead,Engineering
+1102,Kimaya Hari,Linked In,2024-05-26,Mid,Finance
+1103,Khushi Bhandari,Naukri,2023-11-20,Lead,Sales
+1104,Sumer Uppal, LinkedIn,2023-02-18,Lead,Engineering
+1105,Miraya Chadha,Employee Referral,2023-03-03,Mid,Sales
+1106,Mannat Rajagopal,Naukri,2023-04-09,Lead,Finance
+1107,Pari Bhavsar,LinkedIn.com,2024-01-05,Senior,Operations
+1108,Fateh Dar,Indeed,2023-09-21,Senior,Engineering
+1109,Farhan Chand,Naukri,2023-12-26,Mid,Operations
+1110,Rania Bobal,Indeed,2023-06-28,Senior,Sales
+1111,Aaina Raju,linked in,2024-06-06,Lead,Finance
+1112,Kashvi Handa,Naukri,2023-03-22,Lead,Operations
+1113,Kabir Kohli,Linkedin,2023-05-29,Mid,Finance
+1114,Ivana Chacko,Company Website,2023-12-12,Lead,Finance
+1115,Reyansh Boase,Indeed,2024-02-19,Junior,Engineering
+1116,Saksham Upadhyay,LI,2023-08-22,Senior,Sales
+1117,Miraya Bala,Indeed,2023-10-01,Lead,Sales
+1118,Aayush Kibe,Campus Placement,2024-01-07,Lead,Product
+1119,Kartik Tandon,Linked In,2023-01-24,Mid,Finance
+1120,Jhanvi Krishnan, LinkedIn,2023-09-15,Junior,Marketing
+1121,Yuvraj  Sani,Linked In,2023-04-16,Junior,Engineering
+1122,Zeeshan Savant,Instagram,2024-04-29,Junior,Engineering
+1123,Ayesha Chacko,Employee Referral,2024-06-20,Junior,Engineering
+1124,Jivika Aurora,LINKEDIN,2023-06-09,Junior,Finance
+1125,Riaan Babu,Instagram,2024-02-04,Senior,Marketing
+1126,Mamooty Luthra, LinkedIn,2023-10-18,Lead,Finance
+1127,Jayan Sridhar,linkedin,2024-06-23,Mid,Engineering
+1128,Jivika Sharaf,LinkedIn,2024-01-01,Senior,Product
+1129,Ira Kumer,Naukri,2023-10-06,Lead,Marketing
+1130,Kaira Bhandari,Glassdoor,2023-07-01,Lead,Finance
+1131,Urvi Magar,Employee Referral,2024-03-21,Senior,Sales
+1132,Hrishita Tata,Naukri,2023-08-21,Junior,Product
+1133,Tara Sem,linked in,2024-02-27,Senior,Marketing
+1134,Inaaya  Chopra,linked in,2023-01-01,Mid,Sales
+1135,Ehsaan Shah,Linkedin,2023-01-09,Lead,Product
+1136,Rohan Vohra,Linkedin,2024-03-16,Senior,Operations
+1137,Alisha Deep,LinkedIn ,2023-01-08,Senior,Marketing
+1138,Dhruv Kanda,Naukri,2024-03-23,Lead,Marketing
+1139,Urvi Tak,Linked In,2024-02-04,Lead,Marketing
+1140,Lakshay Tak,LINKEDIN,2024-03-08,Mid,Operations
+1141,Rhea Ramaswamy,Employee Referral,2023-10-06,Senior,Finance
+1142,Ivan Randhawa,Employee Referral,2023-10-03,Lead,Marketing
+1143,Vardaniya Chauhan,Company Website,2023-07-06,Mid,Sales
+1144,Zara Balan,linkedin,2024-04-11,Lead,Sales
+1145,Hazel Dey,Employee Referral,2024-05-18,Mid,Sales
+1146,Samarth Sarraf,LinkedIn,2023-02-20,Junior,Marketing
+1147,Riaan Mangat,Glassdoor,2023-10-16,Senior,Marketing
+1148,Drishya Yogi,Employee Referral,2023-01-09,Mid,Engineering
+1149,Himmat Sheth,LI,2024-05-20,Mid,Sales
+1150,Biju Devi,Naukri,2024-05-25,Senior,Product
+1151,Rati Verma,Employee Referral,2023-02-02,Senior,Engineering
+1152,Nishith Bora,Company Website,2023-05-30,Junior,Sales
+1153,Nishith Sidhu,Employee Referral,2023-03-15,Lead,Marketing
+1154,Ayesha Bobal,linkedin.com,2023-09-14,Lead,Engineering
+1155,Mishti Johal,linkedin,2023-09-12,Lead,Product
+1156,Alisha Barad, LinkedIn,2023-02-04,Mid,Product
+1157,Yuvaan Kurian,Employee Referral,2023-04-07,Mid,Product
+1158,Rania Vyas,Naukri,2023-11-16,Senior,Marketing
+1159,Amani Kohli,Indeed,2023-02-13,Junior,Sales
+1160,Kavya Agarwal,Naukri,2023-11-02,Mid,Sales
+1161,Sana Karnik,Campus Placement,2023-08-12,Junior,Marketing
+1162,Chirag Sunder,Indeed,2023-11-29,Junior,Marketing
+1163,Madhav Kala,Company Website,2023-05-03,Lead,Marketing
+1164,Bhamini Desai,LinkedIn,2023-02-13,Lead,Finance
+1165,Raunak Ganguly,Indeed,2024-01-16,Junior,Marketing
+1166,Jivika Varkey,LI,2023-04-04,Senior,Finance
+1167,Vedika Garg,LinkedIn,2023-12-31,Mid,Finance
+1168,Azad Bawa,Indeed,2023-04-20,Mid,Product
+1169,Advik Bhatia, LinkedIn,2023-12-22,Lead,Finance
+1170,Advika Kari,linkedin.com,2024-01-22,Senior,Finance
+1171,Aaryahi Chaudhuri,linkedin,2023-02-10,Lead,Finance
+1172,Nehmat Dora,Naukri,2023-10-29,Lead,Marketing
+1173,Raghav Batra,Indeed,2023-12-23,Senior,Finance
+1174,Ojas Barman,Naukri,2023-06-14,Junior,Operations
+1175,Nitya Zacharia,LI,2023-10-30,Senior,Operations
+1176,Baiju Hora,Naukri,2023-01-01,Lead,Finance
+1177,Samaira Sarma,Linked In,2023-01-20,Senior,Operations
+1178,Aaryahi Sagar, LinkedIn,2023-03-06,Lead,Marketing
+1179,Renee Batta,Indeed,2024-05-24,Mid,Operations
+1180,Lakshit Khare,Linkedin,2024-02-24,Senior,Engineering
+1181,Hansh Rajagopalan,linkedin,2023-03-10,Junior,Marketing
+1182,Ela Sangha,Linked In,2023-02-02,Mid,Engineering
+1183,Aayush Agrawal,Naukri,2023-04-12,Junior,Operations
+1184,Fateh Vasa,Indeed,2024-02-02,Lead,Operations
+1185,Rania Bhatti,Indeed,2023-09-20,Junior,Sales
+1186,Devansh Contractor,LinkedIn ,2023-03-14,Junior,Marketing
+1187,Dhruv Setty,Indeed,2023-03-23,Lead,Finance
+1188,Ehsaan Dugar,LinkedIn,2024-03-01,Senior,Finance
+1189,Rohan Biswas,LinkedIn,2023-09-30,Junior,Finance
+1190,Urvi Talwar,LinkedIn,2023-11-08,Junior,Marketing
+1191,Nayantara Sandhu,Instagram,2023-04-10,Junior,Finance
+1192,Darshit Lanka,LinkedIn ,2024-01-30,Mid,Marketing
+1193,Manjari Sachar,Indeed,2023-09-12,Mid,Operations
+1194,Advika Gill,Employee Referral,2024-03-01,Junior,Finance
+1195,Mishti Shere,Indeed,2024-04-14,Lead,Engineering
+1196,Zain Randhawa,Linked In,2023-07-04,Lead,Operations
+1197,Madhav Bassi,LinkedIn.com,2023-06-11,Lead,Sales
+1198,Hiran Shetty,Campus Placement,2023-11-29,Senior,Product
+1199,Khushi Sethi,Employee Referral,2024-03-16,Senior,Operations
+1200,Stuvan Kala, LinkedIn,2023-08-08,Lead,Operations
+1201,Vritika Boase,Campus Placement,2023-09-18,Senior,Product
+1202,Raghav Roy,Naukri,2024-02-11,Junior,Finance
+1203,Nishith Malhotra,LinkedIn,2023-10-19,Junior,Operations
+1204,Vanya Sant,linkedin,2023-11-06,Junior,Sales
+1205,Nirvi Vora,Glassdoor,2023-08-08,Senior,Engineering
+1206,Lagan Lad,Employee Referral,2023-10-10,Mid,Engineering
+1207,Siya Hayre,LinkedIn,2023-12-31,Mid,Marketing
+1208,Neelofar Bala,LINKEDIN,2023-09-13,Mid,Sales
+1209,Bhamini Hans,Company Website,2023-04-05,Lead,Operations
+1210,Nakul Krish,Campus Placement,2023-03-21,Senior,Product
+1211,Eva Walia,Linked In,2023-04-08,Senior,Engineering
+1212,Taran Dutt,Employee Referral,2024-01-26,Junior,Engineering
+1213,Vidur Vasa,Campus Placement,2023-12-09,Senior,Product
+1214,Tejas Mahajan,Naukri,2023-05-04,Mid,Finance
+1215,Tarini Keer,Indeed,2023-01-12,Lead,Engineering
+1216,Advik Raj,linked in,2023-02-12,Senior,Operations
+1217,Abram Deep,Indeed,2023-12-01,Mid,Marketing
+1218,Arnav Balan,LinkedIn,2024-02-07,Lead,Operations
+1219,Dishani Dhar,Indeed,2023-04-03,Mid,Product
+1220,Aarna Sarna,Linkedin,2024-02-08,Mid,Marketing
+1221,Dharmajan Reddy,LinkedIn.com,2024-05-02,Junior,Operations
+1222,Ranbir Barman,Naukri,2023-03-29,Lead,Operations
+1223,Dhanush Kumer,Naukri,2023-05-14,Mid,Product
+1224,Zara Brahmbhatt,Indeed,2024-05-14,Lead,Finance
+1225,Vihaan Raj,Indeed,2024-06-20,Mid,Marketing
+1226,Sahil Sarkar,LinkedIn,2024-03-16,Senior,Finance
+1227,Samiha Vaidya,Campus Placement,2023-04-02,Junior,Finance
+1228,Bhavin Das,Naukri,2024-01-10,Senior,Marketing
+1229,Adira Bhardwaj,linked in,2023-01-25,Senior,Marketing
+1230,Manjari Ramanathan,Glassdoor,2024-03-28,Mid,Product
+1231,Sahil Sama,LinkedIn,2023-08-28,Mid,Finance
+1232,Fateh Ahuja,Naukri,2023-03-29,Junior,Finance
+1233,Rati Ahluwalia,LinkedIn,2023-06-01,Senior,Engineering
+1234,Charvi Ghose,LinkedIn.com,2023-04-24,Senior,Product
+1235,Ivan Grewal,Naukri,2023-12-06,Mid,Finance
+1236,Siya Sridhar,Indeed,2023-07-28,Senior,Operations
+1237,Sana Wali,Naukri,2023-05-25,Junior,Product
+1238,Trisha Yogi,Indeed,2024-06-23,Junior,Sales
+1239,Shamik Swamy,Linked In,2023-10-18,Mid,Finance
+1240,Purab Lala,Indeed,2023-02-24,Lead,Finance
+1241,Prerak Sawhney,Instagram,2023-03-10,Lead,Finance
+1242,Charvi Kari,LINKEDIN,2024-01-04,Junior,Engineering
+1243,Bhavin Krish,Linkedin,2024-01-31,Mid,Product
+1244,Tushar Brar,Naukri,2023-04-12,Senior,Product
+1245,Trisha Behl,Company Website,2024-06-28,Junior,Marketing
+1246,Manikya Shanker,linkedin.com,2024-04-13,Junior,Engineering
+1247,Azad Varughese, LinkedIn,2024-06-26,Senior,Sales
+1248,Nirvaan Bajaj,Naukri,2023-06-10,Junior,Sales
+1249,Tejas Handa,Employee Referral,2023-12-30,Senior,Marketing
+1250,Jayesh Varughese,Glassdoor,2024-05-28,Senior,Engineering
+1251,Ishita Suri,Indeed,2024-02-01,Junior,Operations
+1252,Mamooty Dyal,Instagram,2023-08-19,Mid,Sales
+1253,Zeeshan Sem,Campus Placement,2023-05-21,Junior,Finance
+1254,Purab Tella,Naukri,2023-08-21,Lead,Marketing
+1255,Kaira Grewal,Indeed,2024-03-12,Senior,Operations
+1256,Damini Samra,LinkedIn.com,2023-05-15,Mid,Finance
+1257,Jayesh Choudhury,linkedin,2023-07-27,Mid,Sales
+1258,Yakshit Banerjee,Employee Referral,2024-06-20,Mid,Product
+1259,Raunak Soman,Glassdoor,2023-05-29,Mid,Sales
+1260,Shaan Bassi,LinkedIn,2024-06-29,Junior,Marketing
+1261,Aayush Gour,linked in,2023-05-30,Junior,Sales
+1262,Riaan Manda,Campus Placement,2024-02-28,Lead,Sales
+1263,Seher Rastogi,Naukri,2023-10-08,Mid,Marketing
+1264,Anahi Gour,linkedin,2023-07-09,Junior,Operations
+1265,Trisha Soni,Indeed,2023-08-25,Mid,Marketing
+1266,Sana Yohannan,Employee Referral,2024-01-03,Junior,Finance
+1267,Indrajit Aggarwal,Company Website,2023-05-18,Lead,Finance
+1268,Anay Dada,Indeed,2023-07-08,Lead,Product
+1269,Myra Tripathi,Naukri,2023-06-17,Mid,Marketing
+1270,Shamik Acharya,LinkedIn,2023-01-16,Senior,Product
+1271,Sara Seth,LinkedIn ,2023-07-27,Mid,Engineering
+1272,Ehsaan Chauhan,Linked In,2024-03-25,Lead,Finance
+1273,Aaina Korpal,linked in,2024-04-13,Mid,Product
+1274,Hridaan Sawhney,Naukri,2023-02-12,Lead,Finance
+1275,Divij Bains,linked in,2024-06-21,Junior,Operations
+1276,Elakshi Jhaveri,linkedin,2024-04-12,Junior,Marketing
+1277,Amira Shenoy,Naukri,2024-02-10,Junior,Operations
+1278,Kavya Batta,Naukri,2023-02-20,Mid,Sales
+1279,Navya Tank,Naukri,2023-11-08,Senior,Product
+1280,Dhanuk Rajagopalan,Linked In,2023-10-29,Junior,Finance
+1281,Adira Saini,Naukri,2023-05-26,Lead,Finance
+1282,Miraan Dhingra,Naukri,2024-05-27,Junior,Marketing
+1283,Saksham Suresh,Employee Referral,2023-05-19,Lead,Product
+1284,Rati Thakur,linked in,2023-01-26,Mid,Product
+1285,Samar Kara,Indeed,2023-07-26,Lead,Engineering
+1286,Mehul Barad, LinkedIn,2023-06-17,Junior,Engineering
+1287,Himmat Sridhar,linkedin,2024-04-05,Senior,Engineering
+1288,Indrans Bera,Indeed,2024-01-29,Mid,Product
+1289,Alisha Kaul,Indeed,2023-02-14,Mid,Sales
+1290,Yuvraj  Bhasin,Indeed,2023-06-03,Mid,Marketing
+1291,Trisha Chawla,Linked In,2023-02-22,Lead,Sales
+1292,Ryan Kata,linked in,2024-04-01,Senior,Finance
+1293,Fateh Bath,Linked In,2023-05-15,Mid,Engineering
+1294,Zara Sankar,Indeed,2023-09-17,Junior,Product
+1295,Renee Sarin,Naukri,2024-05-25,Junior,Operations
+1296,Madhav Tiwari,Campus Placement,2023-09-01,Mid,Operations
+1297,Hunar Bath,Indeed,2024-04-09,Lead,Product
+1298,Taimur Hora,LinkedIn,2023-01-07,Mid,Operations
+1299,Parinaaz Doctor,LINKEDIN,2023-08-01,Junior,Marketing
+1300,Jayant Aurora,LI,2023-12-24,Junior,Marketing
+1301,Alisha Mall,Company Website,2023-11-02,Senior,Engineering
+1302,Divit Kashyap,LinkedIn,2024-03-02,Mid,Marketing
+1303,Zaina Sundaram,Employee Referral,2023-07-01,Lead,Finance
+1304,Gatik Ahuja,Indeed,2023-02-06,Junior,Sales
+1305,Vanya Choudhry,linked in,2024-01-24,Junior,Product
+1306,Kiaan Tata,Company Website,2023-03-08,Senior,Product
+1307,Umang Sankar,linkedin,2023-10-09,Senior,Operations
+1308,Keya Raj,Naukri,2023-08-03,Mid,Operations
+1309,Dhanuk Apte,LinkedIn,2024-06-25,Junior,Product
+1310,Kiaan Zacharia,Employee Referral,2023-10-22,Lead,Operations
+1311,Zoya Bhatt,Company Website,2023-09-23,Senior,Marketing
+1312,Zoya Gandhi,Indeed,2024-05-23,Lead,Product
+1313,Arnav Kashyap,Company Website,2023-08-27,Senior,Marketing
+1314,Jayan Mangat,LinkedIn,2023-01-25,Lead,Finance
+1315,Samaira Hora,Company Website,2023-08-01,Lead,Product
+1316,Aniruddh Halder,LinkedIn,2023-12-25,Mid,Engineering
+1317,Jayant Goel,Indeed,2023-10-16,Senior,Engineering
+1318,Kabir Devan,linked in,2024-06-02,Senior,Engineering
+1319,Alia Wagle,linkedin,2023-12-08,Senior,Product
+1320,Arhaan Rana,Employee Referral,2023-01-30,Mid,Marketing
+1321,Neelofar Divan,LinkedIn.com,2023-12-13,Lead,Product
+1322,Zain Wadhwa,Company Website,2023-05-20,Lead,Marketing
+1323,Biju Bassi,Indeed,2023-12-10,Lead,Product
+1324,Veer Biswas,Campus Placement,2023-02-27,Senior,Operations
+1325,Krish Rout,Employee Referral,2023-11-20,Junior,Marketing
+1326,Mohanlal Suresh,Indeed,2023-12-06,Senior,Engineering
+1327,Vaibhav Srinivas,Glassdoor,2023-10-15,Junior,Sales
+1328,Anvi Magar,Glassdoor,2023-06-19,Lead,Marketing
+1329,Shray Mandal,Indeed,2023-11-12,Senior,Finance
+1330,Vidur Deshmukh,LinkedIn,2024-02-28,Junior,Product
+1331,Anay Dutta,Campus Placement,2024-01-16,Lead,Sales
+1332,Aniruddh Wason,LinkedIn ,2023-11-06,Mid,Engineering
+1333,Bhavin Tailor,Naukri,2023-02-08,Mid,Engineering
+1334,Eva Gola,Naukri,2023-01-26,Lead,Operations
+1335,Indranil Bedi,LI,2023-12-15,Lead,Finance
+1336,Nirvi Dara,Campus Placement,2023-11-14,Senior,Marketing
+1337,Hazel Tandon,Employee Referral,2023-04-11,Mid,Marketing
+1338,Tarini Choudhary,Employee Referral,2024-04-15,Lead,Finance
+1339,Sumer Tripathi,Company Website,2023-04-29,Junior,Sales
+1340,Jayesh Dani,Instagram,2023-03-31,Senior,Product
+1341,Zara Shan,Campus Placement,2023-04-16,Senior,Engineering
+1342,Kiara Atwal,Indeed,2023-11-16,Mid,Sales
+1343,Jiya Manda,linkedin.com,2023-10-21,Senior,Operations
+1344,Jivika Chandra,linked in,2024-03-27,Junior,Sales
+1345,Hrishita Dubey,LI,2023-10-08,Junior,Engineering
+1346,Ayesha Bahl,Instagram,2024-06-10,Junior,Marketing
+1347,Bhavin Dada,Indeed,2023-11-23,Senior,Marketing
+1348,Akarsh Lall,Instagram,2023-10-18,Mid,Marketing
+1349,Aarav Gandhi,LinkedIn,2023-12-13,Lead,Engineering
+1350,Zara Bhattacharyya,linkedin,2024-04-27,Junior,Engineering
+1351,Saanvi Chakrabarti,Naukri,2023-03-30,Lead,Product
+1352,Biju Apte,Linked In,2024-04-01,Senior,Sales
+1353,Khushi Sarraf,LinkedIn.com,2023-07-22,Junior,Product
+1354,Urvi Bhakta,Indeed,2023-04-06,Lead,Engineering
+1355,Devansh Grover,Naukri,2024-04-21,Lead,Marketing
+1356,Khushi Bedi,Instagram,2023-05-28,Senior,Sales
+1357,Romil Edwin,Naukri,2023-12-05,Senior,Product
+1358,Indranil Setty,Naukri,2023-03-08,Lead,Engineering
+1359,Vritika Reddy,Naukri,2024-04-17,Mid,Sales
+1360,Nehmat Dutt,Employee Referral,2023-05-11,Junior,Product
+1361,Rhea Mand,Company Website,2023-04-20,Senior,Operations
+1362,Mamooty Salvi,Indeed,2023-11-06,Lead,Product
+1363,Uthkarsh Dube,Indeed,2023-09-02,Mid,Operations
+1364,Gokul Chakrabarti,LI,2024-05-08,Lead,Engineering
+1365,Rati Mangat,LinkedIn.com,2024-03-17,Lead,Operations
+1366,Trisha Mander,Company Website,2023-08-30,Mid,Finance
+1367,Jivin Ramachandran,Employee Referral,2024-05-13,Junior,Operations
+1368,Zoya Ramesh,Indeed,2023-11-30,Junior,Product
+1369,Navya Mandal,Linked In,2024-02-20,Junior,Operations
+1370,Charvi Bobal,linkedin,2024-01-24,Senior,Product
+1371,Shanaya Barad,Indeed,2023-03-04,Junior,Marketing
+1372,Shray Dutta,Company Website,2023-01-01,Mid,Finance
+1373,Myra Wali,LI,2024-06-28,Senior,Product
+1374,Rhea Sampath,Indeed,2024-04-02,Mid,Marketing
+1375,Alia Ahluwalia,Employee Referral,2023-11-21,Senior,Operations
+1376,Lakshay Dash,Company Website,2023-11-08,Lead,Finance
+1377,Stuvan Dave,Glassdoor,2023-12-19,Junior,Operations
+1378,Saira Acharya,LinkedIn,2024-06-06,Lead,Marketing
+1379,Veer Kanda,Company Website,2023-03-05,Senior,Operations
+1380,Ivan Wagle,Glassdoor,2023-01-01,Senior,Engineering
+1381,Bhamini Wadhwa,Company Website,2023-02-01,Mid,Product
+1382,Stuvan Mahajan,Employee Referral,2024-02-08,Senior,Finance
+1383,Divyansh Thakkar,Naukri,2024-01-26,Lead,Operations
+1384,Vedika Venkatesh,LinkedIn ,2023-06-27,Lead,Marketing
+1385,Ishaan Kara,linkedin.com,2024-01-29,Senior,Product
+1386,Yasmin Vaidya,LI,2023-05-09,Mid,Engineering
+1387,Ritvik Anne,LinkedIn,2023-01-17,Mid,Finance
+1388,Pranay Ben,Campus Placement,2024-03-23,Mid,Engineering
+1389,Shlok Chada,linkedin,2024-03-01,Lead,Finance
+1390,Ishaan Setty,Indeed,2024-03-11,Mid,Product
+1391,Ira Yadav,Naukri,2024-04-05,Lead,Sales
+1392,Shayak Rajan,LinkedIn ,2024-03-10,Junior,Operations
+1393,Renee Aurora,Naukri,2023-08-31,Senior,Product
+1394,Neysa Butala,Campus Placement,2024-01-11,Junior,Engineering
+1395,Indranil Bala,Indeed,2024-01-13,Junior,Operations
+1396,Shalv Chauhan,Naukri,2023-03-23,Mid,Finance
+1397,Yuvraj  Sarin,Employee Referral,2023-10-14,Lead,Operations
+1398,Nitara Dhaliwal,LinkedIn,2023-04-01,Mid,Product
+1399,Miraan Bava,Indeed,2023-03-21,Senior,Operations
+1400,Vihaan Mangal,LinkedIn,2023-12-18,Junior,Product
+1401,Indrans Bala,Naukri,2024-04-25,Senior,Product
+1402,Aarav Kala,Naukri,2023-10-29,Senior,Marketing
+1403,Ritvik Tata,LinkedIn,2023-11-08,Senior,Engineering
+1404,Krish Bava,Indeed,2023-06-23,Junior,Finance
+1405,Lagan Chada,Glassdoor,2023-01-28,Senior,Product
+1406,Dhanush Khalsa,LinkedIn,2024-06-01,Junior,Sales
+1407,Ryan Srinivasan, LinkedIn,2023-10-15,Senior,Sales
+1408,Anaya Konda,LinkedIn,2023-04-25,Mid,Operations
+1409,Divij Rege,Employee Referral,2024-04-02,Senior,Marketing
+1410,Kabir Goyal,LINKEDIN,2023-08-30,Lead,Marketing
+1411,Tushar Chander,Company Website,2023-02-03,Senior,Engineering
+1412,Azad Deep,Glassdoor,2023-06-07,Lead,Product
+1413,Anahita Deep,Employee Referral,2023-09-01,Lead,Finance
+1414,Priyansh Manda,Indeed,2023-08-04,Senior,Engineering
+1415,Indrajit Shetty,Indeed,2023-04-29,Junior,Marketing
+1416,Dharmajan Sami,Naukri,2024-05-02,Senior,Product
+1417,Zara Madan,Employee Referral,2024-06-29,Mid,Product
+1418,Tanya Raja,Employee Referral,2024-02-04,Lead,Sales
+1419,Ishita Balasubramanian,LI,2024-03-21,Junior,Sales
+1420,Elakshi Kadakia,Campus Placement,2024-04-04,Lead,Finance
+1421,Kaira Wadhwa,linked in,2024-06-26,Junior,Engineering
+1422,Anika Doctor,Campus Placement,2023-12-29,Lead,Operations
+1423,Vivaan Zacharia,Campus Placement,2023-10-07,Senior,Sales
+1424,Damini Mangal,LINKEDIN,2023-04-11,Senior,Finance
+1425,Fateh Shukla,Indeed,2024-04-17,Mid,Finance
+1426,Jayant Chacko,Employee Referral,2023-07-19,Senior,Finance
+1427,Zara Char,Employee Referral,2023-07-04,Senior,Operations
+1428,Arnav Kakar,LinkedIn,2023-01-09,Junior,Engineering
+1429,Pihu Kalla,Naukri,2024-06-21,Junior,Finance
+1430,Mishti Borah,Naukri,2023-08-13,Senior,Sales
+1431,Samar Seth,linkedin.com,2023-01-25,Junior,Engineering
+1432,Dhruv Hari,Instagram,2023-08-11,Junior,Finance
+1433,Ishita Gaba,Instagram,2023-03-30,Mid,Product
+1434,Elakshi Karnik,Indeed,2023-07-09,Junior,Finance
+1435,Vedika Sarma,Linked In,2023-10-29,Lead,Finance
+1436,Faiyaz Johal,Instagram,2024-04-09,Senior,Product
+1437,Hunar Mander,Employee Referral,2023-11-28,Senior,Marketing
+1438,Emir Manda,Company Website,2023-10-11,Junior,Product
+1439,Vedika Dhar,Naukri,2023-03-03,Senior,Sales
+1440,Zain Deo,Linked In,2023-03-13,Lead,Marketing
+1441,Neysa Kibe,Indeed,2023-07-02,Lead,Engineering
+1442,Armaan Chadha,LI,2024-03-17,Mid,Operations
+1443,Yuvaan Bora,Indeed,2024-03-28,Senior,Engineering
+1444,Armaan Hora,LinkedIn,2023-03-14,Senior,Product
+1445,Prisha Dani,LinkedIn,2024-05-24,Mid,Finance
+1446,Shanaya Khanna,Indeed,2023-02-08,Lead,Sales
+1447,Umang Anne,LI,2023-12-04,Lead,Operations
+1448,Yashvi Doshi,LinkedIn,2024-05-17,Lead,Product
+1449,Ranbir Upadhyay,Naukri,2023-03-13,Mid,Engineering
+1450,Rasha Sani,Naukri,2024-05-08,Junior,Operations
+1451,Manikya Bhavsar,Indeed,2024-01-03,Senior,Finance
+1452,Shanaya Kant,linked in,2023-02-26,Junior,Sales
+1453,Priyansh Sethi,Indeed,2023-12-15,Junior,Product
+1454,Lavanya Roy,Employee Referral,2023-10-24,Mid,Marketing
+1455,Kanav Kant,Indeed,2024-01-29,Mid,Sales
+1456,Yuvraj  Shanker,Employee Referral,2023-04-20,Senior,Product
+1457,Tara Kuruvilla,LinkedIn,2024-03-24,Mid,Marketing
+1458,Bhavin Kurian,LinkedIn,2023-01-26,Mid,Product
+1459,Chirag Dugal,Naukri,2023-11-12,Lead,Operations
+1460,Himmat Sridhar,Instagram,2024-04-05,Junior,Engineering
+1461,Jayant Char,LinkedIn.com,2023-12-12,Junior,Product
+1462,Bhavin Dash,linkedin,2024-06-19,Lead,Finance
+1463,Amani Bakshi,Company Website,2023-06-02,Mid,Engineering
+1464,Renee Chaudhary,LinkedIn,2023-05-25,Lead,Finance
+1465,Tushar Tata,LinkedIn,2023-02-16,Mid,Finance
+1466,Dishani Issac,Indeed,2023-01-15,Mid,Finance
+1467,Pihu Aurora,LinkedIn,2023-11-11,Junior,Product
+1468,Umang Konda,Indeed,2023-03-07,Junior,Engineering
+1469,Jayesh Virk,Naukri,2023-08-14,Junior,Marketing
+1470,Khushi Majumdar,Naukri,2024-02-16,Senior,Engineering
+1471,Shray Bumb,Glassdoor,2023-05-21,Senior,Marketing
+1472,Siya Thakur,Employee Referral,2023-06-27,Senior,Engineering
+1473,Raunak Atwal,linkedin,2023-05-25,Lead,Marketing
+1474,Badal Bumb,Employee Referral,2023-06-18,Lead,Marketing
+1475,Madhup Sabharwal,Campus Placement,2023-02-11,Mid,Engineering
+1476,Parinaaz Chauhan,Company Website,2024-01-21,Mid,Engineering
+1477,Nehmat Jayaraman,Campus Placement,2023-03-24,Junior,Engineering
+1478,Vanya Sinha,Linked In,2023-04-02,Senior,Product
+1479,Anika Bhatti,Employee Referral,2024-05-02,Mid,Marketing
+1480,Kismat Suresh,LI,2023-10-05,Lead,Product
+1481,Mamooty Date, LinkedIn,2023-06-28,Junior,Operations
+1482,Riya Savant,Linked In,2024-05-26,Junior,Finance
+1483,Aarna Wason,Company Website,2023-11-05,Senior,Product
+1484,Stuvan Karpe,LinkedIn,2023-08-30,Mid,Engineering
+1485,Madhav Kaul,Glassdoor,2023-04-08,Senior,Operations
+1486,Parinaaz Lad,Naukri,2024-04-20,Mid,Sales
+1487,Keya Behl,LinkedIn,2023-04-26,Mid,Finance
+1488,Diya Saini,Company Website,2024-04-30,Lead,Marketing
+1489,Jhanvi Sabharwal,LI,2023-02-14,Junior,Finance
+1490,Rohan Sani,Naukri,2023-08-03,Lead,Sales
+1491,Anya Balay,LinkedIn.com,2024-04-09,Junior,Engineering
+1492,Raghav Reddy,Employee Referral,2023-06-30,Mid,Engineering
+1493,Raghav De,Naukri,2023-04-29,Junior,Marketing
+1494,Kanav Borde,Employee Referral,2023-11-30,Lead,Marketing
+1495,Bhavin Swaminathan,Employee Referral,2023-11-30,Mid,Engineering
+1496,Nitara Dutta,LinkedIn.com,2023-04-11,Mid,Finance
+1497,Saira Arya,Naukri,2023-07-24,Lead,Marketing
+1498,Ritvik Dayal,LinkedIn,2024-05-11,Junior,Product
+1499,Yuvaan Hari,LI,2024-04-10,Mid,Product
+1500,Keya Sathe,Naukri,2024-04-13,Mid,Finance
+1501,Shlok Seshadri,Naukri,2023-10-04,Mid,Sales
+1502,Piya Loke,linkedin,2023-03-03,Senior,Marketing
+1503,Oorja Gola,linkedin,2024-04-21,Lead,Product
+1504,Jayan Trivedi,Linked In,2023-12-18,Mid,Sales
+1505,Ritvik Bava,Indeed,2023-06-24,Mid,Engineering
+1506,Gokul Shanker,Naukri,2024-06-18,Lead,Marketing
+1507,Samaira Swamy,Indeed,2024-04-18,Senior,Engineering
+1508,Pihu Yogi,Employee Referral,2023-09-10,Mid,Sales
+1509,Neysa Basu,Naukri,2023-08-16,Mid,Operations
+1510,Sumer Choudhury,Campus Placement,2024-03-03,Junior,Engineering
+1511,Aaina Subramaniam,Glassdoor,2024-05-31,Junior,Product
+1512,Umang De,Indeed,2024-05-05,Junior,Product
+1513,Anahi Varghese,Naukri,2023-03-27,Junior,Finance
+1514,Anaya Bala,Employee Referral,2023-08-12,Mid,Sales
+1515,Anaya Walia,Linkedin,2023-04-03,Junior,Product
+1516,Damini Bhasin,Employee Referral,2023-06-15,Lead,Operations
+1517,Eva Dixit,Employee Referral,2023-01-25,Lead,Product
+1518,Baiju Virk,Employee Referral,2024-02-20,Mid,Sales
+1519,Hiran Chaudhry,Indeed,2023-01-02,Junior,Product
+1520,Yuvraj  Mane,Campus Placement,2023-12-07,Junior,Sales
+1521,Hridaan Dugar,Naukri,2023-10-04,Mid,Finance
+1522,Vanya Baria,LinkedIn,2023-12-10,Junior,Operations
+1523,Shamik Raval,Instagram,2024-01-08,Junior,Engineering
+1524,Saksham Ravel,Naukri,2024-04-21,Junior,Sales
+1525,Aarush Kara,Naukri,2023-03-10,Mid,Marketing
+1526,Lakshay Sidhu,Glassdoor,2023-09-02,Junior,Finance
+1527,Kashvi Singhal,Naukri,2023-08-03,Mid,Sales
+1528,Ayesha Srivastava,Naukri,2023-10-01,Lead,Sales
+1529,Hansh Rana,LinkedIn,2024-01-17,Senior,Product
+1530,Myra Kala,Naukri,2024-06-23,Junior,Product
+1531,Aaryahi Khare,Employee Referral,2024-06-29,Senior,Product
+1532,Aarush Bahl,Indeed,2023-03-09,Mid,Product
+1533,Sana Grover,LinkedIn,2024-02-05,Mid,Sales
+1534,Samarth Shukla,Instagram,2023-03-20,Junior,Marketing
+1535,Advik Sandhu,LINKEDIN,2023-06-01,Lead,Marketing
+1536,Mishti Sha,Campus Placement,2024-06-17,Junior,Sales
+1537,Mamooty Saran,Naukri,2023-05-16,Lead,Sales
+1538,Sahil Bhattacharyya,Naukri,2023-01-22,Senior,Marketing
+1539,Veer Krishnamurthy,LinkedIn,2023-08-26,Senior,Product
+1540,Ivan Bali,Indeed,2023-12-01,Lead,Operations
+1541,Rohan Dhillon,Employee Referral,2024-06-26,Lead,Product
+1542,Samiha Lad,linked in,2023-05-16,Senior,Marketing
+1543,Adira Wali,Company Website,2023-08-21,Lead,Sales
+1544,Shlok Yohannan,Glassdoor,2023-02-18,Mid,Sales
+1545,Taimur Sheth,Linkedin,2023-06-20,Mid,Finance
+1546,Ivan Tak,Indeed,2023-07-06,Mid,Finance
+1547,Advik Comar,Employee Referral,2023-06-07,Mid,Marketing
+1548,Samiha Bhatti,linkedin,2023-11-21,Mid,Product
+1549,Sana Apte,LINKEDIN,2023-07-08,Mid,Operations
+1550,Gatik Goswami,Employee Referral,2023-11-21,Senior,Marketing
+1551,Uthkarsh Vora,Naukri,2023-06-16,Senior,Engineering
+1552,Trisha Loke,Campus Placement,2024-02-19,Lead,Marketing
+1553,Kimaya Bajwa,Instagram,2023-11-24,Mid,Engineering
+1554,Neysa Toor,Glassdoor,2024-06-03,Senior,Finance
+1555,Badal Sant,Employee Referral,2024-04-30,Senior,Operations
+1556,Zeeshan Kapadia,Employee Referral,2024-03-28,Senior,Finance
+1557,Gatik Mahal,linkedin,2024-05-05,Junior,Marketing
+1558,Anika Sarna,Employee Referral,2023-04-30,Senior,Engineering
+1559,Lagan Saran,Naukri,2023-08-14,Lead,Sales
+1560,Romil Kade,LinkedIn,2023-02-26,Mid,Operations
+1561,Nitara Lad,Indeed,2023-10-12,Mid,Engineering
+1562,Misha Raman,LinkedIn,2024-04-01,Junior,Operations
+1563,Aaina Thakur,Naukri,2024-05-17,Senior,Operations
+1564,Diya Sem,Indeed,2023-02-27,Senior,Product
+1565,Raunak Bhandari,LI,2024-03-13,Senior,Product
+1566,Charvi Chaudhary,Naukri,2023-10-19,Senior,Sales
+1567,Vanya Deep,linked in,2024-04-01,Junior,Marketing
+1568,Taimur Sarraf,Employee Referral,2024-03-30,Lead,Product
+1569,Ritvik Buch,Linkedin,2024-03-10,Lead,Marketing
+1570,Ira Kothari,Company Website,2023-03-30,Mid,Marketing
+1571,Prisha Khosla,linked in,2024-06-21,Senior,Engineering
+1572,Miraan Agarwal,Instagram,2024-01-20,Junior,Engineering
+1573,Oorja Basu,Naukri,2023-10-07,Lead,Marketing
+1574,Kaira Sami,Indeed,2023-05-21,Mid,Marketing
+1575,Indrajit Bath,Company Website,2023-10-24,Lead,Engineering
+1576,Samaira Sengupta,Company Website,2023-11-06,Senior,Product
+1577,Onkar Rout,Indeed,2024-04-19,Mid,Engineering
+1578,Amani Divan,Company Website,2023-06-07,Senior,Sales
+1579,Anahi Bakshi,Instagram,2024-04-28,Junior,Finance
+1580,Jayant Vohra,Employee Referral,2023-10-22,Lead,Marketing
+1581,Riaan Gole,Naukri,2023-09-08,Junior,Engineering
+1582,Aaryahi Shankar,Employee Referral,2024-05-19,Junior,Operations
+1583,Divit Varghese,Employee Referral,2024-05-07,Lead,Sales
+1584,Aayush Varkey,Indeed,2024-05-02,Junior,Sales
+1585,Nitara Sabharwal,Naukri,2023-01-18,Senior,Marketing
+1586,Shalv Gola,Indeed,2023-05-30,Senior,Product
+1587,Misha Desai,Campus Placement,2023-05-19,Senior,Marketing
+1588,Umang Tandon,LinkedIn,2024-01-05,Lead,Finance
+1589,Jivin Bhandari,Campus Placement,2023-12-31,Junior,Sales
+1590,Yakshit Kari,Linkedin,2023-03-20,Mid,Finance
+1591,Veer Sant,Linked In,2023-04-07,Mid,Operations
+1592,Yasmin Kade,linked in,2023-11-20,Senior,Sales
+1593,Faiyaz Bhatti,Employee Referral,2024-01-07,Junior,Operations
+1594,Indranil Ben,Indeed,2023-05-28,Junior,Marketing
+1595,Kiara Khurana,Naukri,2024-01-17,Lead,Product
+1596,Jivin Ramaswamy,LinkedIn.com,2023-06-16,Junior,Marketing
+1597,Vanya Gola,LI,2023-08-15,Mid,Operations
+1598,Piya Wable,Indeed,2024-06-22,Junior,Product
+1599,Anya Kohli,Naukri,2023-03-20,Junior,Marketing
+1600,Zain Kannan,Campus Placement,2024-05-06,Senior,Sales
+1601,Chirag De,Employee Referral,2023-05-23,Lead,Operations
+1602,Abram Sarraf,Naukri,2023-12-17,Mid,Finance
+1603,Oorja Vohra,linked in,2023-05-02,Mid,Marketing
+1604,Ela Lal,Company Website,2023-05-26,Mid,Sales
+1605,Adah Sahota,linkedin,2023-05-14,Junior,Product
+1606,Anya Ghose,Employee Referral,2023-04-25,Junior,Engineering
+1607,Indrajit Tripathi,Employee Referral,2024-03-17,Junior,Marketing
+1608,Aayush Rout,linkedin,2024-06-09,Junior,Product
+1609,Dishani Vala,linkedin,2023-09-17,Junior,Engineering
+1610,Bhamini Virk,Linkedin,2023-01-11,Junior,Engineering
+1611,Dhanuk Sheth,Campus Placement,2023-07-30,Mid,Marketing
+1612,Samarth Dara,Employee Referral,2023-01-30,Junior,Marketing
+1613,Ranbir Bakshi,Company Website,2023-10-12,Senior,Sales
+1614,Ira Rout,LI,2024-05-27,Mid,Operations
+1615,Yuvaan Taneja,Indeed,2023-04-12,Junior,Operations
+1616,Dhanush Karpe,LinkedIn ,2023-07-16,Senior,Marketing
+1617,Zaina Mangat,Campus Placement,2023-01-05,Junior,Marketing
+1618,Dhruv Varty,Campus Placement,2024-05-01,Senior,Finance
+1619,Alia Dugar,Indeed,2024-03-26,Junior,Marketing
+1620,Charvi Sharma,Company Website,2024-01-24,Lead,Marketing
+1621,Ehsaan Jaggi,Naukri,2024-02-22,Junior,Sales
+1622,Armaan Mallick,linkedin,2023-04-23,Mid,Product
+1623,Divij Sule,Employee Referral,2023-10-23,Junior,Engineering
+1624,Diya Mand,LinkedIn.com,2023-04-29,Lead,Sales
+1625,Neysa Sampath,Naukri,2023-11-16,Lead,Marketing
+1626,Shlok Gopal,Indeed,2023-10-25,Lead,Marketing
+1627,Mamooty Uppal,Company Website,2024-05-02,Senior,Marketing
+1628,Shalv Mammen,LinkedIn,2024-05-18,Junior,Product
+1629,Saanvi Saha,Naukri,2023-03-29,Junior,Marketing
+1630,Saanvi Kara,Naukri,2023-04-15,Mid,Engineering
+1631,Divit Sibal,Naukri,2023-07-23,Senior,Marketing
+1632,Aarav Garde,Indeed,2024-02-18,Junior,Marketing
+1633,Myra Sura,Company Website,2024-05-26,Senior,Finance
+1634,Ira Lal,Employee Referral,2023-10-07,Lead,Sales
+1635,Rati Bera,Naukri,2024-02-19,Lead,Operations
+1636,Ivan Koshy,LINKEDIN,2024-04-10,Junior,Engineering
+1637,Saanvi Sharaf, LinkedIn,2024-05-24,Mid,Finance
+1638,Emir Datta,Instagram,2023-01-31,Junior,Finance
+1639,Kanav Bhasin,LinkedIn,2023-03-11,Lead,Finance
+1640,Madhav Karnik,LinkedIn,2023-07-03,Lead,Operations
+1641,Saanvi Gara,Employee Referral,2023-06-06,Senior,Operations
+1642,Tanya Johal,Indeed,2023-03-20,Lead,Product
+1643,Myra Toor,linkedin.com,2024-05-24,Lead,Operations
+1644,Trisha Walla,LINKEDIN,2023-12-18,Junior,Engineering
+1645,Amira Sahni,Glassdoor,2023-05-02,Lead,Product
+1646,Charvi Agate,linked in,2024-01-21,Lead,Product
+1647,Ishita Kalita,LinkedIn,2023-07-01,Senior,Finance
+1648,Diya Sridhar,Linked In,2024-03-17,Mid,Sales
+1649,Rania Mann,Employee Referral,2024-05-14,Junior,Operations
+1650,Sana Tandon,Employee Referral,2024-04-26,Lead,Operations
+1651,Ehsaan Hari,Company Website,2024-06-02,Junior,Product
+1652,Dishani Wadhwa,LINKEDIN,2024-01-22,Senior,Sales
+1653,Aaina Ramanathan,linked in,2023-01-29,Junior,Marketing
+1654,Raghav Issac,Company Website,2023-12-24,Junior,Finance
+1655,Ritvik Kara,LinkedIn.com,2023-04-10,Lead,Sales
+1656,Hiran Jhaveri,Glassdoor,2024-02-26,Senior,Engineering
+1657,Rati Mahal,Indeed,2023-09-11,Mid,Finance
+1658,Riya Shan,linked in,2023-03-28,Junior,Sales
+1659,Krish Cheema,linkedin,2023-06-23,Junior,Operations
+1660,Piya Gera,LinkedIn.com,2024-04-16,Lead,Operations
+1661,Rhea Sachar,Naukri,2024-03-07,Senior,Engineering
+1662,Damini Madan,Employee Referral,2023-01-23,Senior,Product
+1663,Rhea Bhardwaj,Indeed,2023-11-27,Junior,Product
+1664,Jhanvi Khatri,linkedin,2023-07-30,Senior,Product
+1665,Pari Shenoy,Naukri,2023-12-14,Mid,Operations
+1666,Aarna Swamy,Linkedin,2024-03-22,Mid,Product
+1667,Elakshi Bera,Indeed,2023-03-19,Mid,Sales
+1668,Vaibhav Bora,LINKEDIN,2023-11-01,Lead,Marketing
+1669,Oorja Bala,Indeed,2023-04-05,Junior,Operations
+1670,Priyansh Sheth,LinkedIn.com,2023-03-10,Lead,Product
+1671,Reyansh Sanghvi,LinkedIn ,2023-03-20,Senior,Operations
+1672,Hunar Tripathi,Company Website,2024-03-19,Senior,Marketing
+1673,Prisha Srinivasan,Naukri,2023-09-15,Lead,Finance
+1674,Lagan Shetty,Employee Referral,2023-07-04,Junior,Finance
+1675,Taimur Talwar,Employee Referral,2023-07-11,Lead,Marketing
+1676,Ehsaan Randhawa,Indeed,2024-04-23,Senior,Finance
+1677,Shanaya Sabharwal,Indeed,2024-03-20,Junior,Operations
+1678,Miraan Kumer,linkedin.com,2024-04-18,Mid,Marketing
+1679,Rania Salvi,LI,2023-11-04,Lead,Product
+1680,Vaibhav Hari,linked in,2023-03-07,Mid,Product
+1681,Vedika Sani,LINKEDIN,2023-10-21,Mid,Sales
+1682,Ishita Bala,Employee Referral,2023-08-30,Lead,Marketing
+1683,Shanaya Dass,linkedin,2023-07-16,Junior,Marketing
+1684,Miraya Vig,Company Website,2023-11-14,Lead,Product
+1685,Mamooty Ravel,Indeed,2024-03-22,Lead,Finance
+1686,Tanya Raja,Campus Placement,2023-07-26,Mid,Sales
+1687,Urvi Seshadri,linkedin,2023-09-22,Senior,Finance
+1688,Ritvik Kapur,Indeed,2023-02-13,Lead,Engineering
+1689,Pihu Barad,LinkedIn,2023-03-27,Senior,Operations
+1690,Jayant Shah,Linkedin,2023-03-07,Lead,Sales
+1691,Uthkarsh Bahri,Employee Referral,2023-04-03,Lead,Finance
+1692,Ranbir Mall,Company Website,2023-08-30,Junior,Operations
+1693,Hansh Buch,Employee Referral,2023-05-04,Senior,Product
+1694,Aarush Gandhi,Campus Placement,2023-09-01,Junior,Sales
+1695,Rhea Brahmbhatt,LinkedIn.com,2024-02-04,Mid,Product
+1696,Indrans Edwin,LinkedIn ,2023-04-20,Mid,Marketing
+1697,Urvi Rattan,Glassdoor,2024-03-26,Lead,Sales
+1698,Ayesha Subramanian,Company Website,2023-02-27,Lead,Operations
+1699,Devansh Srinivasan,Naukri,2023-04-26,Senior,Operations
+1700,Eshani Choudhary,Naukri,2023-09-10,Senior,Marketing
+1701,Elakshi Bandi,Naukri,2024-01-12,Senior,Engineering
+1702,Zeeshan Magar,Indeed,2023-02-05,Junior,Finance
+1703,Divij Ghosh,Campus Placement,2023-09-03,Senior,Operations
+1704,Lakshit Saini,Naukri,2024-01-07,Junior,Operations
+1705,Shalv Gole,Company Website,2024-03-29,Lead,Engineering
+1706,Madhav Shetty,Campus Placement,2024-02-07,Senior,Sales
+1707,Jhanvi Tata,LinkedIn,2023-08-30,Senior,Marketing
+1708,Farhan Sami,Company Website,2023-06-14,Lead,Finance
+1709,Alia Dara,linked in,2024-02-21,Junior,Sales
+1710,Arnav Sanghvi,Company Website,2024-05-18,Lead,Finance
+1711,Vaibhav Sunder,Naukri,2023-12-07,Lead,Engineering
+1712,Veer Dave,Company Website,2023-09-25,Junior,Sales
+1713,Anay Kuruvilla,Naukri,2023-12-01,Lead,Finance
+1714,Drishya Suri,LinkedIn,2023-02-23,Mid,Finance
+1715,Aradhya Bains,Naukri,2023-05-20,Junior,Product
+1716,Nehmat Char,linkedin.com,2023-11-09,Senior,Operations
+1717,Drishya Barman,LinkedIn,2023-06-11,Mid,Operations
+1718,Ivan Som,Employee Referral,2023-05-14,Lead,Sales
+1719,Mishti Bali,Naukri,2023-05-17,Senior,Marketing
+1720,Oorja Rau,Employee Referral,2023-12-02,Senior,Marketing
+1721,Piya Kala,LinkedIn,2024-01-12,Mid,Product
+1722,Lagan Luthra,Campus Placement,2023-08-18,Junior,Engineering
+1723,Neelofar Taneja,Campus Placement,2023-08-23,Junior,Product
+1724,Siya Sankar,linkedin.com,2023-06-22,Junior,Product
+1725,Anay Karpe,Indeed,2023-09-24,Mid,Engineering
+1726,Armaan Bassi,Instagram,2023-06-24,Junior,Engineering
+1727,Baiju Chakraborty,Employee Referral,2024-03-21,Lead,Finance
+1728,Ivana Banik,Naukri,2023-08-18,Mid,Marketing
+1729,Pranay Jani,Instagram,2023-09-30,Senior,Finance
+1730,Alisha Rau,Naukri,2023-05-14,Lead,Marketing
+1731,Adah Dugar,Indeed,2023-10-17,Mid,Product
+1732,Vidur Samra,Linked In,2023-05-30,Junior,Sales
+1733,Hazel Aggarwal,Glassdoor,2023-08-30,Lead,Marketing
+1734,Tanya Sharma,Naukri,2024-04-14,Junior,Engineering
+1735,Rati Vala,Naukri,2023-11-28,Lead,Finance
+1736,Taimur Krishnamurthy,LinkedIn ,2024-01-28,Lead,Finance
+1737,Riaan Srivastava,Indeed,2023-03-16,Junior,Operations
+1738,Mahika Bassi,LinkedIn,2023-12-07,Mid,Product
+1739,Tarini Kanda,Campus Placement,2023-02-16,Junior,Sales
+1740,Vivaan Tara,Naukri,2024-01-26,Senior,Product
+1741,Anika Brar,Employee Referral,2023-05-16,Junior,Operations
+1742,Himmat Shenoy,Linked In,2023-06-23,Lead,Sales
+1743,Yashvi Sur,Campus Placement,2023-05-16,Junior,Sales
+1744,Myra Bora,Employee Referral,2024-03-19,Mid,Sales
+1745,Parinaaz Wali,linkedin,2023-02-15,Mid,Product
+1746,Aayush Malhotra,Company Website,2023-10-15,Senior,Product
+1747,Gatik Bail,Linkedin,2023-09-27,Senior,Operations
+1748,Kaira Raju,linked in,2023-06-18,Senior,Finance
+1749,Heer Mahal,Glassdoor,2023-06-04,Lead,Engineering
+1750,Ryan Cheema,linkedin.com,2023-02-25,Mid,Marketing
+1751,Lakshit Jhaveri,LinkedIn,2023-09-24,Mid,Finance
+1752,Ishaan Chanda,Naukri,2023-04-29,Lead,Engineering
+1753,Mannat Tiwari,Naukri,2024-05-11,Lead,Product
+1754,Kartik Bhandari,linkedin,2023-06-01,Junior,Sales
+1755,Oorja Sura,linkedin,2023-10-18,Mid,Marketing
+1756,Suhana Maharaj,Employee Referral,2023-10-07,Mid,Operations
+1757,Neelofar Maharaj,Glassdoor,2023-01-05,Mid,Product
+1758,Riaan Sampath,Campus Placement,2023-09-10,Lead,Finance
+1759,Ojas Bawa,linkedin,2023-12-03,Junior,Sales
+1760,Samaira Mannan,Employee Referral,2023-05-05,Lead,Sales
+1761,Shalv Gokhale,Indeed,2023-04-19,Senior,Marketing
+1762,Oorja Sagar,LinkedIn,2024-04-16,Lead,Product
+1763,Divyansh Dhar,Indeed,2023-10-03,Junior,Sales
+1764,Kartik Dutt,Glassdoor,2024-04-08,Senior,Finance
+1765,Alisha Gala,Glassdoor,2023-05-13,Mid,Engineering
+1766,Rania Master,Company Website,2023-10-17,Senior,Engineering
+1767,Jivika Mander,Employee Referral,2024-01-26,Junior,Product
+1768,Zara Dugar, LinkedIn,2023-09-03,Lead,Engineering
+1769,Jayan Agate,LinkedIn,2023-08-02,Mid,Product
+1770,Nishith Srivastava,Company Website,2023-10-19,Mid,Engineering
+1771,Riya Shankar,Linkedin,2024-03-18,Senior,Finance
+1772,Raghav Trivedi,Indeed,2024-01-03,Junior,Sales
+1773,Himmat Sane,Naukri,2024-05-16,Lead,Product
+1774,Anvi Kashyap,Naukri,2024-03-09,Junior,Product
+1775,Taimur Soman,Company Website,2023-07-10,Lead,Finance
+1776,Aradhya Majumdar,Naukri,2023-02-11,Senior,Product
+1777,Jayant Roy,Employee Referral,2023-06-08,Lead,Operations
+1778,Ranbir Varughese,Indeed,2024-06-21,Junior,Sales
+1779,Heer Chaudhari,Naukri,2023-03-23,Lead,Sales
+1780,Sana Wali,LI,2023-05-11,Senior,Marketing
+1781,Samiha Barad,Naukri,2023-10-30,Junior,Operations
+1782,Dishani Raval,LinkedIn,2023-02-16,Junior,Operations
+1783,Kavya Mann,Naukri,2023-04-07,Lead,Finance
+1784,Tiya Rajagopal,Employee Referral,2023-09-17,Senior,Sales
+1785,Armaan Majumdar,Indeed,2024-05-30,Junior,Engineering
+1786,Inaaya  Warrior,Employee Referral,2024-04-18,Mid,Marketing
+1787,Neysa Soman,Company Website,2023-02-16,Junior,Product
+1788,Tejas Hayre,Campus Placement,2023-11-01,Senior,Operations
+1789,Trisha Raja,Employee Referral,2024-04-05,Senior,Sales
+1790,Himmat Kata,Glassdoor,2023-07-11,Mid,Marketing
+1791,Vivaan Gopal,LinkedIn,2023-09-23,Junior,Product
+1792,Nitara Dar,Indeed,2023-01-06,Lead,Engineering
+1793,Tanya Kurian,LinkedIn,2024-05-03,Lead,Finance
+1794,Alia Buch,Naukri,2024-05-13,Senior,Operations
+1795,Jivika Mandal,Company Website,2024-01-05,Lead,Sales
+1796,Sara Setty,LinkedIn,2023-05-19,Junior,Marketing
+1797,Taimur Bahri,linkedin,2023-01-17,Mid,Engineering
+1798,Tara Kohli,linkedin.com,2023-05-29,Mid,Product
+1799,Chirag Deo,Company Website,2023-07-15,Junior,Sales
+1800,Mehul Bail,Employee Referral,2023-06-01,Lead,Product
+12,Kashvi Char,LinkedIn ,2023-10-01,Mid,Sales
+60,Gokul Sahni,Naukri,2024-04-23,Senior,Product
+86,Heer Kapur,Indeed,2023-04-30,Mid,Sales
+79,Divit Bava,LinkedIn.com,2024-01-25,Senior,Product
+228,Himmat Verma,Employee Referral,2024-03-31,Junior,Engineering
+249,Dhanuk Rajagopalan,Indeed,2024-01-23,Lead,Product
+242,Jivika Chopra,Naukri,2023-06-11,Lead,Marketing
+11,Mishti Ranganathan,Indeed,2023-04-14,Junior,Operations
+231,Amani Gade,Indeed,2024-04-11,Lead,Engineering
+125,Purab Dhaliwal,LinkedIn ,2023-03-27,Mid,Marketing
+104,Kabir Banerjee,Employee Referral,2024-04-05,Junior,Engineering
+151,Anaya Choudhry,LI,2023-01-16,Lead,Engineering
+292,Ishita Dhingra,Indeed,2023-05-28,Senior,Sales
+201,Manjari Tandon,Employee Referral,2023-09-27,Lead,Finance
+27,Zara Dugar,Company Website,2024-02-24,Mid,Marketing
+171,Dishani Dubey,Company Website,2024-01-28,Senior,Finance
+5,Tarini Ganguly,Indeed,2023-08-31,Lead,Engineering
+53,Hrishita Sood,Employee Referral,2023-08-22,Mid,Marketing
+222,Adira Kibe,Linked In,2023-02-26,Mid,Finance
+213,Zeeshan Jani,Naukri,2023-07-17,Junior,Product
+254,Nitara Goyal,Naukri,2023-10-09,Mid,Operations
+297,Kabir Bal,Employee Referral,2024-06-05,Senior,Engineering
+284,Saksham Bhasin,LI,2023-03-07,Lead,Engineering
+149,Priyansh Buch,Indeed,2023-10-25,Lead,Finance
+19,Lakshay Sampath,Campus Placement,2023-02-25,Junior,Finance
+250,Ehsaan Sarin,LinkedIn.com,2024-01-16,Senior,Finance
+205,Navya Devi,Naukri,2023-05-26,Junior,Engineering
+263,Samarth Varkey,Naukri,2023-03-24,Senior,Operations
+119,Indranil Kanda,LinkedIn,2023-02-27,Mid,Marketing
+32,Hridaan Deo,Company Website,2023-08-19,Mid,Product
+271,Ivana Ahluwalia,Naukri,2023-12-26,Senior,Finance
+10,Uthkarsh Baral,Campus Placement,2023-03-18,Junior,Product
+217,Tarini Mani,LinkedIn.com,2023-06-02,Junior,Sales
+296,Anvi Kannan,Employee Referral,2024-06-26,Junior,Finance
+162,Shray Sethi,Company Website,2023-09-03,Lead,Marketing
+33,Nishith Sharma,Naukri,2023-08-24,Mid,Engineering
+138,Adah Bhatt,LinkedIn,2023-07-02,Lead,Operations
+214,Hrishita Kaul,LinkedIn,2023-08-09,Junior,Engineering
+243,Rati Dave,Company Website,2023-12-26,Senior,Engineering
+178,Romil Dhar,Naukri,2023-07-07,Mid,Marketing
