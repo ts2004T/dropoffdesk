@@ -14,10 +14,16 @@ with engine.connect() as conn:
     print("✅ Old tables dropped")
 
 # Load in dependency order (parents first, children last)
-tables = ['recruiters', 'roles', 'candidates', 'pipeline_events', 'offers']
+files = {
+    'recruiters':      '../data/clean/recruiters_clean.csv',
+    'roles':           '../data/clean/roles_clean.csv',
+    'candidates':      '../data/clean/candidates_clean.csv',
+    'pipeline_events': '../data/clean/pipeline_events_clean.csv',
+    'offers':          '../data/clean/offers_clean.csv',
+}
 
-for table in tables:
-    df = pd.read_csv(f'../data/raw/{table}.csv')
+for table, filepath in files.items():
+    df = pd.read_csv(filepath)
     df.to_sql(table, engine, if_exists='replace', index=False)
     print(f"✅ Loaded {len(df):,} rows into {table}")
 
