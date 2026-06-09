@@ -1,126 +1,125 @@
 # DropoffDesk — Hiring Funnel Intelligence Platform
 
-> **End-to-end hiring pipeline analysis:** PostgreSQL schema design · Python data pipeline · SQL window functions · Statistical testing · Power BI dashboard · Executive memo
+![Project Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
+
+A full-stack data analytics project investigating a 23% offer acceptance rate decline and 46% time-to-hire increase across a fictional company's hiring pipeline — using PostgreSQL, Python, statistical testing, and Power BI, with a 6-month pipeline velocity forecast.
 
 ---
 
 ## The Business Problem
 
-A talent acquisition team saw offer acceptance rates drop **23% in Q4** and time-to-hire balloon from **28 to 41 days** in engineering roles. No one knew why.
+A talent acquisition team saw offer acceptance rates drop 23% in Q4 and time-to-hire balloon from 28 to 41 days in engineering roles. No one knew why.
 
-This project investigates the root cause using 18 months of hiring pipeline data — identifying recruiter-level bottlenecks, sourcing channel inefficiencies, and projecting whether Q3 headcount targets will be met at current pipeline velocity.
+This project answers five key questions:
 
-**The deliverable is not an app. It is an answer — backed by data.**
-
----
-
-## Stakeholders
-
-| Stakeholder                | Question Answered                                           |
-| -------------------------- | ----------------------------------------------------------- |
-| Head of Talent Acquisition | Which recruiters and channels are underperforming?          |
-| HR VP                      | Why did offer acceptance decline and what should we do?     |
-| Department Heads           | When will our open roles be filled?                         |
-| CFO                        | Which sourcing channels cost the most and return the least? |
+1. At which pipeline stage are candidates being lost — and which recruiters have the worst conversion?
+2. Where is time being lost in the hiring process, and is it recruiter-specific or pipeline-wide?
+3. Which sourcing channels deliver the highest quality candidates, not just the highest volume?
+4. Is the time-to-hire increase concentrated in Engineering, or is it a company-wide trend?
+5. At current pipeline velocity, will Q3 headcount targets be met?
 
 ---
 
-## KPIs Defined From Scratch
+## Key Findings
 
-| KPI                      | Definition                                                   |
-| ------------------------ | ------------------------------------------------------------ |
-| Stage Conversion Rate    | % of candidates passing each pipeline stage                  |
-| Median Time-in-Stage     | Median (not mean) days at each stage — resistant to outliers |
-| Source Quality Index     | Offers extended / Applications from source                   |
-| Offer Acceptance Rate    | % of offers accepted, trended monthly                        |
-| Time-to-Hire (TTH)       | Days from application to accepted offer                      |
-| Cost-per-Hire (estimate) | Sourcing channel volume × recruiter time proxy               |
+| Finding                | Detail                                                                               |
+| ---------------------- | ------------------------------------------------------------------------------------ |
+| **TTH bottleneck**     | Two recruiters process candidates 2–3× slower than peers despite equal workload      |
+| **Slowest recruiter**  | Jhanvi Chaudhary — median 24 days vs team average of 8–9 days                        |
+| **Bottleneck stage**   | Technical Screening median increased from 4 → 11 days in Q4                          |
+| **Acceptance decline** | NOT correlated with recruiter speed — r = 0.046 (p > 0.05)                           |
+| **TTH significance**   | Engineering vs non-Engineering TTH: p < 0.05 — department-specific, not company-wide |
+| **Best channel**       | Employee Referrals and Direct Applications show highest Source Quality Index         |
+| **Forecast risk**      | Q3 headcount targets at risk if screening bottleneck persists                        |
 
 ---
 
-## Tech Stack
+## Dashboard Preview
 
-| Tool                   | Role                                                |
-| ---------------------- | --------------------------------------------------- |
-| PostgreSQL             | Primary database — 5-table normalised schema        |
-| Python (Faker, Pandas) | Synthetic data generation + cleaning pipeline       |
-| scipy                  | Statistical tests (t-test, chi-square, correlation) |
-| matplotlib             | Forecasting visualisation                           |
-| Power BI + DAX         | 4-page stakeholder dashboard                        |
-| Git + GitHub           | Version control                                     |
+### Executive Summary
+
+![Executive Summary](docs/executive_summary.png)
+
+### Source Channel ROI
+
+![Source Channel ROI](docs/source_channel_roi.png)
+
+### Funnel Analysis
+
+![Funnel Analysis](docs/funnel_analysis.png)
+
+### Recruiter Performance
+
+![Recruiter Performance](docs/recruiter_performance.png)
 
 ---
 
 ## Project Architecture
 
-```
-Raw Synthetic Data (Faker + Python, 1,800 candidates, 18 months)
-        ↓
-PostgreSQL — 5-table normalised schema
-        ↓
-Python Cleaning Pipeline (Pandas) — dedup, standardise, flag
-        ↓
-SQL Analyses — 8 core queries (funnel, TTH, source ROI, recruiter variance)
-        ↓
-Statistical Tests — t-test, chi-square, correlation (Python / scipy)
-        ↓
-Forecasting — pipeline velocity regression, 6-month projection
-        ↓
-Power BI Dashboard — 4 pages, recruiter slicer, DAX measures
-        ↓
-Business Memo (PDF) — Situation → Finding → Root Cause → Recommendation
-```
-
----
-
-## Repository Structure
-
-```
+```text
 dropoffdesk/
-├── sql/
-│   ├── schema.sql              # 5-table normalised schema
-│   ├── cleaning.sql            # SQL cleaning queries
-│   └── analysis.sql            # 8 core business queries (in progress)
-│
-├── notebooks/
-│   ├── generate_data.py        # Synthetic data generator with intentional quality issues
-│   ├── clean_pipeline.py       # Data cleaning pipeline
-│   ├── import_to_postgres.py   # Loads clean CSVs into PostgreSQL
-│   ├── stats_analysis.ipynb    # Statistical testing (coming)
-│   └── forecast.ipynb          # Hiring forecast model (coming)
-│
 ├── data/
-│   ├── raw/                    # Original generated CSVs (not committed to Git)
-│   ├── clean/                  # Cleaned versions after pipeline
-│   └── reference/              # Benchmark references
-│
+│   ├── raw/                          # Generated CSVs — excluded from Git
+│   └── clean/                        # Cleaned datasets after pipeline
+├── notebooks/
+│   ├── generate_data.py              # Synthetic data generator (Faker, 1,800 candidates)
+│   ├── clean_pipeline.py             # Data cleaning pipeline
+│   ├── import_to_postgres.py         # PostgreSQL loader — excluded from Git
+│   ├── stats_analysis.ipynb          # t-test, chi-square, Pearson correlation
+│   └── forecast.ipynb                # Linear regression pipeline velocity forecast
+├── sql/
+│   ├── schema.sql                    # 5-table normalised schema with CASCADE drops
+│   └── analysis.sql                  # 8 core business queries
 ├── dashboard/
-│   └── DropoffDesk.pbix        # Power BI dashboard (coming)
-│
+│   └── DropoffDesk.pbix              # Power BI dashboard — 4 pages, DAX measures
 ├── docs/
-│   ├── data_quality_log.md     # Every data issue found, root cause, and resolution
-│   └── business_memo.pdf       # 1-page analyst memo to HR VP (coming)
-│
+│   ├── data_quality_log.md           # Every data issue, root cause, and resolution
+│   ├── business_memo.md              # Analyst memo to HR VP
+│   ├── business_memo.pdf             # PDF export
+│   └── forecast_chart.png            # 6-month pipeline velocity projection
+├── .gitignore
 └── README.md
 ```
 
 ---
 
-## Dataset
+## Tech Stack
 
-**Synthetic data generated using Python Faker** — 1,800 candidates across 18 months with 5 related tables. Real HR data is private; interviewers expect synthetic data for this domain and evaluate the schema design and cleaning complexity instead.
+| Tool                 | Purpose                                                                      |
+| -------------------- | ---------------------------------------------------------------------------- |
+| **PostgreSQL**       | Primary data store — 5-table normalised schema                               |
+| **Python 3.12**      | Synthetic data generation, cleaning pipeline, statistical tests, forecasting |
+| **pandas / numpy**   | Data manipulation and cleaning                                               |
+| **scipy**            | Statistical testing (t-test, chi-square, Pearson correlation)                |
+| **scikit-learn**     | Linear regression forecasting model                                          |
+| **matplotlib**       | Forecast visualisation                                                       |
+| **SQLAlchemy**       | PostgreSQL connection and data loading                                       |
+| **Power BI Desktop** | 4-page interactive dashboard with DAX measures                               |
+| **Git / GitHub**     | Version control                                                              |
 
-**Intentional data quality issues built in:**
+---
 
-| Issue                           | Root Cause Simulated           | Cleaning Technique                      |
-| ------------------------------- | ------------------------------ | --------------------------------------- |
-| 40 duplicate candidate_ids      | CRM migration in Month 7       | Deduplication — keep earliest record    |
-| 11 variants of "LinkedIn"       | No dropdown enforcement in ATS | String standardisation via LOWER + TRIM |
-| 3 orphaned candidates           | CRM sync failure               | Flagged with `has_events` boolean       |
-| NULL reject_reason (~23%)       | Lazy recruiter data entry      | Labelled "Not Provided" — not imputed   |
-| offer_date after join_date (6%) | Manual data entry error        | Flagged with `date_inversion_flag`      |
+## Data
+
+**Source:** Synthetic data generated with Python Faker — designed to mirror real HR system data quality issues  
+**Coverage:** 18 months of hiring pipeline data, 1,800 candidates  
+**Schema:** 5 related tables — candidates, pipeline_events, recruiters, offers, roles  
+**Intentional quality issues built in:**
+
+| Issue                               | Simulated Root Cause        | Cleaning Technique                      |
+| ----------------------------------- | --------------------------- | --------------------------------------- |
+| 40 duplicate candidate_ids          | CRM migration in Month 7    | Deduplication — keep earliest record    |
+| 11 LinkedIn source_channel variants | No ATS dropdown enforcement | String standardisation via LOWER + TRIM |
+| 3 orphaned candidates               | CRM sync failure            | Flagged with `has_events` boolean       |
+| NULL reject_reason (~23%)           | Lazy recruiter data entry   | Labelled "Not Provided" — not imputed   |
+| offer_date after join_date (6%)     | Manual data entry error     | Flagged with `date_inversion_flag`      |
 
 Full documentation: [`docs/data_quality_log.md`](docs/data_quality_log.md)
+
+> Raw data files and the PostgreSQL import script are excluded from this repository. The cleaning pipeline documents all transformations applied.
 
 ---
 
@@ -136,61 +135,90 @@ roles(role_id, title, department, level, headcount_target, open_date, closed_dat
 
 ---
 
-## Progress
+## How to Run
 
-| Phase | Description                                            | Status         |
-| ----- | ------------------------------------------------------ | -------------- |
-| 1     | Schema design & synthetic data generation              | ✅ Complete    |
-| 2     | Data cleaning pipeline & quality log                   | ✅ Complete    |
-| 3     | SQL analysis — 8 core queries                          | 🔄 In Progress |
-| 4     | Statistical analysis (t-test, chi-square, correlation) | ⬜ Pending     |
-| 5     | Forecasting — pipeline velocity regression             | ⬜ Pending     |
-| 6     | Power BI dashboard — 4 pages with DAX                  | ⬜ Pending     |
-| 7     | Business memo — Situation → Finding → Recommendation   | ⬜ Pending     |
-| 8     | GitHub cleanup & LinkedIn post                         | ⬜ Pending     |
+**1. Clone the repo**
 
----
+```bash
+git clone https://github.com/ts2004T/dropoffdesk.git
+cd dropoffdesk
+```
 
-## Key Findings
+**2. Create and activate virtual environment**
 
-_To be completed as analysis progresses._
+```bash
+python -m venv venv
+venv\Scripts\activate.bat        # Windows
+```
 
----
+**3. Install dependencies**
 
-## Interview Talking Point
+```bash
+pip install faker pandas sqlalchemy psycopg2-binary scipy scikit-learn matplotlib
+```
 
-> "DropoffDesk started as a simple pipeline tracker idea, but the real analytical challenge was the question no one had answered: why did offer acceptance rates fall 23% in Q4? I designed a schema that captured stage-level events, recruiter attribution, and sourcing channels — deliberately built in the kinds of data quality issues real HR systems have, like inconsistent source labels and date entry errors. The core insight came from a PERCENTILE_CONT query that showed the median time in the technical screening stage had increased from 4 days to 11 days, concentrated in two recruiters. That's the kind of finding that changes a hiring manager's week."
-
----
-
-## Running This Project
-
-> Connection credentials are stored locally and not committed to Git.
-
-**1. Generate data:**
+**4. Generate and clean data**
 
 ```bash
 cd notebooks
 python generate_data.py
-```
-
-**2. Clean data:**
-
-```bash
 python clean_pipeline.py
 ```
 
-**3. Load to PostgreSQL:**
+**5. Load to PostgreSQL**
 
 ```bash
-python import_to_postgres.py
+# Create your own import_to_postgres.py using the schema in sql/schema.sql
+# Connection string: postgresql://postgres:YOUR_PASSWORD@localhost:5432/dropoffdesk
 ```
 
-**4. Open `sql/analysis.sql` in DBeaver connected to `dropoffdesk` database**
+**6. Run SQL analysis**
+
+Open `sql/analysis.sql` in DBeaver connected to the `dropoffdesk` database.
+
+**7. Run notebooks in order**
+
+1. `notebooks/stats_analysis.ipynb`
+2. `notebooks/forecast.ipynb`
+
+---
+
+## Business Recommendations
+
+Five actionable recommendations derived from the analysis:
+
+1. **Implement a 5-day SLA on Technical Screening** — flag candidates uncontacted after 3 days; coaching for the two bottleneck recruiters is the single highest-leverage action available
+2. **Deploy an offer-decline exit survey** — 3 questions on compensation expectations, timeline experience, and competing offer; the acceptance decline cannot be diagnosed without candidate-side signal
+3. **Reallocate LinkedIn budget to referrals** — Employee Referrals and Direct Applications show 2× higher Source Quality Index than paid social channels
+4. **Address Engineering-specific TTH** — the increase is statistically significant in Engineering only (p < 0.05); a blanket company-wide policy response would be misdirected
+5. **Q3 headcount risk — act now** — at current pipeline velocity, open roles will not be filled before quarter end; the screening bottleneck is the only controllable variable
+
+Full analysis: [docs/business_memo.md](docs/business_memo.md)
+
+---
+
+## Project Phases
+
+- [x] Phase 1: Schema design & synthetic data generation
+- [x] Phase 2: Data cleaning pipeline & quality log
+- [x] Phase 3: SQL analysis — 8 core queries (funnel, TTH, source ROI, recruiter variance)
+- [x] Phase 4: Statistical testing — t-test, chi-square, Pearson correlation
+- [x] Phase 5: Pipeline velocity forecasting — linear regression, 6-month projection
+- [x] Phase 6: Power BI dashboard — 4 pages, recruiter slicer, DAX measures
+- [x] Phase 7: Business memo — Situation → Finding → Root Cause → Recommendation
+- [x] Phase 8: GitHub cleanup & portfolio finalisation
 
 ---
 
 ## Author
 
 **Tanishka Suryawanshi**  
-Data Analytics Portfolio Project — 2026
+BTech CSE from SRM University  
+Bengaluru, India  
+[LinkedIn](https://linkedin.com/in/your-linkedin) • [GitHub](https://github.com/ts2004T)
+
+---
+
+## Resume Bullet
+
+> Built end-to-end hiring funnel analytics platform on PostgreSQL and Power BI, investigating a 23% offer acceptance rate decline across 1,800 synthetic candidates; identified recruiter-level TTH bottleneck (2–3× slower processing) via PERCENTILE_CONT SQL analysis and confirmed non-correlation with acceptance decline using Pearson r = 0.046; delivered 6-month pipeline velocity forecast and 5 actionable recommendations in a stakeholder memo.
